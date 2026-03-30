@@ -1,0 +1,63 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:17:17
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de formule $U = 60 + 10 \\cdot A$ goed bekeken en ik wil dit heel nauwkeurig aanpakken. Moet ik eerst de uitgaven $U$ voor het jaar 2018 berekenen door die 4,5 consulten in te vullen?
+Zou je me kunnen uitleggen wat de beste volgende stap is om het verschil tussen 2018 en 2020 precies te bepalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:17:28
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je de formule $U = 60 + 10 \cdot A$ begrijpt en wilt toepassen! Het is inderdaad een goed idee om eerst de uitgaven $U$ voor 2018 te berekenen door de gemiddelde consulten van 4,5 in te vullen. Dit geeft je het uitgangspunt van de uitgaven voor dat jaar.
+Hier zijn de stappen die je kunt volgen:
+1. **Bereken de uitgaven voor 2018:** Vul de gemiddelde consulten van 4,5 in voor $A$ in de formule. Dus $U_{2018} = 60 + 10 \cdot 4,5$.
+2. **Bereken het gemiddelde aantal consulten voor 2020:** Je weet dat het aantal consulten in 2020 10% hoger was dan in 2018. Dit betekent dat je $A_{2020} = 4,5 \cdot 1,10$ moet berekenen.
+3. **Bereken de uitgaven voor 2020:** Gebruik de nieuwe waarde voor $A_{2020}$ in de formule om de uitgaven voor 2020 te bepalen: $U_{2020} = 60 + 10 \cdot A_{2020}$.
+4. **Bepaal het verschil in procenten:** Gebruik de waarden van $U_{2018}$ en $U_{2020}$ om het percentage verschil te berekenen. Dit doe je door de formule:
+$$ \frac{U_{2020} - U_{2018}}{U_{2018}} \times 100 $$
+Na deze stappen zou je moeten kunnen bepalen hoeveel procent de uitgaven in 2020 hoger zijn dan in 2018. Probeer het zelf uit te rekenen, en laat maar weten of je ergens tegenaan loopt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:17:43
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb voor 2018 de berekening $60 + 10 \\cdot 4,5$ gemaakt en kom uit op precies 105 euro. Voor 2020 heb ik het aantal consulten berekend als $4,5 \\cdot 1,10$, wat uitkomt op 4,95 consulten.
+Moet ik nu die 4,95 weer in de formule invullen om het nieuwe bedrag voor $U$ te vinden?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:17:50
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, precies! Je bent op de goede weg. Nu je het aantal consulten voor 2020 hebt berekend als 4,95, is de volgende stap om dit in de formule van $U$ te gebruiken om de uitgaven voor 2020 te berekenen.
+Dus je zult nu de formule $U = 60 + 10 \cdot A$ opnieuw gebruiken, maar deze keer met $A = 4,95$. Op deze manier kun je de uitgaven voor 2020 bepalen.
+Bereken $U_{2020} = 60 + 10 \cdot 4,95$ en kijk wat je uitkomst is. Dit geeft je de uitgaven aan huisartsenzorg per persoon in 2020. Daarna kun je verder met het berekenen van hoeveel procent de uitgaven zijn gestegen ten opzichte van 2018. Laat maar weten als je hulp nodig hebt met het vervolgen van de berekening!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:18:09
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb $60 + 10 \\cdot 4,95$ uitgerekend en dat is precies 109,50 euro voor het jaar 2020. Nu moet ik het procentuele verschil met de 105 euro uit 2018 berekenen met de formule $\\frac{nieuw - oud}{oud} \\cdot 100$.
+Is het de bedoeling dat ik de uitkomst hiervan afrond op een heel getal voor het definitieve antwoord?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:18:14
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, je bent precies goed bezig! Het is inderdaad de bedoeling dat je het procentuele verschil met de formule $\frac{\text{nieuw} - \text{oud}}{\text{oud}} \times 100$ berekent om te zien hoe groot de stijging is. Na het vinden van het resultaat, moet je dit afronden op een heel getal, aangezien de vraag vraagt om het antwoord in hele procenten te geven.
+Dus, voer de berekening uit en rond het verkregen percentage af om tot je definitieve antwoord te komen. Laat maar weten als je hulp nodig hebt met het afronden of als je klaar bent, en dan kijken we of alles goed is gegaan!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:18:34
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening $\\frac{109,50 - 105}{105} \\cdot 100$ uitgevoerd en kom uit op precies $4,2857...$ procent. Als ik dit volgens de instructies afrond op een heel getal, is het antwoord dan 4 procent?
+Ik wil er zeker van zijn dat ik geen enkele afrondingsfout heb gemaakt in dit proces.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:18:38
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je bent goed bezig met het proces en hoe je de afronding hebt toegepast! Het afronden gebeurt inderdaad op de gebruikelijke manier: je kijkt naar de eerste decimaal na de komma. Als deze 5 of hoger is, rond je naar boven af; als deze lager dan 5 is, rond je naar beneden af.
+In jouw geval is $4,2857...$ procent, en kijk je naar de eerste decimaal na de komma, de 2. Omdat deze lager is dan 5, rond je naar beneden af. Dus, het afgeronde antwoord is 4 procent.
+Goed gedaan, en je aanpak is helemaal correct. Blijf vragen stellen als je meer zekerheid nodig hebt.

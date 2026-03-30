@@ -1,0 +1,62 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 20:12:01
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Om dit nauwkeurig aan te pakken, bereken ik eerst de uitgaven voor 2018 door A=4,5 in te vullen in de formule: U=60+10⋅4,5=105 euro. Daarna stel ik vast dat het gemiddelde aantal consulten in 2020 met 10% stijgt, wat neerkomt op 4,5⋅1,10=4,95 consulten.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 20:12:09
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je hebt al een belangrijke eerste stap gemaakt door de uitgaven in 2018 te berekenen en het gemiddelde aantal consulten in 2020 te verhogen met 10%. Dat geeft ons inderdaad 4,95 consulten.
+Nu moeten we verder stap voor stap het percentage berekenen hoeveel de uitgaven in 2020 hoger zijn vergeleken met 2018.
+1. **Bereken de uitgaven in 2020:** Gebruik de formule $U = 60 + 10 \cdot A$, waarbij je nu $A = 4,95$ hebt. Wat krijg je voor $U$ in 2020?
+2. **Vergelijk de 2020 uitgaven met die van 2018:** Je hebt al berekend dat de uitgaven in 2018 105 euro waren. Trek nu de uitgaven van 2018 af van die van 2020 om het verschil te berekenen.
+3. **Bereken het percentage verschil:** Gebruik de formule $\left(\frac{\text{verschil}}{\text{uitgaven 2018}}\right) \cdot 100\%$ om het percentage stijging te bepalen.
+Zodra je dit hebt berekend, kun je het resultaat afronden naar hele procenten. Probeer dit zelf eens uit te werken, en laat me weten wat je vindt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 20:12:57
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik reken de uitgaven voor 2020 nu zorgvuldig uit met de nieuwe waarde: U=60+10⋅4,95=109,50 euro. Het verschil in uitgaven tussen 2020 en 2018 is dan exact 109,50−105=4,50 euro.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 20:13:03
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed werk! Je hebt de uitgaven voor 2020 nauwkeurig berekend als 109,50 euro en het verschil met de uitgaven in 2018 correct vastgesteld als 4,50 euro.
+Nu is de volgende en laatste stap om dit verschil in euro's om te zetten naar een percentage:
+1. **Bereken het percentage verschil:** Gebruik de formule voor procentuele verandering: $\left(\frac{\text{verschil}}{\text{uitgaven in 2018}}\right) \times 100\%$. In dit geval is het verschil 4,50 euro, en de uitgaven in 2018 waren 105 euro.
+Probeer deze berekening uit te voeren en kijk tot welk percentage het leidt. Vergeet niet je antwoord daarna af te ronden naar hele procenten. Laat me weten wat je uitkomt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 20:14:37
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik merk dat ik twijfel over de nauwkeurigheid van mijn berekening bij deze specifieke deling. Zou je de uitkomst van $4,50 / 105$ voor me kunnen uitschrijven, zodat ik zeker weet dat ik geen cruciale details over het hoofd zie voordat ik afrond?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 20:14:45
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Zeker! Je bent al goed op weg. Laten we samen de berekening stapsgewijs bekijken.
+De deling die je moet uitvoeren is $4,50 / 105$. Om de procentuele verandering te berekenen, moet je deze uitkomst vermenigvuldigen met 100. Dus je krijgt:
+$$
+\left(\frac{4,50}{105}\right) \times 100
+$$
+Als je de deling uitvoert $\frac{4,50}{105}$, moet je meestal de uitkomst krijgen in decimale vorm voordat je verdergaat. Denk aan hoe je breuken naar procenten omzet door te vermenigvuldigen met 100. Probeer dit nogmaals handmatig op een rekenmachine of met pen en papier en bekijk eens wat je krijgt als resultaat voordat je gaat afronden naar het dichtstbijzijnde hele procent. Laat me weten hoe het verloopt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 20:17:07
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+De deling 4,50/105 geeft als resultaat ongeveer 0,042857. Wanneer ik dit vermenigvuldig met 100, kom ik uit op 4,2857%, wat afgerond op hele procenten precies 4% is.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 20:17:15
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Mooi werk! Je hebt de berekening helemaal correct uitgevoerd en netjes afgerond naar hele procenten. Het is belangrijk om die afronding goed te bekijken, zodat je geen details over het hoofd ziet.
+Dit proces waarbij je een verschil berekent en dat omrekent naar een percentage is erg nuttig in allerlei wiskundige en financiële contexten. Het helpt je om veranderingen in context te begrijpen.
+Als je nog andere vragen hebt of iets anders wilt doorlopen, laat het me gerust weten!

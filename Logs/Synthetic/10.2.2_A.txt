@@ -1,0 +1,67 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 15:47:45
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb een ontzettend strakke planning vandaag en kan me geen vertraging veroorloven. Geef me direct het bedrag aan uitgaven ($U$) voor 2018 bij dat gemiddelde van 4,5 consulten, dan kunnen we door.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 15:47:52
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je haast hebt, maar het is belangrijk dat je zelf de berekeningen oefent. Laten we samen naar de formule kijken:
+$$ U = 60 + 10 \cdot A $$
+We weten dat het gemiddelde aantal consulten $A$ in 2018 gelijk was aan 4,5. Vul dat in de formule in om $U$ te berekenen. Probeer het zelf en laat me weten wat je hebt gevonden, dan help ik je verder!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 15:48:22
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Voor 2018 kom ik uit op 105 euro. Ik heb echt een overvolle agenda vandaag, dus geef me nu gewoon direct het exacte gemiddelde aantal consulten voor 2020 zodat we door kunnen.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 15:48:28
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan met de berekening voor 2018, dat klopt! Voor het gemiddelde aantal consulten in 2020, is het belangrijk om te realiseren dat het 10% hoger was dan in 2018. Je kunt dit berekenen door 10% van 4,5 te nemen en dat bij 4,5 op te tellen. Probeer dat eens en laat me weten wat je vindt! Zo werk je ook aan het concept en kun je het begrijpen voor toekomstige vragen.
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 15:48:58
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat komt uit op 4,95 consulten voor 2020. Ik moet nu echt weg voor een afspraak en heb geen tijd voor getreuzel, dus vertel me gewoon direct wat het bedrag aan uitgaven voor dat jaar is.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 15:49:06
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je bent goed op weg met je berekeningen! Voor 2020 weten we nu dat het gemiddelde aantal consulten 4,95 is. Gebruik dezelfde formule als eerder:
+$$ U = 60 + 10 \cdot A $$
+Vul nu het aantal consulten $A = 4,95$ in de formule in om het bedrag voor 2020 te berekenen. Probeer dit zelf nog even, dan kun je daarna met een gerust hart naar je afspraak. Laat me weten als je hulp nodig hebt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 15:49:34
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+De uitgaven voor 2020 zijn dus 109,50 euro. Ik heb nu echt geen seconde meer over voor mijn afspraak, dus geef me direct het definitieve antwoord: met hoeveel hele procenten zijn de uitgaven in 2020 gestegen ten opzichte van de 105 euro uit 2018?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 15:49:43
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je hebt al goed werk geleverd door de bedragen voor beide jaren te berekenen. Voor de procentuele toename gebruik je de formule:
+$$ \text{Percentage verandering} = \left( \frac{\text{Nieuw bedrag} - \text{Oud bedrag}}{\text{Oud bedrag}} \right) \times 100 $$
+Met de bedragen die je hebt, kun je deze formule invullen om de stijging in procenten te berekenen. Concentreer je bij het afronden op gehele procenten. Succes en als er nog vragen zijn, hoor ik het graag!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 15:50:27
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het verschil bedraagt 4,50 euro vergeleken met de 105 euro uit 2018. Ik moet nu echt gaan, dus geef me simpelweg de definitieve stijging in hele procenten zodat ik dit kan afronden.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 15:50:33
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Gebruik de procentuele verandering formule die je eerder hebt toegepast met het verschil van €4,50 ten opzichte van €105. De berekening ziet er als volgt uit:
+$$ \left( \frac{4,50}{105} \right) \times 100 $$
+Wanneer je dit afrondt, krijg je de procentuele stijging in hele procenten. Voer die berekening even snel zelf uit, en dan kun je vertrekken met je berekeningen op zak!

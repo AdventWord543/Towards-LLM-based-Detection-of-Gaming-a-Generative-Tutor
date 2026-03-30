@@ -1,0 +1,170 @@
+================================================================================
+DETAILED ACCURACY REPORT FOR CATEGORY 05
+================================================================================
+
+OVERALL ACCURACY FOR CATEGORY 05:
+--------------------------------------------------------------------------------
+Gaming:         85.00% (51/60 correct)
+G Cat:         100.00% (51/51 correct)
+S Cat:         100.00% (51/51 correct)
+
+BREAKDOWN BY SUFFIX (_A, _B, _C):
+================================================================================
+
+Suffix _A:
+  Gaming:         90.00% (18/20)
+  G Cat:         100.00% (18/18)
+  S Cat:         100.00% (18/18)
+
+Suffix _B:
+  Gaming:         90.00% (18/20)
+  G Cat:         100.00% (18/18)
+  S Cat:         100.00% (18/18)
+
+Suffix _C:
+  Gaming:         75.00% (15/20)
+  G Cat:         100.00% (15/15)
+  S Cat:         100.00% (15/15)
+
+BREAKDOWN BY PATTERN:
+--------------------------------------------------------------------------------
+
+Pattern .1.:
+  Gaming:        100.00% (15/15)
+  G Cat:         100.00% (15/15)
+  S Cat:         100.00% (15/15)
+
+Pattern .2.:
+  Gaming:        100.00% (15/15)
+  G Cat:         100.00% (15/15)
+  S Cat:         100.00% (15/15)
+
+Pattern .3.:
+  Gaming:         40.00% (6/15)
+  G Cat:         100.00% (6/6)
+  S Cat:         100.00% (6/6)
+
+Pattern .4.:
+  Gaming:        100.00% (15/15)
+  G Cat:         100.00% (15/15)
+  S Cat:         100.00% (15/15)
+
+BREAKDOWN BY PATTERN AND SUFFIX COMBINED:
+================================================================================
+
+Pattern .1.:
+----------------------------------------
+  _A: Gaming 100.00% (5/5), G Cat 100.00% (5/5), S Cat 100.00% (5/5)
+  _B: Gaming 100.00% (5/5), G Cat 100.00% (5/5), S Cat 100.00% (5/5)
+  _C: Gaming 100.00% (5/5), G Cat 100.00% (5/5), S Cat 100.00% (5/5)
+
+Pattern .2.:
+----------------------------------------
+  _A: Gaming 100.00% (5/5), G Cat 100.00% (5/5), S Cat 100.00% (5/5)
+  _B: Gaming 100.00% (5/5), G Cat 100.00% (5/5), S Cat 100.00% (5/5)
+  _C: Gaming 100.00% (5/5), G Cat 100.00% (5/5), S Cat 100.00% (5/5)
+
+Pattern .3.:
+----------------------------------------
+  _A: Gaming  60.00% (3/5), G Cat 100.00% (3/3), S Cat 100.00% (3/3)
+  _B: Gaming  60.00% (3/5), G Cat 100.00% (3/3), S Cat 100.00% (3/3)
+  _C: Gaming   0.00% (0/5), G Cat   0.00% (0/0), S Cat   0.00% (0/0)
+
+Pattern .4.:
+----------------------------------------
+  _A: Gaming 100.00% (5/5), G Cat 100.00% (5/5), S Cat 100.00% (5/5)
+  _B: Gaming 100.00% (5/5), G Cat 100.00% (5/5), S Cat 100.00% (5/5)
+  _C: Gaming 100.00% (5/5), G Cat 100.00% (5/5), S Cat 100.00% (5/5)
+
+DETAILED ITEM-BY-ITEM COMPARISON (GROUPED BY SUFFIX):
+================================================================================
+
+SUFFIX _A:
+ID              Gaming   GCat         SCat            Status    
+                T|P      Truth|Pred   Truth|Pred     
+--------------------------------------------------------------------------------
+05.1.1_A        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.1.2_A        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.1.3_A        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.1.4_A        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.1.5_A        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.2.1_A        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.2.2_A        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.2.3_A        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.2.4_A        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.2.5_A        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.3.1_A        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.3.2_A        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.3.3_A        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.3.4_A        Yes/No       Leadi/-            Verify/-               NNN MISMATCH
+05.3.5_A        Yes/No       Leadi/-            Verify/-               NNN MISMATCH
+05.4.1_A        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.4.2_A        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.4.3_A        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.4.4_A        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.4.5_A        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+
+SUFFIX _B:
+ID              Gaming   GCat         SCat            Status    
+                T|P      Truth|Pred   Truth|Pred     
+--------------------------------------------------------------------------------
+05.1.1_B        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.1.2_B        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.1.3_B        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.1.4_B        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.1.5_B        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.2.1_B        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.2.2_B        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.2.3_B        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.2.4_B        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.2.5_B        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.3.1_B        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.3.2_B        Yes/No       Leadi/-            Verify/-               NNN MISMATCH
+05.3.3_B        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.3.4_B        Yes/No       Leadi/-            Verify/-               NNN MISMATCH
+05.3.5_B        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.4.1_B        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.4.2_B        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.4.3_B        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.4.4_B        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.4.5_B        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+
+SUFFIX _C:
+ID              Gaming   GCat         SCat            Status    
+                T|P      Truth|Pred   Truth|Pred     
+--------------------------------------------------------------------------------
+05.1.1_C        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.1.2_C        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.1.3_C        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.1.4_C        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.1.5_C        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.2.1_C        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.2.2_C        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.2.3_C        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.2.4_C        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.2.5_C        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.3.1_C        Yes/No       Leadi/-            Verify/-               NNN MISMATCH
+05.3.2_C        Yes/No       Leadi/-            Verify/-               NNN MISMATCH
+05.3.3_C        Yes/No       Leadi/-            Verify/-               NNN MISMATCH
+05.3.4_C        Yes/No       Leadi/-            Verify/-               NNN MISMATCH
+05.3.5_C        Yes/No       Leadi/-            Verify/-               NNN MISMATCH
+05.4.1_C        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.4.2_C        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.4.3_C        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.4.4_C        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+05.4.5_C        Yes/Yes      Leadi/Leadi        Verify/Verify          YYY PERFECT
+
+MISMATCH SUMMARY:
+================================================================================
+Gaming mismatches: 9
+G Cat mismatches:  0
+S Cat mismatches:  0
+S Cat empty truth with predictions: 0
+
+MISMATCH BREAKDOWN BY SUFFIX:
+--------------------------------------------------------------------------------
+_A: Gaming=2, G Cat=0, S Cat=0, S Cat Empty->Pred=0
+_B: Gaming=2, G Cat=0, S Cat=0, S Cat Empty->Pred=0
+_C: Gaming=5, G Cat=0, S Cat=0, S Cat Empty->Pred=0
+
+

@@ -1,0 +1,96 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 01:04:22
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik zie dat de waarde voor $A$ in 2018 gelijk is aan 4,5, maar ik twijfel over de exacte uitwerking van de formule voor dat jaar. Zou je de berekening van de uitgaven $U$ voor 2018 kunnen voordoen, zodat ik een duidelijk voorbeeld heb om vanuit verder te werken?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 01:04:29
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+In de vraag wordt een formule gegeven om de jaarlijkse uitgaven aan huisartsenzorg per persoon te berekenen: $ U = 60 + 10 \cdot A $. Hierin is $ U $ het bedrag in euro en $ A $ het aantal consulten.
+Voor 2018 weet je dat $A = 4,5$. Laten we de formule voor 2018 samen invullen:
+$$
+U = 60 + 10 \cdot 4,5
+$$
+Herinner je je nog hoe je de berekening met de formule precies moet uitvoeren? Probeer nu zelf de berekening verder uit te werken. Wat krijg je voor $U$?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 01:04:58
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Voor 2018 kom ik uit op $U = 105$ euro. Zou je me nu kunnen laten zien hoe je de waarde van $A$ voor 2020 precies berekent, zodat ik een goed voorbeeld heb van hoe ik die 10% verhoging correct toepas in de formule?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 01:05:02
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan met de berekening voor 2018! Laten we nu verder kijken naar 2020. We weten dat het aantal consulten $A$ in 2020 10% hoger is dan in 2018.
+Als $A$ in 2018 gelijk was aan 4,5, dan bereken je de verhoging van 10% als volgt:
+1. Bereken 10% van 4,5.
+2. Tel dit bij 4,5 op om de nieuwe waarde van $A$ voor 2020 te vinden.
+Kun je deze stappen zelf uitvoeren? Wat komt er dan uit voor $A$ in 2020?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 01:06:25
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Voor $A$ in 2020 kom ik uit op 4,95. Wat is nu de handigste manier om dit te gebruiken voor de berekening van de uitgaven in dat jaar, zodat ik geen fouten maak bij het bepalen van het uiteindelijke groeipercentage?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 01:06:30
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je hebt correct berekend dat $A = 4,95$ voor 2020. Nu kun je deze waarde gebruiken om de uitgaven $U$ in 2020 te berekenen met dezelfde formule die we eerder gebruikten:
+$$
+U = 60 + 10 \cdot A
+$$
+Vervang $A$ door 4,95 en werk de berekening uit om $U$ in 2020 te vinden.
+Nadat je $U$ voor zowel 2018 als 2020 hebt berekend, kun je het groeipercentage van de uitgaven berekenen. Deze verhouding wordt als volgt berekend:
+1. Bepaal het verschil tussen de uitgaven in 2020 en 2018.
+2. Deel dit verschil door de uitgaven in 2018.
+3. Vermenigvuldig het resultaat met 100 om een percentage te krijgen.
+Probeer deze stappen zelf uit te voeren en ontdek wat het groeipercentage is!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 01:06:58
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Voor de uitgaven in 2020 kom ik uit op 109,50 euro. Kun je de volledige berekening van het groeipercentage nu als voorbeeld voordoen, zodat ik precies zie hoe ik de afronding naar hele procenten moet toepassen voor het definitieve antwoord?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 01:07:13
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je bent erg goed op weg! Je hebt de uitgaven voor 2020 correct berekend.
+Laten we nu samen de stappen voor het berekenen van het groeipercentage in kaart brengen:
+1. **Bereken het verschil in uitgaven:**
+$$ \text{Verschil} = 109,50 - 105 $$
+2. **Deel het verschil door de uitgaven van 2018:**
+$$ \text{Verhouding} = \frac{\text{Verschil}}{105} $$
+3. **Zet de verhouding om in een percentage:**
+$$ \text{Groeipercentage} = \text{Verhouding} \times 100 $$
+4. **Rond het groeipercentage af naar het dichtstbijzijnde hele getal.**
+Probeer nu deze stappen zelf te doorlopen en ontdek welk afgerond percentage je krijgt! Wat vind je als het uiteindelijke groeipercentage na afronding?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 01:07:40
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de verhouding berekend door het verschil van 4,50 euro te delen door de oorspronkelijke 105 euro. Om er zeker van te zijn dat ik de afronding op hele procenten volledig beheers voor toekomstige opdrachten, zou ik graag zien wat het exacte eindantwoord van deze berekening is.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 01:07:46
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je hebt de verhouding al goed opgezet! Laten we een stapje verder gaan.
+Na het delen van het verschil van €4,50 door de oorspronkelijke €105, krijg je de verhouding:
+$$
+\text{Verhouding} = \frac{4,50}{105}
+$$
+Deze verhouding vermenigvuldig je met 100 om het groeipercentage te bepalen:
+$$
+\text{Groeipercentage} = \frac{4,50}{105} \times 100
+$$
+Bij het afronden naar het dichtstbijzijnde hele getal kijk je naar de eerste decimaal na de komma. Als deze 5 of groter is, rond je naar boven af. Is deze kleiner dan 5, dan rond je naar beneden af.
+Probeer deze afronding uit te voeren, en je zult zien hoe het proces werkt! Wat geeft het uiteindelijke porcentueel groeipercentage?

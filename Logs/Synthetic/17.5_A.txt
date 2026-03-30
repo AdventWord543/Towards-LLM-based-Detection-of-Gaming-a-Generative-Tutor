@@ -1,0 +1,65 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-08 18:11:29
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Voor 2018 kom ik uit op $60 + 10 \\times 4,5 = 105$ euro aan uitgaven. Nu moet ik de 10% stijging van het aantal consulten berekenen voor 2020, maar ik twijfel over de juiste aanpak. Zou je me kunnen laten zien met een voorbeeld hoe ik die 10% verhoging nauwkeurig toepas op de 4,5 consulten?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-08 18:11:38
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Natuurlijk, laten we samen door dit proces heen lopen!
+Je wilt berekenen hoeveel 10% hoger is dan het gemiddelde aantal consulten in 2018, dat 4,5 was. Om te beginnen, bereken je eerst die 10% van 4,5.
+1. **Berekening van 10%**:
+$$
+10\% \text{ van } 4,5 = \frac{10}{100} \times 4,5 = 0,45
+$$
+2. **Nieuwe aantal consulten in 2020**:
+Voeg de gevonden 0,45 toe aan de oorspronkelijke 4,5 consulten:
+$$
+4,5 + 0,45 = 4,95
+$$
+Dit berekent dat het gemiddelde aantal consulten in 2020 dus 4,95 is.
+Nu kun je dit nieuwe aantal consulten gebruiken in de formule voor de uitgaven (\( U = 60 + 10 \times A \)), waarbij \( A \) het aantal consulten is. Probeer dat eens en kijk wat je eruit krijgt voor 2020!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-08 18:12:01
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dankjewel, ik heb de berekening voor 2020 nu heel secuur uitgevoerd: $60 + 10 \\times 4,95 = 109,5$ euro.
+Ik zie dat het bedrag hoger is, maar ik vind het lastig om dit om te zetten naar een percentage verschil ten opzichte van die 105 euro uit 2018. Kun je me laten zien welke stappen ik moet zetten om het verschil in procenten uit te rekenen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-08 18:12:06
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Zeker! Laten we dit stap voor stap doorlopen.
+Om het percentage verschil te berekenen, volg je deze stappen:
+1. **Verschil Berekenen**:
+Bereken eerst het verschil tussen de uitgaven in 2020 en 2018.
+$$
+Verschil = 109,5 - 105 = 4,5
+$$
+2. **Percentage Berekenen**:
+Je wilt weten wat dit verschil betekent als percentage van de uitgaven in 2018. Gebruik daarvoor de formule:
+$$
+\left( \frac{Verschil}{Oorspronkelijk Bedrag} \right) \times 100
+$$
+Dus in dit geval:
+$$
+\left( \frac{4,5}{105} \right) \times 100
+$$
+Probeer deze stap uit te rekenen. Wat kom je uit? Hiermee bepaal je namelijk hoeveel procent hoger de uitgaven in 2020 waren ten opzichte van 2018!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-08 18:12:39
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de som (1054,5​)×100 heel nauwkeurig uitgerekend en kom uit op 4,2857...%. Na een zorgvuldige afronding op hele procenten is het eindantwoord **4%**.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-08 18:12:45
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat ziet er heel goed uit! Je aanpak klopt helemaal en het resultaat van 4% na afronding is precies wat je verwacht volgens het antwoordmodel.
+Het is belangrijk om te begrijpen dat afronden op hele procenten vaak een vereiste is in examens en toetsen, en je hebt dat correct toegepast. Deze berekening laat zien hoeveel procent meer de uitgaven in 2020 waren ten opzichte van 2018. Goed gedaan! Heb je verder nog vragen over deze of andere concepten?

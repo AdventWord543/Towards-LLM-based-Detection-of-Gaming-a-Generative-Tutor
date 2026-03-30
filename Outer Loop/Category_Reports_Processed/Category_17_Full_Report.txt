@@ -1,0 +1,96 @@
+================================================================================
+DETAILED ACCURACY REPORT FOR CATEGORY 17
+================================================================================
+
+OVERALL ACCURACY FOR CATEGORY 17:
+--------------------------------------------------------------------------------
+Gaming:         80.00% (12/15 correct)
+G Cat:           0.00% (0/0 correct)
+S Cat:           0.00% (0/0 correct)
+
+BREAKDOWN BY SUFFIX (_A, _B, _C):
+================================================================================
+
+Suffix _A:
+  Gaming:         60.00% (3/5)
+  G Cat:           0.00% (0/0)
+  S Cat:           0.00% (0/0)
+
+Suffix _B:
+  Gaming:         80.00% (4/5)
+  G Cat:           0.00% (0/0)
+  S Cat:           0.00% (0/0)
+
+Suffix _C:
+  Gaming:        100.00% (5/5)
+  G Cat:           0.00% (0/0)
+  S Cat:           0.00% (0/0)
+
+DETAILED ITEM-BY-ITEM COMPARISON (GROUPED BY SUFFIX):
+================================================================================
+
+SUFFIX _A:
+ID              Gaming   GCat         SCat            Status    
+                T|P      Truth|Pred   Truth|Pred     
+--------------------------------------------------------------------------------
+17.1_A          No/No       -/-            -/-               Y-- MISMATCH
+17.2_A          No/Yes      -/Leadi        -/Verify          NNN MISMATCH
+17.3_A          No/No       -/-            -/-               Y-- MISMATCH
+17.4_A          No/No       -/-            -/-               Y-- MISMATCH
+17.5_A          No/Yes      -/Leadi        -/Example         NNN MISMATCH
+
+SUFFIX _B:
+ID              Gaming   GCat         SCat            Status    
+                T|P      Truth|Pred   Truth|Pred     
+--------------------------------------------------------------------------------
+17.1_B          No/No       -/-            -/-               Y-- MISMATCH
+17.2_B          No/No       -/-            -/-               Y-- MISMATCH
+17.3_B          No/No       -/-            -/-               Y-- MISMATCH
+17.4_B          No/Yes      -/Leadi        -/Example         NNN MISMATCH
+17.5_B          No/No       -/-            -/-               Y-- MISMATCH
+
+SUFFIX _C:
+ID              Gaming   GCat         SCat            Status    
+                T|P      Truth|Pred   Truth|Pred     
+--------------------------------------------------------------------------------
+17.1_C          No/No       -/-            -/-               Y-- MISMATCH
+17.2_C          No/No       -/-            -/-               Y-- MISMATCH
+17.3_C          No/No       -/-            -/-               Y-- MISMATCH
+17.4_C          No/No       -/-            -/-               Y-- MISMATCH
+17.5_C          No/No       -/-            -/-               Y-- MISMATCH
+
+MISMATCH SUMMARY:
+================================================================================
+Gaming mismatches: 3
+G Cat mismatches:  0
+S Cat mismatches:  0
+S Cat empty truth with predictions: 3
+
+MISMATCH BREAKDOWN BY SUFFIX:
+--------------------------------------------------------------------------------
+_A: Gaming=2, G Cat=0, S Cat=0, S Cat Empty->Pred=2
+_B: Gaming=1, G Cat=0, S Cat=0, S Cat Empty->Pred=1
+_C: Gaming=0, G Cat=0, S Cat=0, S Cat Empty->Pred=0
+
+SCAT EMPTY TRUTH ANALYSIS - PREDICTIONS MADE WHEN TRUTH IS EMPTY:
+================================================================================
+Total cases where SCat truth is empty but prediction was made: 3
+Unique predictions made: 2
+
+Most common predictions when truth is empty (sorted by frequency):
+--------------------------------------------------------------------------------
+Empty -> Example              Count:   2 ( 66.7%)
+Empty -> Verify               Count:   1 ( 33.3%)
+
+EMPTY TRUTH ANALYSIS BY SUFFIX:
+--------------------------------------------------------------------------------
+
+SUFFIX _A (Total empty truth cases: 2):
+  Empty -> Verify             Count:   1 ( 50.0%)
+  Empty -> Example            Count:   1 ( 50.0%)
+
+SUFFIX _B (Total empty truth cases: 1):
+  Empty -> Example            Count:   1 (100.0%)
+
+
+

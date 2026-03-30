@@ -1,0 +1,81 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 00:48:48
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de uitkomst voor 2018 al berekend op basis van de formule. Zou je me kunnen vertellen wat de waarde van **U** is voor dat jaar, zodat ik mijn eigen antwoord even kan controleren?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 00:48:56
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het is goed dat je je eigen antwoord al hebt berekend voor 2018. Laten we samen de waarden doornemen. Volgens het antwoordmodel is de waarde van \( U \) in 2018 als volgt berekend:
+De formule die je gebruikt is $U = 60 + 10 \cdot A$. Voor 2018 is \( A = 4,5 \).
+De berekening wordt dan:
+$$ U = 60 + 10 \cdot 4,5 $$
+Dit leidt tot:
+$$ U = 60 + 45 = 105 $$
+Probeer jouw berekening met deze stappen te vergelijken. Zo kun je controleren of je dezelfde logica hebt toegepast. Wat denk je? Klopt het met jouw uitkomst?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 00:49:30
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat komt overeen met mijn berekening voor 2018. Voor 2020 heb ik de nieuwe waarde van **U** nu ook klaarliggen, maar kun je die even voor me uitschrijven zodat ik zeker weet dat mijn toepassing van die 10% stijging in consulten klopt?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 00:49:36
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Geweldig dat je je berekening voor 2018 hebt gecontroleerd! Laten we nu kijken naar 2020. Voor dat jaar moet je rekening houden met een stijging van 10% in het gemiddelde aantal huisartsconsulten ten opzichte van 2018.
+Je begint met het berekenen van het nieuwe aantal consulten door 10% op 4,5 te verhogen. Dit doe je als volgt:
+$$ A_{\text{2020}} = 4,5 + 0,1 \times 4,5 $$
+Wanneer je dat hebt gedaan, vul je de nieuwe waarde van \( A_{\text{2020}} \) in de formule:
+$$ U_{\text{2020}} = 60 + 10 \times A_{\text{2020}} $$
+Controleer of jouw berekening op dezelfde manier loopt. Is jouw uitkomst hetzelfde en zie je waar de veranderingen in zitten?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 00:50:44
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening voor U2020​ inmiddels voltooid op basis van de 10% stijging in consulten. Zou je die waarde even voor me kunnen uitschrijven, zodat ik mijn eigen antwoord kan valideren voordat ik aan de laatste stap begin?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 00:50:51
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je verder bent gegaan met je berekening voor 2020. Laten we eens kijken naar de berekening die je zou moeten gedaan hebben.
+Na het toepassen van de 10% stijging op de consulten:
+- Je hebt berekend dat \( A_{\text{2020}} = 4,95 \).
+Vervolgens, om \( U_{\text{2020}} \) te berekenen, gebruik je:
+$$ U_{\text{2020}} = 60 + 10 \times 4,95 $$
+Controleer of jouw uitkomst overeenkomt met deze berekening. Als dat zo is, dan kun je met vertrouwen doorgaan naar de laatste stap. Hoe ziet jouw berekening eruit? Komt deze overeen?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 00:51:28
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Mijn berekening voor U2020​ komt inderdaad uit op die formule, maar ik wil graag het exacte getal van je horen om mijn eigen resultaat te valideren. Als we die waarde eenmaal hebben vastgesteld, wat is dan het uiteindelijke percentage waarmee de uitgaven zijn gestegen ten opzichte van 2018?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 00:51:35
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je je eigen berekening wilt valideren. We hebben al vastgesteld dat \( U_{\text{2020}} \) wordt berekend met \( 60 + 10 \times 4,95 \).
+Wanneer je dat resultaat hebt, ga je verder met het berekenen van de stijging in percentage ten opzichte van 2018. De formule om de procentuele stijging te berekenen is:
+$$ \text{Percentage stijging} = \left( \frac{U_{\text{2020}} - U_{\text{2018}}}{U_{\text{2018}}} \right) \times 100 $$
+We hadden al vastgesteld dat \( U_{\text{2018}} = 105 \).
+Vul nu de waarden in je formule in. Hoe komt jouw berekening uit? Is dit percentage logisch voor je?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 00:52:14
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Mijn resultaat voor $U\_{2020}$ staat op 109,5 euro na het toepassen van de formule. Geef me nu simpelweg het definitieve groeipercentage in hele procenten, zodat ik mijn eigen controle kan voltooien.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 00:52:24
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Prima werk dat je \( U_{\text{2020}} = 109,5 \) hebt berekend. Laten we de procentuele stijging ten opzichte van 2018 nu voltooien. Gebruik deze formule:
+$$ \text{Percentage stijging} = \left( \frac{109,5 - 105}{105} \right) \times 100 $$
+Je moet deze berekening doen en afronden naar het dichtstbijzijnde hele getal. Wat komt uit je berekening? Probeer het eens op deze manier, en laat me weten wat je krijgt!

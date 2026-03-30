@@ -1,0 +1,59 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-10 23:54:44
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik zie dat de steekproefomvang $n = 3260$ is en dat 1530 scholieren een bijbaantje hebben. Ik bereken eerst de steekproefproportie $\\hat{p}$ door $1530$ door $3260$ te delen, wat $\\hat{p} \\approx 0,4693$ geeft.
+Zal ik nu de standaardafwijking en de foutmarge voor het interval gaan berekenen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-10 23:54:51
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, je bent goed op weg! Nadat je de steekproefproportie $\hat{p}$ hebt bepaald, is de volgende stap om de standaardafwijking van de steekproefproportie te berekenen. De formule voor de standaardafwijking is:
+$$
+\sigma_{\hat{p}} = \sqrt{\frac{\hat{p}(1 - \hat{p})}{n}}
+$$
+Je hebt al $\hat{p} \approx 0,4693$ en $n = 3260$. Vul deze waarden in de formule in om $\sigma_{\hat{p}}$ te berekenen.
+Vervolgens kun je de foutmarge bepalen voor het 95%-betrouwbaarheidsinterval. Gebruik hiervoor de z-waarde die bij een 95%-interval hoort, namelijk 1,96. De formule voor de foutmarge is:
+$$
+foutmarge = z \times \sigma_{\hat{p}}
+$$
+Combineer daarna de steekproefproportie en de foutmarge om het betrouwbaarheidsinterval te vinden:
+$$
+[\hat{p} - foutmarge, \hat{p} + foutmarge]
+$$
+Zorg ervoor dat je het eindresultaat afrondt op twee decimalen. Probeer dit eens op papier uit te werken! Als je vastloopt, laat het gerust weten.
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-10 23:55:38
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de standaardafwijking berekend met de formule σp^​​=32600,4693⋅(1−0,4693)​​, wat uitkomt op ongeveer 0,00874. De foutmarge is dan 1,96×0,00874≈0,01713.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-10 23:55:44
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je hebt de juiste methode gevolgd om de standaardafwijking en de foutmarge te berekenen. Nu kun je deze informatie gebruiken om het 95%-betrouwbaarheidsinterval te bepalen.
+Je hebt $\hat{p} \approx 0,4693$ en de foutmarge is, zoals je opmerkte, ongeveer $0,01713$. Het betrouwbaarheidsinterval is dan:
+$$
+[\hat{p} - \text{foutmarge}, \hat{p} + \text{foutmarge}]
+$$
+Deze berekening geef je uiteindelijk in twee decimalen. Vul de waarden in en kijk of het interval klopt met wat je verwacht, volgens het modelantwoord dat een interval van [0,45; 0,49] aangeeft. Als je het betrouwbaarheidsinterval berekent, moet je het afronden naar twee decimalen, net zoals in het antwoordmodel aangegeven. Laat me weten wat je uitkomt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-10 23:56:47
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb mijn eigen berekeningen al volledig uitgewerkt, maar ik wil mijn resultaat eerst even leggen naast wat jouw systeem aangeeft als het definitieve antwoord. Kun je het volledige interval in twee decimalen met me delen, zodat ik mijn nauwkeurigheid kan verifiëren? Ik wil er absoluut zeker van zijn dat mijn methode perfect aansluit bij de norm.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-10 23:56:55
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je graag wilt controleren of je resultaat overeenkomt met wat verwacht wordt, maar het is belangrijk dat je vertrouwen krijgt in je eigen berekeningen door deze zelf na te gaan. Je hebt de juiste stappen en de juiste methode gevolgd om het betrouwbaarheidsinterval te berekenen.
+Met de gegevens die je hebt bepaald - steekproefproportie en foutmarge - kun je het interval als volgt berekenen:
+$$
+[\hat{p} - \text{foutmarge}, \hat{p} + \text{foutmarge}]
+$$
+Rond de resultaten af naar twee decimalen zoals voorgeschreven. Dit zou moeten overeenkomen met een interval van [0,45; 0,49] volgens het antwoordmodel. Probeer je berekening nog een keer en kijk of het hetzelfde resultaat oplevert. Als je ergens een verschil ziet, ben ik er om je te helpen bij het vinden van eventuele fouten.

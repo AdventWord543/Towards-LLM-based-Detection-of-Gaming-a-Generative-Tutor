@@ -1,0 +1,56 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-10 14:58:54
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begin met het berekenen van de uitgaven voor 2018 door $A = 4,5$ in de formule in te vullen, wat uitkomt op $U = 60 + 10 \\cdot 4,5 = 105$ euro. Vervolgens bereken ik het aantal consulten voor 2020, dat 10% hoger ligt dan in 2018: $4,5 \\cdot 1,10 = 4,95$ consulten.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-10 14:58:58
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je bent goed op weg! Je hebt correct berekend dat de uitgaven voor 2018 €105 zijn door de waarde van $A = 4,5$ in te vullen in de formule $U = 60 + 10 \cdot A$. Je hebt ook juist het gemiddelde aantal consulten voor 2020 berekend, dat 10% hoger is dan in 2018.
+De volgende stap is om dit nieuwe aantal consulten voor 2020, namelijk $4,95$, in te vullen in dezelfde formule voor de uitgaven. Kun je berekenen wat de nieuwe uitgaven voor 2020 zijn met deze gegevens? Vergeet daarna niet om het verschil in uitgaven tussen 2020 en 2018 te berekenen en dit om te zetten in een percentage ten opzichte van de uitgaven in 2018. Probeer het eens uit en laat weten wat je vindt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-10 15:00:06
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de uitgaven voor 2020 nauwkeurig berekend door $4,95$ in te vullen in de formule, wat resulteert in $U = 60 + 10 \\cdot 4,95 = 109,50$ euro. Ik controleer deze tussenuitkomst zorgvuldig voordat ik de stap naar de procentuele berekening zet.
+Zal ik nu het procentuele verschil tussen de uitgaven van 2018 en 2020 gaan berekenen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-10 15:00:14
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan, het berekenen van de uitgaven voor 2020 met $A = 4,95$ geeft inderdaad €109,50 als uitkomst. Je hebt dit correct geverifieerd.
+Nu is het tijd om het verschil in uitgaven tussen 2018 (€105) en 2020 (€109,50) in procenten uit te drukken. Denk eraan dat je het verschil deelt door de oorspronkelijke waarde (€105 in 2018) en vervolgens vermenigvuldigt met 100 om het als percentage te krijgen. Probeer het eens uit, en deel je berekening met me!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-10 15:01:24
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik raak hier echt volledig de weg kwijt en word er doodmoe van; al die berekeningen maken het alleen maar verwarrender. Ik zie echt niet in hoe ik nu nog bij dat percentage moet komen zonder de mist in te gaan. Kun je me niet gewoon het eindantwoord geven?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-10 15:01:34
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat het frustrerend kan zijn, maar je bent er bijna! Het is echt een kwestie van rustig de stappen doornemen. Probeer de focus te houden op het berekenen van het verschil tussen de uitgaven in 2020 en 2018, en dit verschil om te zetten in een percentage.
+Dit zijn de stappen die je moet volgen:
+1. **Bereken het verschil** tussen de uitgaven in 2020 (€109,50) en 2018 (€105). Dit is je absolute verschil.
+2. **Zet het verschil om in een percentage**: Deel het gevonden verschil door de uitgaven in 2018 (€105) en vermenigvuldig dat resultaat met 100 om het percentage te vinden.
+Met deze stappen heb je bijna het percentage dat je zoekt. Probeer de berekeningen rustig nog eens te maken en laat weten wat je vindt. Je kunt dit!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-10 15:02:57
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Om tot een nauwkeurig resultaat te komen, bereken ik eerst het absolute verschil tussen de uitgaven van 2020 (€109,50) en 2018 (€105), wat neerkomt op exact €4,50. Vervolgens deel ik dit verschil door de oorspronkelijke uitgaven van 2018 om de procentuele toename te bepalen: $\\frac{4,50}{105} \\times 100$.
+Dit geeft een resultaat van ongeveer 4,2857%, wat ik volgens de instructie naar boven of beneden moet afronden op een heel getal. Als ik dit afrond, kom ik uit op een stijging van 4%.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-10 15:03:04
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Precies! Je hebt het helemaal goed gedaan. Door eerst het absolute verschil te berekenen en dit om te zetten naar een percentage, heb je een duidelijke percentageverhoging tussen 2018 en 2020 gevonden. En je afronding naar 4% is correct volgens de verwachtingen voor deze vraag.
+Goed bezig! Als je nog andere vragen of problemen tegenkomt, laat het me gerust weten.

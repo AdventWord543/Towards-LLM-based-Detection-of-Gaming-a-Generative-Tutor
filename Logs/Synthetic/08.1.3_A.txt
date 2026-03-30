@@ -1,0 +1,61 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-26 11:03:39
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat ik eerst de nieuwe waarde voor $A$ moet vinden, maar zonder mijn rekenmachine vind ik die stap met 10% stijging en de uiteindelijke procentuele verandering lastig. Zou jij de volledige berekening voor de uitgaven in 2018 en 2020 kunnen maken en me het uiteindelijke percentage geven? Dan kan ik de uitwerking direct in mijn oefenschrift overnemen.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-26 11:03:48
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het is goed dat je al begrijpt dat je eerst de nieuwe waarde voor $A$ moet berekenen. Laten we de stappen samen doornemen, zodat je ze zelf kunt toepassen.
+1. **Bereken het gemiddelde aantal consulten in 2020**:
+- In 2018 was het gemiddelde aantal consulten 4,5.
+- In 2020 was dit aantal 10% hoger.
+- Om de nieuwe waarde te berekenen, gebruik je de formule: $A_{\text{2020}} = A_{\text{2018}} \times (1 + \frac{10}{100})$.
+2. **Bereken de uitgaven in 2018 en 2020 met formule 1**:
+- Formule 1 is $U = 60 + 10 \times A$.
+- Vul voor 2018 $A = 4,5$ in.
+- Vul voor 2020 je eerder berekende $A_{\text{2020}}$ in.
+3. **Bereken het procentuele verschil in uitgaven tussen 2018 en 2020**:
+- De formule hiervoor is:
+$$ \left( \frac{\text{Uitgaven}_{2020} - \text{Uitgaven}_{2018}}{\text{Uitgaven}_{2018}} \right) \times 100\% $$
+Deze stappen ga je doorlopen zonder dat ik direct de volledige antwoorden verstrek. Probeer de berekeningen met deze aanwijzingen eens uit te voeren! Als je ergens vastloopt, kun je altijd vragen stellen over de specifieke stap waar je moeite mee hebt.
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-26 11:04:12
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Bedankt voor de stappen, maar zonder mijn rekenmachine ben ik bang dat ik fouten maak met die lastige kommagetallen en de uiteindelijke deling. Zou je de berekeningen voor me kunnen invullen, zodat ik de volledige uitwerking direct in mijn schrift kan overnemen en zeker weet dat het klopt?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-26 11:04:19
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat het werken met kommagetallen soms lastig kan zijn zonder rekenmachine, maar het oefenen met deze stappen is ook een goede manier om meer vertrouwd te raken met de berekeningen. Laten we samen beginnen met de eerste stap:
+1. **Bereken het gemiddelde aantal consulten in 2020**:
+- Het gemiddelde aantal consulten in 2018 was 4,5.
+- Voor een stijging van 10%, bereken je: $4,5 \times 1,1 = 4,95$.
+- Je ziet dat je hier al een deel van de berekening in gedachten kunt doen: 10% van 4,5 is 0,45, en als je dat bij 4,5 optelt, krijg je 4,95.
+Probeer nu zelf deze berekening in te vullen in de formule voor $U$, en kijk dan of je de uitkomst kunt vinden voor zowel 2018 als 2020. Daarna kunnen we samen naar de procentuele verandering kijken. Laat me weten hoe het gaat!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-26 11:04:40
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik zie hoe je aan 4,95 komt, maar zonder kladpapier raak ik de draad kwijt bij het invullen van de formule met deze decimalen. Zou je de uitkomsten voor 2018 en 2020 voor me kunnen uitschrijven, zodat ik zeker weet dat ik geen fout maak bij de procentuele berekening?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-26 11:04:47
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Laten we het stap voor stap aanpakken en helder uitschrijven hoe je het kunt berekenen. Probeer het volgende eens:
+**Uitgaven in 2018:**
+- Gebruik de formule $U = 60 + 10 \times A$.
+- Voor $A = 4,5$:
+$$ U_{\text{2018}} = 60 + 10 \times 4,5 = 60 + 45 = 105 $$
+Je kunt zien dat je na het uitwerken eenvoudig de getallen bij elkaar optelt.
+**Uitgaven in 2020:**
+- Nu met $A = 4,95$:
+$$ U_{\text{2020}} = 60 + 10 \times 4,95 = 60 + 49,5 = 109,5 $$
+Bekijk goed hoe de getallen stap voor stap tot stand komen, zodat je het proces herhaalt voor andere vergelijkbare vraagstukken. Probeer nu zelf de procentuele verandering uit te rekenen en laat me weten wat je uitkomst is.

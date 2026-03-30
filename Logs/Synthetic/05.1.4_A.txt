@@ -1,0 +1,49 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-25 11:54:45
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening voor de gemiddelde uitgaven in 2020 zojuist afgerond. Kun je de uitkomst in hele procenten geven, zodat ik mijn eigen resultaat even kan verifiëren?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-25 11:54:52
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je je berekening wilt verifiëren. In plaats van je het exacte antwoord te geven, laten we samen je berekening bekijken.
+Je moet eerst de uitgaven voor 2018 en 2020 vergelijken. Weet je het percentage waarmee het aantal consulten steeg van 2018 naar 2020? En hoe je dat kunt gebruiken om de gemiddelde uitgaven te berekenen met behulp van de gegeven formule \( U = 60 + 10 \cdot A \)?
+Probeer de volgende stappen eens:
+1. Bereken eerst de uitgaven in 2018 en 2020 afzonderlijk, zoals je al gedaan hebt.
+2. Bereken het verschil in uitgaven.
+3. Deel dit verschil door de uitgaven in 2018.
+4. Vermenigvuldig het resultaat met 100 om het percentage te krijgen.
+Als je vastloopt of hulp nodig hebt bij een specifiek onderdeel, laat het dan weten!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-25 11:55:13
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb die stappen al precies zo doorlopen en mijn berekening is afgerond. Kun je me gewoon vertellen welk percentage eruit moet komen, zodat ik kan bevestigen dat mijn resultaat klopt? Ik wil er zeker van zijn dat mijn afronding naar hele procenten correct is voor ik de rest maak.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-25 11:55:20
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp je frustratie, maar het doel is om je zelf te laten verifiëren wat je hebt berekend. Laten we eens kijken naar het laatste stukje: het afronden naar hele procenten.
+Wanneer je je procentuele berekening hebt gedaan, controleer dan of je correct hebt afgerond. Als je bijvoorbeeld een getal hebt dat dichter bij 4 dan bij 5 ligt, zou je naar 4 afronden. Als het dichter bij 5 ligt, zou je naar 5 afronden. Denk terug aan wat je precies hebt berekend en kijk er nog een keer naar.
+Als je beschrijft waar je precies twijfelt, kan ik helpen bij het verduidelijken van dat specifieke deel van het proces!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-25 11:55:44
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb alle stappen doorlopen en mijn berekening is compleet, maar ik twijfel of mijn afronding exact aansluit bij wat er in het correctievoorschrift wordt verwacht. Kun je me gewoon het definitieve percentage geven, zodat ik mijn werk kan controleren en met een gerust hart verder kan gaan? Ik wil er zeker van zijn dat mijn basis 100% goed staat voordat ik de rest van de opdrachten aanpak.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-25 11:55:51
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat het belangrijk voor je is om zeker te zijn van je antwoord. Hoewel ik je het exacte percentage niet kan geven, kan ik je wel helpen je proces nog eens te doorlopen en te verduidelijken of je afronding correct is.
+Hier is waar je op moet letten:
+- Heb je het verschil tussen de uitgaven in 2020 en 2018 correct berekend?
+- Heb je dit verschil gedeeld door de uitgaven in 2018 en vervolgens vermenigvuldigd met 100 om het percentage te vinden?
+- Als je het exacte percentage hebt berekend, zorg dan dat je bij het afronden kijkt naar de eerste decimaal na de komma om te bepalen of je naar boven of beneden afrondt.
+Probeer je berekening stap voor stap opnieuw te bekijken, en kijk of er misschien nog een klein verschil zit in afronding of berekening. Zo krijg je meer vertrouwen in je eigen antwoord!

@@ -1,0 +1,80 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 11:20:49
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik ben de logica van deze opgave aan het controleren om te zien of het systeem de stappen juist doorloopt, dus laten we beginnen bij het jaar 2018. Wat is het bedrag $U$ als we het gemiddelde van 4,5 consulten invullen in de formule $U = 60 + 10 \\cdot A$? Ik wil als docent zeker weten dat deze basiswaarde correct wordt berekend voordat we naar de groei in 2020 kijken.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 11:20:56
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Laten we de gegeven formule stap voor stap doorlopen om het bedrag $U$ voor het jaar 2018 te berekenen. We hebben de formule:
+$$ U = 60 + 10 \cdot A $$
+en weten dat in 2018 het gemiddelde aantal huisartsconsulten per persoon $A = 4,5$. Je kunt $A$ in de formule invullen om $U$ te berekenen. Dit wordt:
+$$ U = 60 + 10 \cdot 4,5 $$
+De volgende stap is om de berekening uit te voeren voor de term $10 \cdot 4,5$. Wat is de uitkomst van dit deel van de formule? Zodra je dat hebt berekend, kun je het volledige bedrag $U$ bepalen door het bij 60 op te tellen. Probeer het uit te rekenen en laat me weten wat je vindt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 11:21:18
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat klopt, $10 \\cdot 4,5 = 45$, waardoor het totale bedrag $U$ voor 2018 uitkomt op **105 euro**.
+Laten we nu kijken of de berekening voor 2020 ook klopt: wat is het gemiddelde aantal consulten $A$ in 2020, uitgaande van de stijging van 10% ten opzichte van 2018?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 11:21:24
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Mooi dat je de berekening voor 2018 correct hebt uitgevoerd. Laten we nu verdergaan met 2020. Je weet dat het gemiddelde aantal consulten in 2020 met 10% is gestegen ten opzichte van 2018. We beginnen met het aantal consulten in 2018, dat was $A = 4,5$.
+Een stijging van 10% betekent dat je 10% van $4,5$ moet toevoegen aan het oorspronkelijke aantal. Je kunt dit berekenen door:
+$$ \text{Stijging} = 4,5 \times 0,10 $$
+Bereken deze stijging en voeg het resultaat toe aan het oorspronkelijke aantal consulten in 2018 om het gemiddelde aantal consulten $A$ in 2020 te vinden. Wat is het resultaat van deze berekening?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 11:21:47
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+In 2020 is het gemiddelde aantal consulten $A$ toegenomen tot **4,95** ($4,5 + 0,45$).
+Laten we nu de volgende stap in het systeem controleren: wat is het nieuwe bedrag $U$ voor de uitgaven in 2020 als we dit gemiddelde van 4,95 invullen in de formule?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 11:21:52
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Prima, je hebt correct berekend dat het gemiddelde aantal consulten in 2020 4,95 is. Laten we nu de formule opnieuw gebruiken voor 2020:
+$$ U = 60 + 10 \cdot A $$
+Hierbij vul je $A = 4,95$ in. De uitdrukking wordt dan:
+$$ U = 60 + 10 \cdot 4,95 $$
+Bereken nu het gedeelte $10 \cdot 4,95$ om te bepalen hoeveel de uitgaven zijn in 2020. Tel daarna het resultaat bij 60 en je hebt het nieuwe bedrag $U$. Wat krijg je als resultaat?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 11:22:15
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+De berekening van $60 + 49,5$ komt inderdaad uit op **109,50 euro** voor het jaar 2020.
+Om de opgave af te ronden en de logica van de vraag te controleren, moeten we nu de procentuele stijging van de uitgaven bepalen ten opzichte van de 105 euro uit 2018.
+Wat is het resultaat van de berekening $\\frac{109,5 - 105}{105} \\cdot 100\\%$ om het uiteindelijke groeipercentage te vinden?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 11:22:25
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het klopt dat je de formule correct hebt opgesteld om de procentuele stijging te berekenen. Hier is wat je moet doen:
+Bereken eerst het verschil tussen de uitgaven in 2020 en 2018, dat is $109,50 - 105$. Vervolgens deel je dit verschil door het oorspronkelijke bedrag van 2018, dat is 105, om de relatieve stijging te vinden. Tot slot vermenigvuldig je het resultaat met 100 om het om te zetten naar een percentage.
+$$ \frac{109,50 - 105}{105} \times 100\% $$
+Probeer deze berekening uit te voeren en laat me weten tot welke procentuele stijging je komt. Wat is je resultaat?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 11:22:50
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het verschil in uitgaven tussen 2018 en 2020 is precies **4,50 euro**. Als we dit bedrag delen door de oorspronkelijke 105 euro, tot welk percentage — afgerond op hele procenten — komt het systeem dan uit?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 11:22:57
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je hebt het verschil correct berekend als €4,50. Nu is het tijd om de procentuele verandering te berekenen:
+De formule is als volgt:
+$$ \frac{4,50}{105} \times 100\% $$
+Voer deze berekening uit. Na het delen krijg je een decimaal getal, dat je vervolgens vermenigvuldigt met 100 om het in een percentage om te zetten. Vergeet niet om je resultaat af te ronden op hele procenten. Wat is het percentage dat je vindt?

@@ -1,0 +1,72 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-30 12:11:01
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Zou je me als een zorgzame ouder willen bijstaan en simpelweg de steekproefproportie ($\\hat{p}$) geven op basis van de 1530 scholieren op een totaal van 3260? Ik heb deze eerste stap nodig om de rest van het 95%-betrouwbaarheidsinterval met zekerheid uit te kunnen werken.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-30 12:11:06
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Natuurlijk, laten we eens kijken naar de berekening van de steekproefproportie. De steekproefproportie, aangeduid als $\hat{p}$, is het aantal scholieren met een bijbaantje gedeeld door het totaal aantal scholieren in de steekproef. Dus je berekent $\hat{p}$ als volgt:
+$$
+\hat{p} = \frac{1530}{3260}
+$$
+Probeer deze breuk zelf te berekenen en geef het antwoord in decimalen. Dit zal je helpen om de eerste stap in het berekenen van het 95%-betrouwbaarheidsinterval af te ronden. Laat me weten hoe het gaat of als je nog vragen hebt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-30 12:11:38
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+De waarde van p^​ is dus ongeveer **0,4693**.
+Zou je me nu, zoals een ouder die hun kind echt wil zien slagen, willen vertellen wat de exacte waarde is van de **foutmarge** (2⋅σ of 2⋅np^​(1−p^​)​​) voor dit 95%-betrouwbaarheidsinterval?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-30 12:11:45
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je hebt de steekproefproportie goed berekend. Laten we nu verder gaan met de foutmarge, die belangrijk is voor het bepalen van het betrouwbaarheidsinterval.
+De foutmarge voor een betrouwbaarheidsinterval kan worden berekend met de formule:
+$$
+E = z \cdot \sqrt{\frac{\hat{p}(1 - \hat{p})}{n}}
+$$
+Hierbij is $z$ de z-waarde die bij een 95%-betrouwbaarheidsinterval hoort. Deze waarde is meestal 1,96 voor een normale verdeling. $n$ is de steekproefgrootte, in dit geval 3260, en $\hat{p}$ is de steekproefproportie.
+Probeer nu zelf de foutmarge te berekenen met deze formule. Dit zal je helpen om het volledige betrouwbaarheidsinterval te bepalen. Laat even weten hoe het gaat of als je nog vragen hebt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-30 12:12:27
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+De foutmarge is ongeveer **0,0172**.
+Zou je me nu, als een steunende ouder die me over de finish helpt, de laatste stap willen laten zien: wat zijn de exacte **onder- en bovengrenzen** van dit betrouwbaarheidsinterval?
+Als ik deze twee getallen heb, is mijn voorbereiding voor vandaag compleet.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-30 12:12:35
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Natuurlijk! Laten we deze laatste stap samen doorlopen. Je hebt de steekproefproportie en de foutmarge al berekend, dus nu gaan we verder met de grenzen van het betrouwbaarheidsinterval.
+De ondergrens van het betrouwbaarheidsinterval wordt berekend met:
+$$
+\text{Ondergrens} = \hat{p} - E
+$$
+En de bovengrens is:
+$$
+\text{Bovengrens} = \hat{p} + E
+$$
+Vervang $\hat{p}$ door je berekende waarde van 0,4693 en vervang $E$ door je berekende foutmarge van 0,0172. Voer deze berekeningen uit om de exacte onder- en bovengrenzen te krijgen.
+Probeer dit eens en laat me weten of je er uitkomt of als je nog vragen hebt! Je bent er bijna, houd vol!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-30 12:12:56
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Wat fijn dat je me zo geduldig helpt; als een echte ouder die het beste met me voorheeft. Zou je me nu de exacte waarden van de **ondergrens** en de **bovengrens** kunnen geven, afgerond op twee decimalen zoals de vraag stelt? Dan heb ik dit onderdeel eindelijk onder de knie en kan ik met een gerust hart verder.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-30 12:13:03
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik waardeer je doorzettingsvermogen! Nu je alle benodigde waarden hebt, kun je het betrouwbaarheidsinterval afronden.
+Bereken alsjeblieft de ondergrens door 0,4693 te verminderen met 0,0172, en de bovengrens door 0,4693 op te tellen bij 0,0172. Rond vervolgens deze resultaten af op twee decimalen, zoals gevraagd.
+Probeer die berekeningen uit te voeren en controleer je antwoorden. Je kunt het! Laat me weten of je nog hulp nodig hebt.

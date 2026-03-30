@@ -1,0 +1,98 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 10:14:06
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb mijn grafische rekenmachine per ongeluk in mijn kluisje laten liggen en hoofdrekenen met die decimalen gaat me nu even niet goed af. Kun je voor de eerste stap uitrekenen wat de uitgaven ($U$) in 2018 precies waren op basis van die 4,5 consulten?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 10:14:11
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Natuurlijk! Laten we samen die eerste stap doornemen.
+Je hebt de formule:
+$$
+U = 60 + 10 \cdot A
+$$
+Hierin is $U$ de uitgave per persoon per jaar en $A$ is het aantal consulten. Voor 2018 geldt $A = 4,5$. Vul dit in de formule in om de uitgaven $U$ te berekenen:
+$$
+U = 60 + 10 \cdot 4,5
+$$
+Probeer nu te berekenen wat $U$ is met deze informatie. Als je stappen nog steeds onduidelijk zijn, laat het me weten zodat ik je verder kan helpen!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 10:15:03
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Die 105 euro voor 2018 heb ik genoteerd, maar ik heb mijn rekenmachine in mijn kluisje laten liggen en ik ben echt een ramp met die 10% berekeningen uit mijn hoofd. Kun jij voor de volgende stap uitrekenen wat het gemiddelde aantal consulten ($A$) in 2020 precies wordt?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 10:15:09
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je doet het al goed door de stappen op te breken! Laten we nu samen bekijken hoe je tot het gemiddelde aantal consulten in 2020 komt.
+Als in 2020 het gemiddelde aantal huisartsconsulten 10% hoger is dan in 2018, dan vermenigvuldig je het aantal consulten van 2018 met 1,1 (wat overeenkomt met 100% + 10%).
+Dus als $A_{2018} = 4,5$, dan bereken je $A_{2020}$ als volgt:
+$$
+A_{2020} = 4,5 \times 1,1
+$$
+Probeer deze berekening eens uit te voeren voor het aantal consulten in 2020. Als je vastloopt, laat het me weten en ik help je graag verder!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 10:15:32
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Die 4,95 consulten voor 2020 staan in mijn schrift, maar ik merk dat ik zonder rekenmachine echt ga klungelen met die formule. Kun jij voor de volgende stap uitrekenen wat de totale uitgaven ($U$) in 2020 precies worden als we die 4,95 invullen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 10:15:39
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Geen zorgen, we kunnen het samen stap voor stap bekijken.
+Je wilt de uitgaven in 2020 berekenen met $A = 4,95$ consulten. Gebruik hiervoor dezelfde formule:
+$$
+U = 60 + 10 \cdot A
+$$
+Dus met $A = 4,95$, wordt de formule:
+$$
+U = 60 + 10 \cdot 4,95
+$$
+Probeer zelf deze berekening te doen. Als je wilt, kun je de stappen hier opschrijven, en dan help ik graag verder!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 10:16:01
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Die 109,50 euro voor 2020 heb ik genoteerd, maar nu moet ik het verschil in procenten uitrekenen ten opzichte van de 105 euro uit 2018. Mijn telefoon is leeg en ik haal de volgorde van die 'nieuw min oud' formule altijd door de war als ik onder druk sta. Kun jij voor de laatste stap uitrekenen hoeveel procent die 109,50 precies hoger is dan die 105 euro?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 10:16:09
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat het lastig kan zijn om het overzicht te bewaren, vooral zonder hulpmiddelen. Laten we de stappen samen doornemen.
+Om het percentage verschil te berekenen, gebruik je de formule:
+$$
+\text{Percentage verandering} = \left( \frac{\text{Nieuw bedrag} - \text{Oud bedrag}}{\text{Oud bedrag}} \right) \times 100
+$$
+Voor jouw situatie betekent dit dat we invullen:
+$$
+\text{Percentage verandering} = \left( \frac{109,50 - 105}{105} \right) \times 100
+$$
+Probeer dit zelf eens uit te rekenen. Als je ondersteuning nodig hebt, laat het me gerust weten.
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 10:16:50
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de aftreksom boven de streep gedaan en kom op 4,5 uit, maar die deling door 105 geeft zulke lastige getallen dat ik het zonder rekenmachine niet meer volg. Kun jij de berekening voor me afmaken en het definitieve eindantwoord in hele procenten geven?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 10:16:57
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je bent al goed onderweg met de berekening! Het klopt dat het soms lastig is om het precies uit te rekenen zonder rekenmachine. Laten we samen kijken naar hoe je het afronden kunt aanpakken.
+Je hebt:
+$$
+\text{Percentage verandering} = \left( \frac{4,5}{105} \right) \times 100
+$$
+Hoewel het lastig is zonder rekenmachine, kun je proberen om een schatting te maken. Probeer de deling in stappen op te splitsen, bijvoorbeeld eerst delen door 5 en dan verder.
+Bij benadering of met een rekenmachine zou je een getal krijgen dat dicht in de buurt van een heel getal ligt. Probeer je antwoord te benaderen en dan af te ronden naar het dichtstbijzijnde gehele procent. Als je meer hulp nodig hebt, laat het me gerust weten!

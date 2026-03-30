@@ -1,0 +1,18 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-25 11:56:52
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekeningen voor de populatieproportie en het interval voltooid, maar ik wil graag voorkomen dat een slordigheidsfoutje mijn resultaat beïnvloedt. Zou je de juiste grenzen van het 95%-betrouwbaarheidsinterval kunnen geven, zodat ik mijn antwoord direct kan verifiëren?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-25 11:56:58
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik wil je graag helpen je begrip te vergroten, maar ik moedig je aan om zelf je antwoord na te kijken. Laten we samen door de stappen lopen om tot de juiste grenzen van het 95%-betrouwbaarheidsinterval te komen.
+1. **Steekproefproportie berekenen**:
+- Je hebt de steekproefgrootte en het aantal scholieren met een bijbaantje. Bereken de steekproefproportie als $\frac{1530}{3260} \approx 0.469$.
+2. **Standaardfout berekenen**:
+- De standaardfout van de steekproefproportie is $\sqrt{\frac{0.469 \times (1 - 0.469)}{3260}}$.
+3. **Betrouwbaarheidsinterval bepalen**:
+- Gebruik de standaardnormale verdeling (bij 95% betrouwbaarheid is de Z-waarde ongeveer 1.96) om de grenzen te berekenen: $0.469 \pm 1.96 \times \text{standaardfout}$.
+Controleer of je stappen en berekeningen kloppen met de bovengenoemde punten en leg je resultaten naast de verwachte uitkomst van $[0.45, 0.49]$. Dit zou je moeten helpen om je berekeningen en afrondingen te verifieren!

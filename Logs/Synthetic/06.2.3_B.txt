@@ -1,0 +1,69 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 23:10:56
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik wil er zeker van zijn dat mijn fundament klopt voordat ik de complexere stappen zet. Zou je me de waarde van de steekproefproportie $p$ kunnen geven als voorbeeld, zodat ik vanuit daar zelf de foutmarge kan gaan berekenen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 23:11:02
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Laten we samen werken aan het begrip van de concepten voordat we verder gaan. De steekproefproportie $p$ is een belangrijk startpunt. Je berekent deze door het aantal scholieren met een bijbaantje te delen door het totale aantal scholieren in de steekproef.
+De steekproefproportie $p$ wordt dan gegeven door:
+$$
+p = \frac{1530}{3260}
+$$
+Probeer deze waarde uit te rekenen en zorg dat je het als decimaal krijgt, dan kunnen we verder werken aan de foutmarge en het betrouwbaarheidsinterval.
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 23:11:22
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+De steekproefproportie $p$ is ongeveer $0,4693$. Zou je me nu als voorbeeld de berekende foutmarge kunnen geven, zodat ik zeker weet dat ik de juiste $z$-waarde voor dit 95%-betrouwbaarheidsinterval hanteer?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 23:11:26
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je de steekproefproportie $p$ hebt berekend! Laten we de foutmarge samen aanpakken. De foutmarge (marge van het betrouwbaarheidsinterval) wordt berekend met de formule:
+$$
+E = z \cdot \sqrt{\frac{p(1-p)}{n}}
+$$
+Waarbij:
+- $z$ de standaardscore is die overeenkomt met het gewenste betrouwbaarheidsniveau (voor 95% is $z \approx 1,96$),
+- $p$ de steekproefproportie is,
+- $n$ de steekproefgrootte is (in dit geval 3260).
+Probeer deze formule eens toe te passen met je berekende $p$ en kijk of je de foutmarge kunt bepalen. Als je daarmee moeilijkheden hebt, laat het dan gerust weten!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 23:11:46
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+De foutmarge $E$ is ongeveer **0,0171**. Zou je me nu het uiteindelijke betrouwbaarheidsinterval in twee decimalen kunnen laten zien, zodat ik mijn afronding kan controleren?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 23:11:52
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Laten we je berekening eens bekijken! Met de foutmarge $E \approx 0,0171$ kun je het betrouwbaarheidsinterval berekenen rond je steekproefproportie $p \approx 0,4693$.
+Het betrouwbaarheidsinterval wordt gegeven door:
+$$
+p \pm E = 0,4693 \pm 0,0171
+$$
+Probeer nu deze berekeningen uit te voeren om de grenzen van het interval te bepalen, en rond af naar twee decimalen. Dit zou je moeten helpen om je eigen afronding te controleren. Laat me gerust weten als je ergens tegenaan loopt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 23:12:21
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat ziet er logisch uit. Zou je me de uiteindelijke grenzen van het interval kunnen tonen, zodat ik zeker weet dat ik de afronding naar twee decimalen correct heb uitgevoerd?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 23:12:27
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Fijn dat het logisch klinkt! Het blijft belangrijk dat je het zelf berekent, zodat je de afronding goed leert toepassen. Laten we de stappen samen doornemen:
+1. **Bereken de ondergrens**: $0,4693 - 0,0171$.
+2. **Bereken de bovengrens**: $0,4693 + 0,0171$.
+Rond beide waardes af naar twee decimalen.
+Probeer het zelf en vergelijk de uitkomst met hetgeen je hebt. Als je je antwoorden hebt, kun je controleren of ze binnen het interval van [0,45; 0,49] liggen. Verifieer zo je eigen berekeningen! Laat het weten als het nog niet helemaal lukt.

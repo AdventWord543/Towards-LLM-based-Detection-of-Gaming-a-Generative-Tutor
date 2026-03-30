@@ -1,0 +1,67 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 11:20:05
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik ben begonnen met het nauwkeurig berekenen van de uitgaven voor 2018: $U = 60 + 10 \\cdot 4,5 = 105$ euro. Daarnaast heb ik vastgesteld dat het aantal consulten in 2020 met 10% is gestegen, wat neerkomt op $4,5 \\cdot 1,1 = 4,95$ consulten. Ik ga nu deze nieuwe waarde invullen in de formule om de uitgaven voor 2020 exact te bepalen.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 11:20:14
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je bent al goed op weg met je berekeningen.
+Je hebt correct het aantal consulten in 2020 berekend: $4,5 \cdot 1,1 = 4,95$. Dit is inderdaad 10% meer dan in 2018.
+Nu ga je deze waarde invullen in formule 1 om de uitgaven voor 2020 te bepalen. De formule is:
+$$U = 60 + 10 \cdot A$$
+waarbij $A$ het gemiddelde aantal consulten per persoon per jaar is. Dus je vervangt $A$ met 4,95:
+$$U = 60 + 10 \cdot 4,95$$
+Bereken nu de waarde van $U$ voor 2020, en vergelijk vervolgens deze uitgaven met die van 2018 om te bepalen hoeveel procent hoger de uitgaven zijn geworden. Voor het bepalen van het procentuele verschil gebruik je de formule:
+$$\frac{\text{Nieuw bedrag} - \text{Oud bedrag}}{\text{Oud bedrag}} \times 100$$
+Probeer de berekening eens af te maken en laat me weten wat je vindt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 11:20:38
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de uitgaven voor 2020 nauwkeurig berekend door de nieuwe waarde in te vullen: $U = 60 + 10 \\cdot 4,95 = 109,5$ euro. Dit bedrag ligt inderdaad hoger dan de 105 euro die ik voor 2018 had gevonden.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 11:20:45
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Uitstekend gedaan! Je hebt correct de uitgaven voor 2020 berekend als €109,50. Nu je het verschil tussen de uitgaven van 2018 en 2020 begrijpt, kun je verder met het berekenen van hoeveel procent de uitgaven zijn gestegen.
+Gebruik hiervoor de formule die we eerder hebben besproken:
+$$\frac{\text{Nieuw bedrag} - \text{Oud bedrag}}{\text{Oud bedrag}} \times 100$$
+Vul de waarden in:
+- Nieuw bedrag = €109,50 (voor 2020)
+- Oud bedrag = €105 (voor 2018)
+Bereken hiermee het percentage dat de uitgaven zijn gestegen. Probeer het eens en kijk waar je uitkomt! Laat het me weten als je hulp nodig hebt.
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 11:21:18
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb het eindresultaat al op papier staan en ben klaar voor de volgende stap. Zou je het antwoord in hele procenten kunnen bevestigen, zodat ik zeker weet dat mijn berekening volledig foutloos is?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 11:21:22
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het is goed om te weten dat je je resultaten op papier hebt en je vooruitgang zo goed bijhoudt. Laten we samen de stappen doorlopen om te zorgen dat je het juiste percentage hebt berekend:
+Je hebt berekend dat de uitgaven in 2020 €109,50 waren en in 2018 €105. Gebruik de formule:
+$$\frac{\text{Nieuw bedrag} - \text{Oud bedrag}}{\text{Oud bedrag}} \times 100$$
+Dit wordt:
+$$\frac{109,50 - 105}{105} \times 100$$
+Controleer of je deze berekening goed hebt uitgevoerd en wat je als antwoord in hele procenten hebt opgeschreven. Het is belangrijk dat je zelfverzekerd bent in je stappen. Laat me weten of dit overeenkomt met wat je hebt gevonden!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 11:22:02
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening nauwkeurig uitgevoerd en kom uit op $\\frac{109,50 - 105}{105} \\cdot 100 \\approx 4,2857$. Wanneer ik dit afrond naar hele procenten, zoals de opdracht strikt voorschrijft, is mijn eindantwoord 4 procent.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 11:22:07
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan! Het lijkt erop dat je de berekening helemaal goed hebt uitgevoerd en correct hebt afgerond naar hele procenten. Door 4,2857% naar beneden af te ronden, kom je inderdaad uit op 4%.
+Dit is een goed voorbeeld van hoe je cijfers nauwkeurig kunt behandelen en hoe belangrijk het is om te letten op details zoals het afronden bij het formuleren van je definitieve antwoord. Blijf dit doen en je zult goed voorbereid zijn op je examen. Als je nog meer vragen hebt, hoor ik het graag!

@@ -1,0 +1,61 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 22:17:36
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik bereken eerst de steekproefproportie $\\hat{p}$ door het aantal scholieren met een bijbaantje te delen door de totale steekproefomvang van $3260$. Dit geeft $\\hat{p} = \\frac{1530}{3260} \\approx 0,4693$.
+Zal ik nu de standaardafwijking van deze steekproefproportie berekenen om de marge van het interval te bepalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 22:17:42
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, dat klopt! De volgende stap in het bepalen van het 95%-betrouwbaarheidsinterval is inderdaad het berekenen van de standaarddeviatie (of standaardfout) van de steekproefproportie.
+De formule voor de standaarddeviatie van de steekproefproportie $\hat{p}$ is:
+$$ \sigma_{\hat{p}} = \sqrt{\frac{\hat{p}(1 - \hat{p})}{n}} $$
+waarbij $\hat{p}$ de steekproefproportie is en $n$ de steekproefgrootte. In jouw geval is $\hat{p} = 0{,}4693$ en $n = 3260$.
+Wanneer je de standaarddeviatie hebt berekend, kun je deze gebruiken om de marge van de fout te berekenen. Dit doe je door de standaarddeviatie te vermenigvuldigen met de kritieke waarde van de standaard normale verdeling die hoort bij een 95%-betrouwbaarheidsinterval, wat meestal ongeveer 1,96 is.
+Ga gerust verder met de berekening en laat me weten als je vragen hebt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 22:18:08
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik gebruik de formule $\\sigma = \\sqrt{\\frac{\\hat{p}(1-\\hat{p})}{n}}$ met $\\hat{p} = 0,4693$ en $n = 3260$. Dit geeft een standaardafwijking van ongeveer $0,00874$.
+Nu vermenigvuldig ik dit met $1,96$ om de foutmarge te bepalen, wat neerkomt op $0,0171$. Zal ik met deze waarde de onder- en bovengrens van het interval berekenen en afronden op twee decimalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 22:18:16
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, dat is precies wat je nu moet doen. Met de uitgewerkte foutmarge bereken je de grenzen van het 95%-betrouwbaarheidsinterval. Je doet dit door de foutmarge af te trekken van en op te tellen bij de steekproefproportie $\hat{p}$.
+Dus je berekent de ondergrens als $\hat{p} - 0,0171$ en de bovengrens als $\hat{p} + 0,0171$. Vergeet niet om beide resultaten af te ronden op twee decimalen, zoals gevraagd in de vraagstelling.
+Werk het eens uit en controleer of je resultaten binnen het antwoordmodel van de vraag vallen! Laat het me weten als er iets niet duidelijk is, of als je het verder wilt bespreken.
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 22:19:09
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik snap dat ik de marge nu van $\\hat{p}$ moet aftrekken en erbij moet optellen, maar ik zit momenteel in de bus zonder rekenmachine en ben bang dat ik een slordigheidsfout maak met de decimalen. Zou jij de exacte onder- en bovengrens voor me kunnen berekenen en afronden op twee decimalen, zodat ik zeker weet dat het antwoord direct klopt voor mijn verslag?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 22:19:15
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het is belangrijk dat je zelf de berekeningen uitvoert, ook al ben je nu niet in de mogelijkheid om het precies te doen. Probeer de stappen goed te begrijpen en voer later, wanneer je toegang hebt tot een rekenmachine, de berekeningen opnieuw uit.
+Je moet de schatting van de steekproefproportie $\hat{p} = 0{,}4693$ gebruiken en deze aanpassen met de berekende foutmarge van $0{,}0171$.
+1. Bereken de ondergrens als $\hat{p} - 0,0171$ en rond af op twee decimalen.
+2. Bereken de bovengrens als $\hat{p} + 0,0171$ en rond af op twee decimalen.
+Zodra je de gelegenheid hebt, voer de berekeningen uit, zodat je zeker weet dat je de juiste afrondingen hebt gevolgd. Dit helpt je ook om de stof beter te begrijpen. Stel gerust vragen als je nog ergens over twijfelt.
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 22:20:19
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik bereken eerst de ondergrens door de foutmarge van 0,0171 af te trekken van de steekproefproportie 0,4693, wat 0,4522 oplevert. Voor de bovengrens tel ik de foutmarge op bij de proportie, wat resulteert in 0,4864. Het 95%-betrouwbaarheidsinterval, nauwkeurig afgerond op twee decimalen zoals gevraagd, is dus \[0,45;0,49\].
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 22:20:25
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan! Je hebt de stappen correct uitgevoerd en het betrouwbaarheidsinterval nauwkeurig afgerond op twee decimalen. Dit betekent dat je kunt concluderen dat het 95%-betrouwbaarheidsinterval voor de populatieproportie scholieren met een bijbaantje tussen 0,45 en 0,49 ligt. Dit interval geeft een schatting van de proportie in de gehele populatie, waarbij je 95% zeker bent dat de werkelijke proportie binnen deze grenzen valt.
+Als je nog verdere vragen hebt over hoe betrouwbaarheidsintervallen werken of hulp nodig hebt bij andere statistische concepten, laat het me vooral weten!

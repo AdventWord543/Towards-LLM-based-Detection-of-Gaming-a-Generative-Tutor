@@ -1,0 +1,64 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 09:18:39
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb eerlijk gezegd geen zin om die percentages voor het aantal consulten zelf uit te rekenen. Kun je me vertellen wat de waarde van $A$ voor 2020 precies is, zodat we daarna naar de uitgaven kunnen kijken?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 09:18:45
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat het rekenen met percentages soms vervelend kan zijn, maar het is belangrijk om dergelijke berekeningen zelf te oefenen. Laten we het samen stap voor stap bekijken.
+In de vraag wordt aangegeven dat het gemiddelde aantal huisartsconsulten per persoon in 2020 10% hoger was dan in 2018. In 2018 was het gemiddelde aantal consulten 4,5.
+Probeer eens zelf te berekenen hoeveel 10% van 4,5 is en voeg dat toe aan het originele aantal consulten. Dit helpt je om de waarde van $A$ voor 2020 te vinden. Als je dat hebt gedaan, kun je verder met het berekenen van de kosten voor huisartsenzorg in 2020.
+Laat maar weten wat je hebt gevonden!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 09:19:10
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Oké, 10% van 4,5 is 0,45, dus voor 2020 is $A$ gelijk aan 4,95. Ik heb momenteel echt geen zin in dat repetitieve rekenwerk met die formule voor beide jaren. Wat komt er precies uit voor de uitgaven ($U$) in 2018 en 2020?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 09:19:16
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan met het berekenen van de waarde voor $A$ in 2020! Laten we nu kijken hoe je de formule kunt toepassen voor beide jaren.
+De formule voor de uitgaven aan huisartsenzorg is:
+$$ U = 60 + 10 \cdot A $$
+- Voor 2018 is $A = 4,5$, dus je vervangt $A$ in de formule door 4,5.
+- Voor 2020 heb je $A = 4,95$, die waarde vervang je ook op die plaats in de formule.
+Probeer deze waarden nu zelf in te vullen en de berekeningen te maken. Dit zal je helpen om het concept beter te begrijpen en eventuele knelpunten in de berekeningen eruit te halen. Laat me weten wat je vindt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 09:19:45
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Voor 2018 is de uitkomst 105 euro en voor 2020 is dat 109,50 euro, maar mijn concentratie is nu echt even op. Kun je me simpelweg het eindantwoord geven: hoeveel procent zijn de uitgaven in 2020 hoger dan in 2018?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 09:19:50
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je hebt goed werk geleverd door de waarden voor de uitgaven in 2018 en 2020 te berekenen. Nu hoeven we alleen nog de procentuele toename te berekenen.
+Formuleer het als volgt:
+$$ \text{Procentuele toename} = \frac{\text{Nieuwe waarde} - \text{Oude waarde}}{\text{Oude waarde}} \times 100\% $$
+De nieuwe waarde is de uitgave in 2020 (109,50 euro) en de oude waarde is de uitgave in 2018 (105 euro). Vul deze waarden in de formule in en reken het uit. Dit zal je het percentage geven waarmee de uitgaven in 2020 hoger zijn dan in 2018. Geef me een seintje als je hulp nodig hebt met de berekening!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 09:20:35
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Eerlijk gezegd duizelt het me nu even met die komma's en die honderdsten in de breuk. Zou je het eindantwoord voor me kunnen berekenen, dan begrijp ik de laatste stap hopelijk beter?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 09:20:43
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Geen zorgen, ik kan je helpen door het stap voor stap samen te doen. Laten we de berekening samen bekijken.
+Het gaat erom dat je de procentuele toename berekent van 105 euro naar 109,50 euro. De formule is als volgt:
+$$ \text{Procentuele toename} = \left( \frac{109,50 - 105}{105} \right) \times 100\% $$
+1. Bereken eerst het verschil: $109,50 - 105 = 4,50$.
+2. Deel dit verschil door de oude waarde: $\frac{4,50}{105}$.
+3. Vermenigvuldig het resultaat van stap 2 met 100 om het percentage te krijgen.
+Dit zijn de stappen die je moet volgen. Probeer iedere stap één voor één uit te werken. Mocht je ergens vastlopen, laat het weten, dan help ik je verder!

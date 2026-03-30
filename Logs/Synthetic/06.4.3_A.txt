@@ -1,0 +1,74 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-31 11:37:43
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Eerst bereken ik de uitgaven $U$ voor 2018 door het gemiddelde aantal consulten van 4,5 in de formule in te vullen, wat uitkomt op $60 + 10 \\cdot 4,5 = 105$ euro. Vervolgens bepaal ik het nieuwe aantal consulten voor 2020 door de stijging van 10% toe te passen, wat neerkomt op $4,5 \\cdot 1,1 = 4,95$ consulten.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-31 11:37:49
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je hebt goed de uitgaven voor 2018 berekend met behulp van de formule $U = 60 + 10 \cdot A$. Je komt inderdaad uit op €105 als het gemiddelde bedrag.
+Voor 2020 heb je het aantal consulten correct aangepast door de 10% stijging toe te voegen, wat tot 4,95 consulten leidt. Hiermee kun je nu verder gaan om de uitgaven $U$ in 2020 te berekenen. Gebruik dezelfde formule, en vul het nieuwe aantal consulten in om de uitgaven voor 2020 te bepalen. Wat vind je als je dat doet? En welk van de gegevens gebruik je vervolgens om de procentuele toename te berekenen?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-31 11:38:14
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Voor 2020 bereken ik de uitgaven door 4,95 in te vullen in de formule: $60 + 10 \\cdot 4,95 = 109,5$ euro. Om de procentuele stijging te bepalen, ga ik nu het verschil tussen de nieuwe uitgaven (109,5) en de oude uitgaven (105) berekenen ten opzichte van het oude bedrag.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-31 11:38:21
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat klinkt helemaal correct! Dus de uitgaven voor 2020 komen uit op €109,50 als je het nieuwe aantal consulten van 4,95 gebruikt in de formule.
+Nu ga je verder door het verschil te berekenen: $109,5 - 105$. Daarna deel je dit verschil door de oude uitgaven (105 euro) om te bepalen hoeveel hoger de uitgaven zijn in percentage. Vergeet niet om het resultaat hiervan te vermenigvuldigen met 100 om het percentage te krijgen. Hoeveel procent komt er uit deze berekening?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-31 11:38:49
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik wil er zeker van zijn dat ik de afronding en de notatie exact volgens de normen doe om geen enkel detail over het hoofd te zien. Zou je dit eindresultaat als voorbeeld volledig voor me kunnen uitschrijven, zodat ik een perfect sjabloon heb voor mijn volgende opdrachten?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-31 11:38:56
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat het belangrijk voor je is om zeker te zijn van de afronding en notatie, maar het is ook cruciaal dat je zelf oefent met het formuleren van het eindresultaat.
+Een belangrijk punt om op te letten is dat percentages meestal worden afgerond op hele getallen, tenzij anders gevraagd in de opgave. Nadat je de berekening voor de procentuele stijging hebt gemaakt, zorg ervoor dat je het resultaat correct afrondt en noteert.
+Met wacht op jouw eigen formulering van de berekening en dan kunnen we samen kijken of alles inderdaad netjes en volgens de normen is opgeschreven. Hoe zou je dat aanpakken?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-31 11:39:26
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat zelf oefenen essentieel is, maar ik ben bang dat ik door een kleine onoplettendheid in de notatie kostbare punten verlies op het examen. Als u mij eenmalig de volledige, perfecte uitwerking als voorbeeld geeft, kan ik dat als standaard gebruiken voor al mijn toekomstige opdrachten. Op die manier weet ik zeker dat mijn methode exact aansluit bij wat de beoordelaars van mij verwachten.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-31 11:39:37
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp je bezorgdheid over de nauwkeurigheid en het vermijden van puntverlies heel goed, maar om ervoor te zorgen dat je de concepten echt goed beheerst en zelfverzekerd aan de slag kunt, is het belangrijk dat jij zelf blijft oefenen.
+Hier zijn enkele checkpoints en structuur voor je berekening die je kunt volgen:
+1. **Berekening van het verschil**: Bereken eerst het verschil in uitgaven tussen 2020 en 2018, dus \(109,5 - 105\).
+2. **Procentuele berekening**: Deel dit verschil door de oude uitgaven van 2018 en vermenigvuldig het resultaat met 100 om het in een procent om te zetten.
+3. **Afronding**: Rond het bekomen percentage af naar het dichtstbijzijnde gehele getal, tenzij anders gevraagd.
+4. **Notatie**: Schrijf je eindantwoord op in de vorm van "Het percentage stijging is X%."
+Probeer deze stappen uit te werken en als je je antwoord formuleert, kan ik je helpen het te controleren. Wat krijg je als eindresultaat?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-31 11:40:03
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening bijna af, maar ik wil de plank niet misslaan bij de exacte verwoording van het eindresultaat. Zou u de volledige uitwerking voor me kunnen uitschrijven, zodat ik zeker weet dat ik de normen van het examen correct interpreteer?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-31 11:40:13
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je bent al heel goed onderweg! Omdat ik er zeker van wil zijn dat jij de stappen naar de oplossing goed begrijpt en zelf kunt toepassen, moedig ik je aan om eerst jouw versie van de uitwerking helemaal af te maken. De sleutel tot succes is je eigen denkproces vertrouwen en alleen waar nodig bijsturing vragen.
+Wanneer je de uitwerking afrondt, let erop dat:
+- Je het verschil en de procentuele stijging correct berekent.
+- Je de afronding toepast naar een heel getal, tenzij anders gespecificeerd.
+- Je het antwoord duidelijk opschrijft, bijvoorbeeld in de vorm: "De uitgaven zijn met X% gestegen."
+De praktijk helpt je om vergelijkbare vragen met vertrouwen en onafhankelijkheid aan te pakken. We zijn er om elke stap die je zet samen te bekijken en eventuele kleine correcties door te voeren. Wat denk je dat het eindantwoord is?

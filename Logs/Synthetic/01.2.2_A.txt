@@ -1,0 +1,78 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 12:49:38
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dag! Ik wil deze opgave graag goed begrijpen voor mijn voorbereiding. Zou je me kunnen helpen door eerst te berekenen wat de gemiddelde uitgaven ($U$) in 2018 precies waren op basis van de formule?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 12:49:45
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Natuurlijk! Laten we samen door de stappen gaan hoe je de gemiddelde uitgaven in 2018 kunt berekenen met de gegeven formule.
+Je hebt de formule voor de uitgaven aan huisartsenzorg per persoon per jaar:
+$$ U = 60 + 10 \times A $$
+In 2018 was het gemiddelde aantal huisartsconsulten per persoon $A = 4,5$.
+We kunnen nu deze waarde van $A$ invullen in de formule:
+1. Plaats het gegeven aantal consulten in de formule:
+$$ U = 60 + 10 \times 4,5 $$
+2. Reken de vermenigvuldiging uit. Wat is $10 \times 4,5$?
+3. Voeg de uitkomst van die vermenigvuldiging bij de €60 om tot de totale gemiddelde uitgaven te komen.
+Probeer deze stappen te volgen en te berekenen wat $U$ in 2018 was. Als je vastloopt, laat het me weten!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 12:50:03
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat is helder, $10 \\cdot 4,5$ is 45, dus de uitgaven in 2018 waren €105. Voor 2020 moeten we blijkbaar eerst berekenen hoeveel consulten ($A$) er toen waren met die stijging van 10%; hoeveel is dat precies?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 12:50:08
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan met de berekening van de uitgaven in 2018! Laten we nu naar 2020 kijken.
+Je weet dat het aantal huisartsconsulten in 2020 met 10% is gestegen ten opzichte van 2018. In 2018 waren er gemiddeld 4,5 consulten per persoon.
+Om uit te rekenen hoeveel consulten er in 2020 waren, doe je het volgende:
+1. Bereken 10% van het aantal consulten in 2018:
+$$ 0,10 \times 4,5 $$
+2. Tel deze uitkomst op bij het gemiddelde aantal consulten in 2018 om het nieuwe aantal consulten in 2020 te krijgen.
+Kun je deze stappen uitvoeren om het aantal consulten in 2020 te berekenen? Laat maar weten wat je vindt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 12:51:10
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Met $A = 4,95$ komt de waarde van $U$ voor 2020 uit op €109,50. Kunt u me nu uitleggen welke formule ik precies moet gebruiken om dit te vergelijken met de €105 uit 2018, zodat ik op het juiste groeipercentage in hele procenten uitkom?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 12:51:16
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Uitstekend werk! Je hebt correct berekend dat $U$ voor 2020 €109,50 is. Nu moeten we het procentuele verschil berekenen ten opzichte van 2018.
+Hiervoor gebruik je de formule voor procentuele toename:
+$$ \text{Toename} = \left(\frac{U_{2020} - U_{2018}}{U_{2018}}\right) \times 100 $$
+In jouw situatie heb je:
+- $U_{2020} = 109,50$
+- $U_{2018} = 105$
+Je vult deze waarden in de formule in als volgt:
+1. Bereken het verschil: $U_{2020} - U_{2018} = 109,50 - 105$
+2. Deel de uitkomst door $U_{2018}$.
+3. Vermenigvuldig met 100 om het verschil in procenten uit te drukken.
+Doorloop deze stappen en kijk of je het juiste percentage kunt berekenen. Laat het me weten als je vragen hebt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 12:51:58
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb het verschil van €4,50 gevonden, maar ik vind de laatste stap met de deling door €105 lastig om precies te berekenen. Zou u me kunnen vertellen welk percentage daar als eindantwoord uitkomt als ik het afrond op hele procenten?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 12:52:03
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Laten we samen door die laatste stap heen kijken. Je hebt het verschil van €4,50 goed berekend.
+De volgende stap is om dit verschil te delen door €105. Dit geeft je het relatieve verschil:
+1. Deel het verschil (€4,50) door €105:
+$$ \frac{4,50}{105} $$
+2. Vervolgens vermenigvuldig je de uitkomst met 100 om het percentage te verkrijgen:
+$$ \left(\frac{4,50}{105}\right) \times 100 $$
+Door deze berekening uit te voeren, krijg je het percentage dat de uitgaven in 2020 hoger waren dan in 2018. Probeer het stap voor stap uit te rekenen en te zien welk heel getal je krijgt na afronding. Als je wilt, kan ik met je doorrekenen als je vastloopt!

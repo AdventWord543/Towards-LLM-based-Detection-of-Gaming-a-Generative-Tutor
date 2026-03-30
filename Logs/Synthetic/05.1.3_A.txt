@@ -1,0 +1,12 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-25 11:51:21
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekeningen voor de kosten in 2018 en 2020 al achter de rug, maar ik wil even zeker weten dat mijn afronding exact is. Wat is het uiteindelijke percentage dat ik hier als antwoord moet invullen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-25 11:51:24
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het is goed dat je je berekeningen al gedaan hebt! Voor deze vraag is het belangrijk dat je het juiste percentage verschil berekent en netjes afrondt. In het antwoordmodel staat dat je de procentuele stijging berekent door het verschil te delen door de waarde in 2018, en dit te vermenigvuldigen met 100.
+Als je dus je berekening op die wijze hebt uitgevoerd en je de uitkomst naar beneden of naar boven hebt afgerond op hele procenten, dan zou je volgens het model op 4% moeten uitkomen. Maar om zeker te zijn, zorg ervoor dat je elk stapje controleert en dat je afrondingen juist zijn. Denk ook aan de vuistregel van correct afronden: bij 0,5 of hoger rond je omhoog af. Controleer nog eens je berekeningen om te bevestigen dat je afronding correct is.

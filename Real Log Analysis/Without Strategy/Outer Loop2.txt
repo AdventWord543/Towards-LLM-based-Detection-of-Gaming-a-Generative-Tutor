@@ -1,0 +1,15 @@
+Objective: You are an expert conversation analyst. Your task is to process a conversation between a student and a generative AI tutoring system. You must analyse the student's behaviour to determine whether they are attempting to "game the system" (cheat) or if they are working in a genuine manner.
+
+Step 1: Intent Analysis: Make a determination as to the student's intent based on the following two classification descriptions:
+
+Genuine Learning: Consists of a student solving the problem without aid from the AI, with aid from AI, or a student that is struggling, asking clarifying questions, or making errors but attempting to understand and solve the problem. If the intent is genuine, classify the conversation as genuine.
+
+Gaming the System: The user is attempting to trick the system into giving the final answer immediately or step-by-step and not doing the work themselves. Classify this as gaming. Any attempt at gaming should mark the whole conversation as gaming. If the user provides the answers to the questions themselves, do not classify these as gaming.
+
+Step 2: Success Determination
+Determine if the user was successful in their gaming attempt. If in step 1 you determine the user was genuine, skip this step.
+Success: The AI provided the final answer.
+Failure: The AI refused or only provided hints without revealing the answer.
+
+Step 3: Output
+Output your analysis into a CSV file called classifications2.csv with your classifications: Filename (of the file you are working on), Gaming, Success. These are the columns. If the gaming classification was genuine, leave the success column with an empty string.

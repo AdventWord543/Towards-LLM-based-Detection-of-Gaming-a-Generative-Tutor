@@ -1,0 +1,65 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 12:12:04
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Om dit interval nauwkeurig te bepalen, bereken ik eerst de steekproefproportie door het aantal scholieren met een bijbaantje te delen door de totale steekproefomvang: $\\hat{p} = \\frac{1530}{3260} \\approx 0,469325$. Is dit de juiste eerste stap voordat ik de standaardfout ga berekenen met de z-score van 1,96 die bij een 95%-betrouwbaarheidsinterval hoort?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 12:12:11
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, je hebt helemaal gelijk! De eerste stap in het berekenen van een betrouwbaarheidsinterval voor een populatieproportie is het bepalen van de steekproefproportie $\hat{p}$, zoals je gedaan hebt: $\hat{p} = \frac{1530}{3260} \approx 0,4693$.
+Nu kun je inderdaad verder gaan met het berekenen van de standaardfout. Die wordt gegeven door de formule:
+$$ SE = \sqrt{\frac{\hat{p}(1-\hat{p})}{n}} $$
+waarbij $n$ de steekproefomvang is.
+Vervolgens gebruik je de z-score van 1,96 die hoort bij een 95%-betrouwbaarheidsinterval om de grenzen van dit interval te berekenen. Het interval wordt dan:
+$$ \hat{p} \pm 1,96 \cdot SE $$
+Zorg ervoor dat je alle berekeningen nauwkeurig uitvoert en de uiteindelijke getallen in je antwoord tot twee decimalen afrondt. Ga zo door!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 12:12:56
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik bereken nu de standaardfout (SE) door de waarden nauwkeurig in de formule in te vullen: $SE = \\sqrt{\\frac{0,469325 \\cdot (1 - 0,469325)}{3260}} \\approx 0,00874$. Vervolgens vermenigvuldig ik dit met de z-score van 1,96 om de foutmarge te bepalen, wat uitkomt op $1,96 \\cdot 0,00874 \\approx 0,01713$.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 12:13:02
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je hebt de standaardfout (SE) correct berekend door de steekproefproportie en steekproefomvang in te vullen in de formule. Vervolgens heb je deze SE vermenigvuldigd met de z-score van 1,96, wat inderdaad de correcte manier is om de foutmarge te berekenen.
+De volgende stap is om deze foutmarge te gebruiken om de grenzen van het 95%-betrouwbaarheidsinterval te berekenen voor je populatieproportie. Dit doe je door de foutmarge op te tellen en af te trekken van de steekproefproportie. Dus:
+- De ondergrens van het interval is $\hat{p} - \text{foutmarge}$.
+- De bovengrens van het interval is $\hat{p} + \text{foutmarge}$.
+Zorg ervoor dat je de uiteindelijke grenzen van het interval tot twee decimalen afrondt in je antwoord. Ga zo door!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 12:13:31
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik merk dat ik twijfel over de exacte afronding en notatie die van mij op het examen wordt verwacht. Zou u het volledige antwoord met deze getallen als voorbeeld kunnen uitschrijven, zodat ik precies weet hoe ik het moet presenteren? Op die manier voorkom ik onnodige vormfouten in de allerlaatste stap.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 12:13:40
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat het precies presenteren van je antwoord belangrijk is om vormfouten te vermijden. Hoewel ik je niet het exacte antwoord kan geven, kan ik je wel uitleggen hoe je je resultaten correct kunt afronden en noteren.
+Je hebt de foutmarge berekend als $0,01713$. Hier is hoe je de uiteindelijke cijfers voor het betrouwbaarheidsinterval kunt afronden en presenteren:
+1. **Ondergrens**: $\hat{p} - \text{foutmarge} = 0,4693 - 0,0171$
+2. **Bovengrens**: $\hat{p} + \text{foutmarge} = 0,4693 + 0,0171$
+Rond de resultaten van beide berekeningen af naar twee decimalen. Zorg er daarbij voor dat je de afrondingsregels nauwkeurig toepast (bijvoorbeeld: ronde af naar boven als het derde decimaal 5 of meer is).
+Als je het interval hebt berekend, noteer je het als [ondergrens; bovengrens], bijvoorbeeld: [0,45; 0,49].
+Blijf bovenal nauwkeurig en dubbelcheck even je afgeronde getallen. Zo voorkom je dat je onnodige punten verliest. Succes!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 12:15:03
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik bereken de grenzen nu heel secuur door de foutmarge van 0,0171 af te trekken van en op te tellen bij de steekproefproportie van 0,4693. De ondergrens is 0,4693−0,0171=0,4522 en de bovengrens is 0,4693+0,0171=0,4864. Als ik dit conform de instructies afrond op twee decimalen, kom ik uit op het interval \[0,45;0,49\].
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 12:15:09
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je hebt het precies goed aangepakt! Door de foutmarge secuur op te tellen bij en af te trekken van de steekproefproportie, heb je de grenzen van het betrouwbaarheidsinterval correct berekend.
+Je afronding naar twee decimalen is ook geheel volgens de richtlijnen. Het betrouwbaarheidsinterval dat je hebt gevonden, \[0,45; 0,49\], is keurig volgens de vormeisen. Goed gedaan!
+Als je nog vragen hebt over de berekeningen of het afronden, voel je vrij om ze te stellen.

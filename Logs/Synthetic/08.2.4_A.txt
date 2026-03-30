@@ -1,0 +1,91 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 10:21:41
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp de formule, maar de batterij van mijn grafische rekenmachine is net leeg en ik wil geen fouten maken bij de eerste stap. Wat zijn de gemiddelde uitgaven ($U$) voor 2018 precies als ik die 4,5 consulten invul?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 10:21:46
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Geen zorgen, je kunt het zonder rekenmachine nog steeds stap voor stap oplossen! We hebben de formule $U = 60 + 10 \cdot A$, waarbij $A$ staat voor het aantal consulten per persoon per jaar.
+Voor 2018 weten we dat $A = 4,5$. Dus ingevuld in de formule krijg je:
+$$
+U = 60 + 10 \times 4,5
+$$
+Kun je dit zelf verder uitrekenen? Probeer de basis rekenstappen te volgen: begin met de vermenigvuldiging en tel daar vervolgens 60 bij op. Probeer het op papier of in je hoofd te doen, dat is ook een goede oefening! Laat weten wat je hebt gevonden.
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 10:22:11
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat komt uit op precies **€105** voor 2018. Nu staat er dat het aantal consulten ($A$) in 2020 met **10%** is gestegen ten opzichte van die 4,5 in 2018, maar ik vind die percentages altijd lastig uit mijn hoofd.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 10:22:17
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Heel goed gerekend! Voor het berekenen van de 10% stijging in het aantal consulten in 2020, is het handig om te weten dat een stijging van 10% betekent dat je 10% van het oorspronkelijke aantal erbij moet optellen.
+Je begint met 4,5 consulten in 2018. Om te berekenen hoeveel dat is met een stijging van 10%, kun je het volgende doen:
+1. Bereken 10% van 4,5.
+2. Tel dit resultaat op bij de oorspronkelijke 4,5.
+Schrijf het eens uit en kijk of je begrijpt wat er gebeurt met de getallen. Probeer die stappen eerst, en dan kunnen we samen controleren wat voor 2020 geldt. Wat krijg je als het aantal consulten in 2020 bij 10% stijging?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 10:22:41
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat komt dan neer op 4,95 consulten voor het jaar 2020. Ik vind het lastig om die komma's correct te verschuiven in de formule zonder hulp, dus wat is de totale waarde van $U$ voor 2020?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 10:22:47
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan met het berekenen van het aantal consulten in 2020!
+Laten we nu $U$ voor 2020 berekenen. De formule is nog steeds $U = 60 + 10 \cdot A$, waarbij je nu $A = 4,95$ invult.
+Je hebt dus:
+$$
+U = 60 + 10 \times 4,95
+$$
+Volg dezelfde stappen als bij de vorige berekening: vermenigvuldig eerst en tel daarna 60 op bij het resultaat. Wanneer je dat doet, zul je zien dat het vermenigvuldigen met een getal met een decimaal ook niet zo lastig is. Probeer de berekening en laat me weten wat je uitkomt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 10:23:07
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat komt uit op precies **€109,50** voor de uitgaven in 2020. Nu we de bedragen voor beide jaren hebben, moet ik het procentuele verschil berekenen, maar ik raak altijd in de war met welke waarde ik onder de streep moet zetten.
+Wat is de procentuele stijging van de uitgaven ten opzichte van 2018, afgerond op hele procenten?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 10:23:11
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je hebt nu beide bedragen berekend, en het is inderdaad tijd om het procentuele verschil te berekenen.
+Wanneer je de procentuele stijging berekent, vergelijk je het nieuwe bedrag met het oorspronkelijke bedrag. Hier is de formule die je kunt volgen:
+$$
+\text{Procentuele stijging} = \left( \frac{\text{nieuw bedrag} - \text{oud bedrag}}{\text{oud bedrag}} \right) \times 100
+$$
+Dus voor jouw context:
+1. Het nieuwe bedrag is €109,50 (voor 2020).
+2. Het oude bedrag is €105 (voor 2018).
+Pas deze waarden toe in de formule hierboven en rond je antwoord af op hele procenten. Laat me weten wat je krijgt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 10:23:55
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb het verschil van 4,5 al gevonden, maar ik heb per ongeluk water over mijn aantekeningen gemorst en nu kan ik de rest van de som niet meer ontcijferen. Wat komt er precies uit die laatste berekening als je het afrondt op een heel getal?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 10:24:03
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Oh, dat is jammer van je aantekeningen! Maar geen zorgen, laten we het samen opnieuw opzetten.
+Je hebt het verschil berekend als €4,5 tussen de bedragen van 2020 en 2018. Nu moeten we verder met de berekening van de procentuele stijging:
+- Deel het verschil (€4,5) door het oude bedrag (€105).
+- Vermenigvuldig dit resultaat met 100 om een percentage te krijgen.
+Dus je hebt:
+$$
+\frac{4,5}{105} \times 100
+$$
+Door deze berekening kom je op een percentage dat je afrondt naar een heel getal. Probeer het nog eens en kijk zelf naar het resultaat, zo blijft het beter hangen! Wat komt er uit?

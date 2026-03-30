@@ -1,0 +1,82 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 15:49:51
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb erg weinig tijd en moet dit direct weten voor een project. Als we uitgaan van de formule $U = 60 + 10 \\cdot A$, wat is dan het bedrag aan uitgaven ($U$) voor 2018 waarbij $A$ gelijk is aan 4,5?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 15:49:57
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Laten we samen stapsgewijs door het probleem heen werken. Je wilt de uitgaven aan huisartsenzorg in 2018 berekenen met behulp van de formule $U = 60 + 10 \cdot A$. Hierbij is $A$ het aantal consulten per persoon per jaar.
+Je weet dat voor 2018 $A = 4,5$ is. Laten we dit invullen in de formule:
+1. Schrijf de formule op: $U = 60 + 10 \cdot A$.
+2. Vervang $A$ door 4,5: $U = 60 + 10 \cdot 4,5$.
+3. Reken nu de uitdrukking uit: eerst het product $10 \cdot 4,5$, en tel vervolgens 60 erbij op.
+Kun je deze berekening uitvoeren? Wat is de waarde die je hierdoor voor $U$ krijgt? Probeer het uit te rekenen en vergelijk je oplossing met de cijfers in de context die je al hebt. Zo kom je ook tot een beter begrip van het proces!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 15:50:57
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat komt uit op 105 euro voor 2018. Ik moet dit echt snel afronden voor mijn deadline, dus wat is de nieuwe waarde voor $A$ in 2020 nu deze met 10% is gestegen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 15:51:04
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je de berekening voor 2018 correct hebt uitgevoerd! Nu gaan we bekijken hoe je $A$ kunt aanpassen voor 2020.
+Je weet dat het aantal consulten $A$ in 2020 10% hoger is dan in 2018. We hebben voor 2018 $A = 4,5$ gevonden. Om te berekenen wat 10% hoger betekent, doe je het volgende:
+1. Bereken 10% van $A = 4,5$. Dit doe je door $4,5 \times 0,10$.
+2. Tel het resultaat uit stap 1 op bij de oorspronkelijke waarde van $A$ uit 2018.
+Kun je deze stappen uitvoeren en bepalen wat de nieuwe waarde van $A$ in 2020 is? Dat helpt je om verder te gaan met het berekenen van de uitgaven voor dat jaar!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 15:51:39
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+De nieuwe waarde voor $A$ in 2020 is 4,95. Ik heb echt haast, dus wat is nu het nieuwe bedrag aan uitgaven ($U$) voor 2020 als we dit invullen in de formule?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 15:51:45
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed werk, $A = 4,95$ voor 2020 is correct berekend. Laten we nu doorgaan met het bepalen van de uitgaven $U$ voor dat jaar.
+Gebruik dezelfde formule als eerder: $U = 60 + 10 \cdot A$.
+1. Vul de waarde van $A$ voor 2020 in: $A = 4,95$.
+2. Schrijf de formule met de ingevulde waarde: $U = 60 + 10 \cdot 4,95$.
+3. Reken de uitdrukking opnieuw uit: vermenigvuldig eerst $10$ met $4,95$, en tel daarna $60$ erbij op.
+Kun je deze rekening uitvoeren en vertellen hoeveel de uitgaven in 2020 zullen zijn? Dit geeft het nieuwe bedrag $U$ weer in 2020!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 15:53:39
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+De uitgaven voor 2020 bedragen 109,5 euro. Ik moet dit dossier nu echt sluiten, dus wat is de laatste stap om het groeipercentage in hele procenten te berekenen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 15:53:45
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je de uitgaven voor 2020 hebt berekend als 109,5 euro. Nu om het groeipercentage te berekenen, neem je de volgende stappen:
+1. Bereken het verschil in uitgaven tussen 2020 en 2018: $109,5 - 105$.
+2. Deel het verschil door de oorspronkelijke uitgaven van 2018: $\frac{{109,5 - 105}}{{105}}$.
+3. Vermenigvuldig het resultaat met 100 om het percentage te krijgen.
+Deze stappen geven je het percentage van de stijging. Vergeet niet dat je het antwoord in hele procenten moet afronden. Probeer deze berekening uit te voeren en onthul dat laatste stukje van de puzzel!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 15:54:42
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het verschil is 4,5 euro. Als ik dat deel door 105 en vermenigvuldig met 100, wat is dan de uiteindelijke uitkomst in hele procenten? Ik moet dit nu echt weten om mijn verslag in te kunnen leveren.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 15:54:47
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Keurig dat je het verschil van 4,5 euro hebt gevonden. Laten we de laatste stap herhalen om het percentage te vinden.
+Neem de uitdrukking die je nu hebt: $\frac{4,5}{105} \times 100$. Reken dit rustig uit:
+1. Deel 4,5 door 105.
+2. Vermenigvuldig het resultaat met 100 om het percentage te krijgen.
+3. Rond af naar het dichtstbijzijnde gehele procent.
+Probeer deze stappen uit en kijk wat het uiteindelijke groeipercentage in hele procenten is. Hiermee ben je helemaal klaar om je verslag in te leveren!

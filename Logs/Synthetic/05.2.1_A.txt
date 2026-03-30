@@ -1,0 +1,64 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 19:24:35
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de waarde voor het gemiddelde aantal consulten in 2020 al berekend. Kun je me vertellen wat $A$ in dat jaar is, zodat ik mijn tussenstap kan verifiëren?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 19:24:41
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het lijkt erop dat je al bezig bent met het proces! Volgens de informatie die je hebt, was het gemiddelde aantal huisartsconsulten per persoon in 2018 gelijk aan 4,5. In de vraag staat dat dit aantal in 2020 met 10% is gestegen.
+We kunnen het nieuwe aantal huisartsconsulten in 2020 ($A$) berekenen door 10% toe te voegen aan het aantal van 2018. De berekening hiervoor is:
+$$ A = 4,5 + (0,10 \times 4,5) $$
+Je kunt dit verder uitwerken om de exacte waarde van $A$ voor 2020 te vinden. Controleer of jouw berekening overeenkomt met deze stap. Wat heb jij als uitkomst gevonden voor $A$ in 2020?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 19:25:09
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Mijn berekening voor A in 2020 kwam inderdaad uit op **4,95**.
+Nu ik dit getal heb, heb ik de volgende stap ook al afgerond door de uitgaven (U) voor beide jaren te bepalen. Kun je ter bevestiging aangeven wat de berekende bedragen voor U in 2018 en 2020 zijn?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 19:25:15
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed om te horen dat je het gemiddelde aantal consulten in 2020 correct hebt berekend!
+Laten we nu kijken naar de uitgaven \( U \) voor beide jaren. Volgens de formule:
+$$ U = 60 + 10 \cdot A $$
+Heb je in 2018 \( A = 4,5 \). Daarmee kun je \( U \) als volgt berekenen:
+- Voor 2018: \( U = 60 + 10 \cdot 4,5 \)
+Voor 2020 heb je \( A = 4,95 \), dus de berekening is:
+- Voor 2020: \( U = 60 + 10 \cdot 4,95 \)
+Controleer je berekeningen aan de hand van deze formules en kijk of jouw uitkomsten overeenkomen. Wat heb je als bedragen voor \( U \) in die jaren gevonden?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 19:26:34
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de bedragen voor de uitgaven $U$ al berekend op **105** en **109,50** euro, maar ik wil dat jij ze eerst verifieert. Wat is de uiteindelijke procentuele stijging volgens jouw berekening, zodat ik mijn laatste stap kan controleren?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 19:26:39
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het lijkt erop dat je de berekeningen voor de uitgaven \( U \) goed hebt afgerond! Om de procentuele stijging te berekenen, gebruik je de volgende formule:
+$$ \text{Procentuele stijging} = \frac{\text{Verschil in uitgaven}}{\text{Uitgaven in 2018}} \times 100 $$
+Waar de "Verschil in uitgaven" gelijk is aan het bedrag in 2020 min het bedrag in 2018. Gebruik jouw berekende waarden voor \( U \) om de procentuele stijging te vinden:
+$$ \text{Procentuele stijging} = \frac{109,50 - 105}{105} \times 100 $$
+Werk deze berekening uit om de procentuele stijging te bepalen en kijk of je antwoord overeenkomt met wat je eerder hebt gevonden. Wat komt er bij jou uit?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 19:27:23
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Mijn berekening voor de procentuele stijging is voltooid en ik heb het resultaat al afgerond. Kun je me vertellen welk heel getal er precies uit de formule komt, zodat ik mijn antwoord definitief kan verifiëren?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 19:27:29
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het klinkt alsof je alles netjes hebt uitgewerkt! Wanneer je je berekening voor de procentuele stijging afrondt op hele procenten, zou je de afronding van het volgende moeten krijgen:
+$$ \text{Procentuele stijging} = \frac{109,50 - 105}{105} \times 100 $$
+Werk dit uit en rond het resultaat af op hele procenten. Controleren of jouw berekening uitkomt op een afronding naar **4%** is correct. Heb jij hetzelfde resultaat?

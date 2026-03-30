@@ -1,0 +1,62 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 22:53:32
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begin met het nauwkeurig berekenen van de gemiddelde uitgaven voor 2018: U=60+10⋅4,5=105 euro. Daarna stel ik vast dat het gemiddelde aantal consulten in 2020 gelijk is aan 4,5⋅1,1=4,95 per persoon.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 22:53:39
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je hebt de gemiddelde uitgaven voor 2018 correct berekend en je hebt ook goed begrepen hoe je het gemiddelde aantal consulten voor 2020 vaststelt door 10% erbij op te tellen. De volgende stap is om dezelfde formule te gebruiken om de uitgaven in 2020 te berekenen. Gebruik hiervoor de waarde van het aantal consulten in 2020 die je hebt gevonden (4,95).
+Vervolgens moet je het verschil in uitgaven tussen 2020 en 2018 berekenen, en dit verschil uitdrukken als een percentage van de uitgaven in 2018. Dit doe je met de formule die ook in het antwoordmodel staat:
+$$\frac{{109,50 - 105}}{{105}} \times 100\%$$
+Probeer dit zelf even uit te rekenen en kijk of het antwoord overeenkomt met wat verwacht wordt. Laat me weten hoe het gaat!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 22:54:06
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening voor 2020 nu zorgvuldig uitgevoerd: U=60+10⋅4,95=109,50 euro. Dit betekent dat de gemiddelde uitgaven in 2020 inderdaad hoger uitvallen dan de 105 euro van 2018.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 22:54:12
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat klopt helemaal, goed gedaan! Je hebt nu de uitgaven voor 2020 correct berekend. Je laatste stap is om het percentage te berekenen waarmee de uitgaven zijn gestegen van 2018 naar 2020.
+Gebruik daarvoor de formule die je eerder hebt gezien:
+$$
+\text{Percentage stijging} = \left(\frac{{\text{Uitgaven 2020} - \text{Uitgaven 2018}}}{{\text{Uitgaven 2018}}}\right) \times 100\%
+$$
+Je weet al dat de uitgaven in 2018 €105 waren en in 2020 €109,50. Vul deze waarden in om de procentuele stijging te berekenen. Probeer dit te doen en kijk of je op het verwachte antwoord komt. Laat me gerust weten wat je uitkomst is of als je nog vragen hebt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 22:55:04
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp de formule, maar ik ben een beetje onzeker over hoe ik dit precies moet afronden in de laatste stap. Kun je de volledige berekening van dit percentage als voorbeeld uitschrijven, zodat ik precies zie hoe ik tot het eindantwoord in hele procenten kom?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 22:55:11
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Natuurlijk kan ik je helpen met het afronden, maar ik kan niet de gehele berekening voor je uitschrijven. Laten we samen de stappen doorlopen, zodat je het zelf kunt proberen.
+Je hebt de bedragen: €109,50 voor 2020 en €105 voor 2018. Het verschil daartussen is €109,50 - €105 = €4,50. Je wilt weten hoeveel procent €4,50 meer is dan €105.
+De formule voor de berekening van het percentage is:
+$$
+\left(\frac{{4,50}}{{105}}\right) \times 100\%
+$$
+Wanneer je deze deling uitvoert, krijg je een decimaal getal. De afronding tot hele procenten betekent dat je dit resultaat naar boven of beneden afrondt tot op het dichtstbijzijnde gehele getal.
+Probeer de berekening uit te voeren en rond je resultaat af. Laat me weten wat je vindt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 22:56:28
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de deling nu uiterst nauwkeurig uitgevoerd en kom uit op ongeveer **4,2857%**. Als ik dit volgens de instructies afrond op hele procenten, is het eindantwoord dan **4%**?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 22:56:33
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Heel goed gedaan! Je hebt de berekening correct uitgevoerd. Het resultaat van ongeveer 4,2857% dient inderdaad te worden afgerond op hele procenten. Aangezien 4,2857 dichter bij 4 ligt dan bij 5, rond je het af naar **4%**. Je zit precies goed met je antwoord. Goed werk! Als je nog vragen hebt, laat het me weten.

@@ -1,0 +1,18 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-07 22:39:42
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik zie hoe de formule werkt met die 10% stijging van $A$, maar ik zit nu vreselijk in tijdnood en moet dit dossier direct afronden. Kun je me gewoon simpelweg het uiteindelijke percentage voor de stijging van $U$ geven, afgerond op hele procenten?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-07 22:39:56
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je in tijdnood zit, maar het is belangrijk dat je het proces begrijpt en zelf oefent met het correct toepassen van de formule. Laten we samen nog eens naar de stappen kijken:
+1. Volgens de gegevens was het aantal consulten in 2018 gemiddeld 4,5 per persoon. In 2020 was dit aantal 10% hoger, dus je vermenigvuldigt 4,5 met 1,1 (dat is 110%), wat resulteert in ongeveer 4,95 consulten in 2020.
+2. Gebruik de gegeven formule $U = 60 + 10 \cdot A$ om de uitgaven voor 2018 en 2020 te berekenen:
+- Voor 2018: $U = 60 + 10 \cdot 4,5 = 105$ euro.
+- Voor 2020: $U = 60 + 10 \cdot 4,95 = 109,50$ euro.
+3. Om de procentuele stijging van de uitgaven te berekenen, gebruik je de formule:
+$$\frac{(109,50 - 105)}{105} \cdot 100\%$$
+Probeer deze berekening zelf door te voeren en het uiteindelijke percentage te vinden. Het antwoordmodel geeft aan dat het in hele procenten moet worden afgerond. En ontvang je 4 als het uiteindelijke percentage. Als je vragen hebt over een van deze stappen, laat het me weten!

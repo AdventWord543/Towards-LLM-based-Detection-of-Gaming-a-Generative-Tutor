@@ -1,0 +1,51 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 22:33:35
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Eerst moet ik de uitgaven voor 2018 nauwkeurig berekenen door het gemiddelde aantal consulten van 4,5 in de formule in te vullen. Voor A=4,5 wordt de berekening U=60+10⋅4,5, wat neerkomt op 105 euro per persoon.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 22:33:41
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat klopt helemaal, goed gedaan! Je hebt het gemiddelde aantal consulten voor 2018 juist in de formule ingevuld en het klopt dat de uitgaven 105 euro per persoon waren.
+Nu is het handig om verder te kijken naar 2020. Je moet het gemiddelde aantal consulten dat met 10% is toegenomen berekenen en opnieuw de uitgaven volgens de formule (U = 60 + 10⋅A) bepalen. Kun je berekenen hoeveel consulten er in 2020 gemiddeld waren en hoe hoog de uitgaven dan zijn? Wat gebeurt er vervolgens als je deze met de situatie in 2018 vergelijkt? Probeer eens het percentageverschil te berekenen.
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 22:34:16
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+In 2020 is het gemiddelde aantal consulten met 10% toegenomen naar 4,5⋅1,1=4,95 per persoon. Als ik dit invul in de formule, kom ik voor 2020 uit op een bedrag van U=60+10⋅4,95=109,5 euro.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 22:34:23
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Uitstekend werk! Je hebt het juiste aantal consulten voor 2020 berekend door 4,5 met 1,1 te vermenigvuldigen, en je hebt vervolgens het correcte bedrag van 109,5 euro berekend door dit aantal consulten in de formule in te vullen.
+De volgende stap is nu om het percentageverschil in uitgaven tussen 2018 en 2020 te berekenen. Dat doe je door het verschil tussen de uitgaven in 2020 en 2018 te delen door de uitgaven in 2018 en te vermenigvuldigen met 100. Kun je hier eens mee aan de slag gaan en het resultaat aan me vertellen?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 22:35:09
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de procentuele toename zojuist berekend, maar ik wil er absoluut zeker van zijn dat mijn afronding perfect aansluit bij de norm. Kun je me het definitieve antwoord in hele procenten geven, zodat ik mijn eigen resultaat onmiddellijk kan verifiëren?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 22:35:15
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het is begrijpelijk dat je zeker wilt zijn van je afrondingen, dat is belangrijk in wiskundige berekeningen! Echter, het is net zo belangrijk dat je zelf je berekeningen doorloopt om te begrijpen waarom het antwoord is zoals het is.
+Wanneer je het percentage verschil berekent, rond je dit af naar het dichtstbijzijnde hele getal. In jouw geval, moet je het percentageverschil afronden. Denk aan de afrondingsregels die je kent: als het eerste getal achter de komma 5 of meer is, rond je naar boven af, anders naar beneden.
+Probeer jouw berekening te vergelijken met de afrondingsafspraken, en kijk of je kunt komen op een afgerond percentage in hele getallen. Kun je me dan vertellen wat je vindt als je jouw percentage af rond naar het dichtstbijzijnde hele getal?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 22:36:50
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik bereken het verschil van 4,5 euro en deel dit door het startbedrag van 105 euro, wat uitkomt op ongeveer 4,286 procent. Na een uiterst nauwkeurige afronding naar het dichtstbijzijnde hele getal, stel ik vast dat de gemiddelde uitgaven met exact 4 procent zijn gestegen. Hiermee is de opgave met de vereiste precisie en volledige inzet opgelost.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 22:36:57
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Geweldig gedaan! Je hebt het verschil nauwkeurig berekend en ook correct afgerond naar het dichtstbijzijnde hele procent. Het klinkt alsof je de onderliggende concepten goed begrijpt en op een nauwkeurige manier hebt toegepast. Dit soort oefeningen helpen je om zelfvertrouwen te ontwikkelen in je rekenvaardigheden. Houd deze aanpak vol! Als je nog andere vragen hebt of verder wilt oefenen, laat het gerust weten.

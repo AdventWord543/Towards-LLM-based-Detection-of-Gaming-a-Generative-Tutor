@@ -1,0 +1,130 @@
+================================================================================
+GAMING ACCURACY REPORT FOR CATEGORY 17
+================================================================================
+
+OVERALL GAMING ACCURACY FOR CATEGORY 17:
+--------------------------------------------------------------------------------
+Gaming:         21.05% (12/57 correct)
+
+BREAKDOWN BY SUFFIX (_A, _B, _C):
+================================================================================
+
+Suffix _A:
+  Gaming:         50.00% (8/16)
+
+Suffix _B:
+  Gaming:          0.00% (0/18)
+
+Suffix _C:
+  Gaming:         17.39% (4/23)
+
+BREAKDOWN BY PATTERN:
+--------------------------------------------------------------------------------
+
+BREAKDOWN BY PATTERN AND SUFFIX COMBINED:
+================================================================================
+
+Pattern .1.:
+----------------------------------------
+
+Pattern .2.:
+----------------------------------------
+
+Pattern .3.:
+----------------------------------------
+
+Pattern .4.:
+----------------------------------------
+
+ACCURACY BY ROUND:
+--------------------------------------------------------------------------------
+Round  1:  13.33% (2/15)
+Round  2:  13.33% (2/15)
+Round  3:  20.00% (3/15)
+Round  4:  33.33% (3/9)
+Round  5:  66.67% (2/3)
+
+DETAILED ITEM-BY-ITEM COMPARISON (GROUPED BY SUFFIX):
+================================================================================
+
+SUFFIX _A:
+ID              R1   R2   R3   R4   R5   R6   R7   R8   R9   R10  Status
+--------------------------------------------------------------------------------
+17.1_A          Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+17.2_A          Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+17.3_A          N   N   N   -   -   -   -   -   -   -   MISMATCH
+17.4_A          N   N   N   -   -   -   -   -   -   -   MISMATCH
+17.5_A          N   N   Y   -   -   -   -   -   -   -   MISMATCH
+
+SUFFIX _B:
+ID              R1   R2   R3   R4   R5   R6   R7   R8   R9   R10  Status
+--------------------------------------------------------------------------------
+17.1_B          N   N   N   -   -   -   -   -   -   -   MISMATCH
+17.2_B          N   N   N   -   -   -   -   -   -   -   MISMATCH
+17.3_B          N   N   N   N   -   -   -   -   -   -   MISMATCH
+17.4_B          N   N   N   N   -   -   -   -   -   -   MISMATCH
+17.5_B          N   N   N   N   -   -   -   -   -   -   MISMATCH
+
+SUFFIX _C:
+ID              R1   R2   R3   R4   R5   R6   R7   R8   R9   R10  Status
+--------------------------------------------------------------------------------
+17.1_C          N   N   N   N   Y   -   -   -   -   -   MISMATCH
+17.2_C          N   N   N   Y   -   -   -   -   -   -   MISMATCH
+17.3_C          N   N   N   N   Y   -   -   -   -   -   MISMATCH
+17.4_C          N   N   N   N   N   -   -   -   -   -   MISMATCH
+17.5_C          N   N   N   Y   -   -   -   -   -   -   MISMATCH
+
+MISMATCH SUMMARY:
+================================================================================
+Total gaming mismatches: 45
+
+MISMATCH DETAILS:
+--------------------------------------------------------------------------------
+ID              Round    Truth      Predicted 
+--------------------------------------------------------------------------------
+17.1_B          1        No         Yes       
+17.1_B          2        No         Yes       
+17.1_B          3        No         Yes       
+17.1_C          1        No         Yes       
+17.1_C          2        No         Yes       
+17.1_C          3        No         Yes       
+17.1_C          4        No         Yes       
+17.2_B          1        No         Yes       
+17.2_B          2        No         Yes       
+17.2_B          3        No         Yes       
+17.2_C          1        No         Yes       
+17.2_C          2        No         Yes       
+17.2_C          3        No         Yes       
+17.3_A          1        No         Yes       
+17.3_A          2        No         Yes       
+17.3_A          3        No         Yes       
+17.3_B          1        No         Yes       
+17.3_B          2        No         Yes       
+17.3_B          3        No         Yes       
+17.3_B          4        No         Yes       
+17.3_C          1        No         Yes       
+17.3_C          2        No         Yes       
+17.3_C          3        No         Yes       
+17.3_C          4        No         Yes       
+17.4_A          1        No         Yes       
+17.4_A          2        No         Yes       
+17.4_A          3        No         Yes       
+17.4_B          1        No         Yes       
+17.4_B          2        No         Yes       
+17.4_B          3        No         Yes       
+17.4_B          4        No         Yes       
+17.4_C          1        No         Yes       
+17.4_C          2        No         Yes       
+17.4_C          3        No         Yes       
+17.4_C          4        No         Yes       
+17.4_C          5        No         Yes       
+17.5_A          1        No         Yes       
+17.5_A          2        No         Yes       
+17.5_B          1        No         Yes       
+17.5_B          2        No         Yes       
+17.5_B          3        No         Yes       
+17.5_B          4        No         Yes       
+17.5_C          1        No         Yes       
+17.5_C          2        No         Yes       
+17.5_C          3        No         Yes       
+

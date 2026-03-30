@@ -1,0 +1,61 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 21:41:53
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de gegevens uit de opgave zorgvuldig geanalyseerd en begin met het berekenen van de steekproefproportie: p^​=32601530​≈0,469325. Om de nauwkeurigheid te waarborgen, gebruik ik nu de formule σ=np^​⋅(1−p^​)​​ om de standaardafwijking van deze proportie te bepalen.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 21:42:17
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je bent goed begonnen door de steekproefproportie te berekenen! Een kleine correctie: de formule voor de standaardafwijking van de steekproefproportie is $\sigma = \sqrt{\frac{\hat{p}(1-\hat{p})}{n}}$, waarbij $\hat{p}$ de steekproefproportie is en $n$ de steekproefgrootte. Dus in jouw geval is $n = 3260$ en $\hat{p} = 0,469$.
+Na het vinden van deze standaardafwijking, kun je het 95%-betrouwbaarheidsinterval berekenen met de formule:
+$$
+\hat{p} \pm z \cdot \sigma
+$$
+Waarbij $z$ de z-waarde is die overeenkomt met het 95% betrouwbaarheidsniveau (ongeveer 1,96).
+Probeer de stappen verder te doorlopen, en vergeet niet alles met twee decimalen te geven! Laat me weten of je hulp nodig hebt bij de volgende stappen.
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 21:42:48
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Bedankt voor de verduidelijking van de formule en de z-waarde; ik heb de standaardafwijking nu zorgvuldig berekend als σ=32600,4693⋅(1−0,4693)​​≈0,0087. Met deze waarde kan ik de foutmarge vaststellen door de z-waarde van 1,96 te vermenigvuldigen met deze standaardafwijking, wat uitkomt op ongeveer 1,96⋅0,0087≈0,0171.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 21:42:56
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat ziet er goed uit, je bent op de juiste weg! Met de berekende foutmarge van ongeveer 0,0171 kun je nu inderdaad het 95%-betrouwbaarheidsinterval bepalen. Het interval krijg je door de foutmarge zowel op te tellen bij, als af te trekken van, de steekproefproportie $\hat{p} = 0,469$.
+Dus:
+1. Bereken de bovengrens: $\hat{p} + 0,0171$.
+2. Bereken de ondergrens: $\hat{p} - 0,0171$.
+Let op dat je de grenzen van het interval afrondt naar twee decimalen, zoals gevraagd in de opgave. Ga zo door en laat me weten als je nog hulp nodig hebt bij de laatste stap!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 21:43:57
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Bedankt voor de uitleg, dit helpt me enorm om het proces te begrijpen. Om er zeker van te zijn dat ik geen slordigheidsfout maak bij het afronden naar twee decimalen, zou je de definitieve getallen voor de onder- en bovengrens voor me kunnen uitschrijven?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 21:44:10
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik ben blij dat de uitleg je helpt! Hoewel ik de exacte getallen niet voor je kan uitschrijven, kan ik je wel begeleiden in de afrondingsstappen.
+1. Voor de ondergrens bereken je $\hat{p} - 0,0171$, wat neerkomt op 0,469 - 0,0171. Rond dit resultaat af naar twee decimalen.
+2. Voor de bovengrens bereken je $\hat{p} + 0,0171$, dus 0,469 + 0,0171. Ook hier rond je af naar twee decimalen.
+Door zorgvuldig elke stap uit te voeren en de resultaten precies af te ronden, moet je tot de juiste grenzen voor het betrouwbaarheidsinterval komen. Probeer het eens en kijk wat je krijgt! Als je het niet zeker weet, laat het me weten.
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 21:45:17
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat is inderdaad precies hoe ik het ga aanpakken, want ik wil dat dit antwoord tot op de laatste decimaal klopt. De ondergrens is 0,469−0,0171=0,4519, wat afgerond op twee decimalen **0,45** is.
+Voor de bovengrens bereken ik 0,469+0,0171=0,4861, wat afgerond op twee decimalen uitkomt op **0,49**. Het volledige 95%-betrouwbaarheidsinterval is dus **\[0,45; 0,49\]**.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 21:45:22
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Heel goed gewerkt! Je hebt het 95%-betrouwbaarheidsinterval correct berekend en afgerond. Je aandacht voor detail bij het afronden naar twee decimalen heeft je geholpen het juiste interval te bepalen: \([0,45; 0,49]\). Dit geeft aan dat je je statistische concepten goed begrijpt. Als je nog vragen hebt over andere onderwerpen, aarzel dan niet om ze te stellen!

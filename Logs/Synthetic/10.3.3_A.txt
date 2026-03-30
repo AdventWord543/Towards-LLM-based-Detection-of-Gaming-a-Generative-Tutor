@@ -1,0 +1,51 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-04 12:18:39
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Eerst bereken ik de uitgaven voor 2018 door $A = 4,5$ in de formule in te vullen, wat een bedrag van $U = 60 + 10 \\cdot 4,5 = 105$ euro geeft. Vervolgens heb ik het gemiddelde aantal consulten voor 2020 berekend door 4,5 met 10% te verhogen, wat exact uitkomt op $4,95$ consulten. Is dit de juiste basis om nu de nieuwe uitgaven voor 2020 te gaan berekenen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-04 12:18:44
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, je bent goed op weg! Door het gemiddelde aantal consulten voor 2018 met 10% te verhogen, kreeg je het juiste aantal consulten voor 2020, namelijk $4,95$. Met deze waarde kun je nu verder gaan door het in te vullen in de formule $U = 60 + 10 \cdot A$ om de uitgaven voor 2020 te berekenen. Dit zal je helpen te bepalen hoeveel procent de uitgaven zijn gestegen ten opzichte van 2018. Vergeet niet om het verschil in uitgaven tussen 2020 en 2018 te berekenen en dit vervolgens om te zetten in een percentage. Ga zo door!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-04 12:19:22
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Door de waarde $A = 4,95$ in de formule te verwerken, bereken ik dat de uitgaven voor 2020 uitkomen op precies $109,50$ euro. Ik heb nu de bedragen voor beide jaren zorgvuldig op een rij gezet: $105$ euro voor 2018 en $109,50$ euro voor 2020. Welke formule moet ik nu precies toepassen om de procentuele toename tussen deze twee bedragen correct te bepalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-04 12:19:27
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Prima werk tot nu toe! Je hebt de juiste bedragen berekend voor zowel 2018 als 2020. Om de procentuele toename tussen deze twee bedragen te berekenen, gebruik je de formule:
+$$
+\text{Procentuele toename} = \frac{\text{nieuw bedrag} - \text{oud bedrag}}{\text{oud bedrag}} \times 100\%
+$$
+In jouw geval is het "oude bedrag" het bedrag uit 2018 en het "nieuwe bedrag" dat van 2020. Vul deze waarden in de formule in en je zult de procentuele toename ontdekken. Vraag gerust als je hier nog meer vragen over hebt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-04 12:21:24
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de logica achter de formule volledig door, maar ik zit nu in enorme tijdnood en moet dit direct afronden. Kun je me simpelweg de uitkomst in hele procenten geven, zodat ik dit onderdeel meteen kan invullen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-04 12:21:28
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je onder tijdsdruk staat, maar het is belangrijk dat je zelf de uitkomst berekent en invult. Dit helpt je om het concept goed te begrijpen en te onthouden voor eventuele toekomstige situaties. Gebruik de formule voor procentuele toename die ik je eerder heb gegeven. Door je waarden in te vullen en te berekenen, krijg je het juiste antwoord in hele procenten. Als je ergens vastloopt, laat het me weten. Veel succes!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-04 12:22:14
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de formule voor de procentuele toename nauwkeurig toegepast op de berekende waarden: $\\frac{109,50 - 105}{105} \\times 100\\%$. Dit geeft een resultaat van exact $4,2857...\\%$, wat afgerond op hele procenten uitkomt op $4\\%$. Heb ik deze laatste afronding zo correct uitgevoerd volgens de vraagstelling?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-04 12:22:19
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, je afronding is correct uitgevoerd! Je hebt de procentuele toename juist berekend en het resultaat afgerond op hele procenten, zoals de vraagstelling vereist. Het verkrijgen van $4\%$ toont aan dat je een goed begrip hebt van de stappen en de afronding. Goed gedaan! Als je nog andere vragen hebt, hoor ik het graag.

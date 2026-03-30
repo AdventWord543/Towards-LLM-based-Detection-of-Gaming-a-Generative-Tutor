@@ -1,0 +1,80 @@
+================================================================================
+MISMATCH SUMMARY REPORT - GCAT AND SCAT MISCLASSIFICATIONS
+================================================================================
+
+OVERALL STATISTICS:
+--------------------------------------------------------------------------------
+Total GCat mismatches: 76
+Total SCat mismatches: 108
+Total mismatches:      184
+
+================================================================================
+GCAT MISMATCH ANALYSIS
+================================================================================
+
+Regular Mismatches (both truth and prediction have values): 65
+--------------------------------------------------------------------------------
+Truth                ->  Predicted            Count      %         
+--------------------------------------------------------------------------------
+Prompt               ->  Leading              29          44.6%
+Direct               ->  Leading              24          36.9%
+Leading              ->  Direct               9           13.8%
+Prompt               ->  Direct               3            4.6%
+
+Empty Truth Mismatches (truth is empty but prediction was made): 11
+--------------------------------------------------------------------------------
+Truth                ->  Predicted            Count      %         
+--------------------------------------------------------------------------------
+(empty)              ->  Leading              11         100.0%
+
+================================================================================
+SCAT MISMATCH ANALYSIS
+================================================================================
+
+Regular Mismatches (both truth and prediction have values): 97
+--------------------------------------------------------------------------------
+Truth                ->  Predicted            Count      %         
+--------------------------------------------------------------------------------
+Switch               ->  Emotion              29          29.9%
+Polite               ->  Verify               13          13.4%
+Unwilling            ->  Unable               12          12.4%
+Begging              ->  Polite               9            9.3%
+Begging              ->  Emotion              6            6.2%
+Unwilling            ->  Polite               5            5.2%
+Unable               ->  Urgency              4            4.1%
+Emotion              ->  Unable               4            4.1%
+Begging              ->  Verify               2            2.1%
+Demanding            ->  Verify               2            2.1%
+Switch               ->  Polite               2            2.1%
+Unable               ->  Polite               2            2.1%
+Emotion              ->  Begging              2            2.1%
+Demanding            ->  Unwilling            1            1.0%
+Switch               ->  Begging              1            1.0%
+Example              ->  Verify               1            1.0%
+Teacher              ->  Verify               1            1.0%
+Unwilling            ->  Verify               1            1.0%
+
+Empty Truth Mismatches (truth is empty but prediction was made): 11
+--------------------------------------------------------------------------------
+Truth                ->  Predicted            Count      %         
+--------------------------------------------------------------------------------
+(empty)              ->  Verify               7           63.6%
+(empty)              ->  Example              2           18.2%
+(empty)              ->  Unable               2           18.2%
+
+================================================================================
+TOP 10 MOST COMMON MISMATCHES (ALL CATEGORIES)
+================================================================================
+
+Rank   Category   Truth                ->  Predicted            Count     
+--------------------------------------------------------------------------------
+1      GCat       Prompt               ->  Leading              29        
+2      SCat       Switch               ->  Emotion              29        
+3      GCat       Direct               ->  Leading              24        
+4      SCat       Polite               ->  Verify               13        
+5      SCat       Unwilling            ->  Unable               12        
+6      GCat       (empty)              ->  Leading              11        
+7      SCat       Begging              ->  Polite               9         
+8      GCat       Leading              ->  Direct               9         
+9      SCat       (empty)              ->  Verify               7         
+10     SCat       Begging              ->  Emotion              6         

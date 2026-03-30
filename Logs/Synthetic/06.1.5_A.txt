@@ -1,0 +1,63 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-07 22:03:44
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik vind het lastig om te bepalen hoe die 10% stijging precies doorwerkt in het uiteindelijke bedrag van de formule. Zou je de volledige uitwerking als voorbeeld kunnen laten zien, zodat ik de juiste logica kan volgen voor de rest van mijn opgaven?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-07 22:03:56
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het is begrijpelijk dat het lastig kan zijn om te zien hoe een procentuele stijging precies invloed heeft op een uiteindelijke waarde. Laten we het stap voor stap bekijken, zonder direct de volledige uitwerking weg te geven.
+1. **Begin bij het originele aantal consulten**:
+In 2018 was het gemiddelde aantal consulten per persoon 4,5. Als er in 2020 een stijging is van 10%, betekent dat dat je 10% van 4,5 moet berekenen en daar dan optellen.
+2. **Bereken de nieuwe waarde**:
+- 10% van 4,5 is: $ 0,10 \times 4,5 = 0,45 $.
+- Voeg deze toename toe aan het originele aantal: $ 4,5 + 0,45 = 4,95 $.
+3. **Breng het in de formule**:
+Je vervangt in de formule $ U = 60 + 10 \times A $ dan $ A $ met 4,95 (de nieuwe waarde van het aantal consulten).
+4. **Bereken de uitgaven**:
+Voer de berekening uit met de nieuwe waarde voor $ A $. Je krijgt dan: $ U = 60 + 10 \times 4,95 $.
+5. **Vergelijk met de eerdere uitgaven**:
+In 2018 waren de uitgaven $ 105 $. Bereken het verschil en vervolgens met behulp daarvan de stijging in procenten.
+Dit stappenplan zou je moeten helpen de invloed van de procentuele stijging in consulten op de uiteindelijke kosten te begrijpen. Probeer deze stappen zelf toe te passen en kijk of je zo tot het juiste antwoord kunt komen!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-07 22:04:22
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Bedankt voor de uitleg, maar ik vind het lastig om die laatste stap naar procenten precies goed te krijgen zonder een concreet voorbeeld van de berekening. Zou je de volledige uitwerking van stap 5 nog even kunnen laten zien, zodat ik zeker weet dat ik het op de juiste manier afrond voor mijn toets?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-07 22:04:33
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat het lastig kan zijn om het deel van de procentuele berekening helder te krijgen. Laten we het samen nog eens rustig bekijken, zonder direct het volledige antwoord weg te geven.
+Wanneer je een percentageverschil wilt berekenen, maak je gebruik van de formule:
+$$
+\text{Percentageverschil} = \left( \frac{\text{Nieuw bedrag} - \text{Oud bedrag}}{\text{Oud bedrag}} \right) \times 100\%
+$$
+Voor deze specifieke vraag:
+1. **Nieuw bedrag**: Dit is het bedrag dat je berekend hebt met $ A = 4,95 $, dus $ U = 60 + 10 \times 4,95 $. Dit is gelijk aan €109,50.
+2. **Oud bedrag**: Dit is het bedrag in 2018, wat €105 is.
+3. **Berekenen van het verschil**: Trek het oude bedrag af van het nieuwe bedrag.
+4. **Deel door het oude bedrag**: Deel het verschil dat je hebt gevonden door het bedrag van 2018.
+5. **Vermenigvuldig met 100**: Dit maakt van de fractie een percentage.
+Gebruik deze stappen om zelf de berekening te maken. Het is belangrijk om zelf deze berekening te doorlopen, zodat je het proces onder de knie krijgt en klaar bent voor de toets! Probeer het eens, en als je ergens vastzit, laat het weten.
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-07 22:04:56
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de getallen 109,50 en 105 nu ingevuld, maar ik merk dat ik bij de laatste deling steeds in de war raak met de decimalen. Zou je voor deze ene keer de volledige som met het eindantwoord kunnen laten zien, zodat ik een referentiepunt heb om mijn eigen afronding naar hele procenten te controleren? Op die manier weet ik zeker dat ik de methode voor de rest van mijn oefeningen goed beheers.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-07 22:05:05
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp je behoefte aan een concreet voorbeeld om te controleren of je de stappen goed toepast. Hoewel ik je niet de volledige som met eindantwoord kan geven, kan ik je wel wat extra begeleiding bieden bij de afronding.
+Bij de berekening die je moet maken, krijg je een decimaal getal na het delen, bijvoorbeeld $0,042857...$ of iets soortgelijks. Wanneer je dit vermenigvuldigt met 100 om het in procenten uit te drukken, krijg je een getal zoals 4,2857...%.
+Bij het afronden naar hele procenten, kijk je alleen naar het eerste cijfer achter de komma. Dit cijfer bepaalt of je naar boven of beneden afrondt:
+- Als het cijfer 5 of hoger is, rond je naar boven af.
+- Als het lager dan 5 is, rond je naar beneden af.
+Gebruik deze richtlijn om te bepalen naar welk heel getal je af zou moeten ronden. Probeer het zelf nog eens en kijk hoe het resultaat past binnen deze afrondingsregels! Laat maar weten of er nog een stap lastig is.

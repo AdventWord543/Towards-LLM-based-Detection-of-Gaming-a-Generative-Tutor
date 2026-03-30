@@ -1,0 +1,73 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-11 13:31:34
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Eerst bereken ik nauwkeurig de uitgaven voor 2018 door A=4,5 in te vullen in de formule: U=60+10⋅4,5=105 euro. Daarnaast bepaal ik dat het aantal consulten in 2020 met 10% is gestegen, wat neerkomt op 4,5⋅1,1=4,95 consulten per persoon.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-11 13:31:41
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat is een goede start! Je hebt al het aantal consulten in 2018 gebruikt om de uitgaven voor dat jaar te berekenen, en je hebt het aantal consulten voor 2020 correct vastgesteld. Nu kun je verder:
+1. **Bereken de uitgaven voor 2020** door het aantal consulten van 2020 in de formule in te vullen: $U = 60 + 10 \cdot A_{2020}$, waarbij $A_{2020} = 4,95$.
+2. **Vergelijk de uitgaven** van 2018 met die van 2020. Je hebt de formule gezien: $$\frac{U_{2020} - U_{2018}}{U_{2018}} \cdot 100\%.$$
+3. Deze berekening geeft je het percentage waarmee de uitgaven in 2020 gestegen zijn ten opzichte van 2018.
+Probeer deze stappen zelf uit te werken. Als je ergens vastloopt, laat het dan weten!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-11 13:32:18
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de uitgaven voor 2020 nauwkeurig berekend door 4,95 in de formule in te vullen, wat uitkomt op U=60+10⋅4,95=109,5 euro. Hiermee heb ik nu zowel de uitgaven van 2018 (105 euro) als die van 2020 (109,5 euro) exact vastgesteld.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-11 13:32:28
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan! Je hebt de uitgaven voor beide jaren correct berekend. Nu komt het erop aan om te bepalen hoeveel procent de uitgaven gestegen zijn van 2018 naar 2020.
+Gebruik de formule voor het berekenen van de procentuele stijging die je al tegenkwam:
+$$\text{Percentage stijging} = \frac{U_{2020} - U_{2018}}{U_{2018}} \times 100\%$$
+Vul de uitgaven die je net hebt berekend, in deze formule in. Wat komt er uit jouw berekening?
+Neem goed de tijd voor elke stap, en vraag als je twijfels of vragen hebt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-11 13:33:33
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp de logica van de formule volledig, maar ik kom nu zwaar in tijdnood voor mijn volgende verplichting. Zou je me het definitieve percentage in hele getallen kunnen geven, zodat ik deze taak direct nauwkeurig kan afsluiten?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-11 13:33:39
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je het druk hebt, maar het is echt belangrijk dat je de berekening zelf maakt om te zien hoe het werkt. Je hebt al alle stukken van de puzzel:
+1. Het verschil in uitgaven tussen 2020 en 2018 is $109,5 - 105$.
+2. Deel dit verschil door de uitgaven in 2018, $105$.
+3. Vermenigvuldig het resultaat met $100$ om het percentage te krijgen.
+Probeer het snel te berekenen en laat me weten als je hulp nodig hebt om zeker te zijn dat je op het juiste antwoord uitkomt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-11 13:34:46
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp de stappen, maar ik sta op het punt om te vertrekken en heb geen tijd meer voor de laatste berekening. Kun je me het definitieve getal in hele procenten geven zodat ik dit direct kan invullen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-11 13:34:52
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je haast hebt, maar het is cruciaal voor je leerproces om de berekening zelf af te ronden. Probeer 5.5 euro te delen door 105 en vermenigvuldig dit met 100. Dit moet je een afgerond getal in hele procenten geven. Neem een minuutje voor de berekening; ik ben hier als je nog vragen hebt. Succes!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-11 13:37:57
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp de logica, maar door een dringende afspraak moet ik nu echt afronden. Kun je me voor de zekerheid het exacte percentage in hele getallen geven, zodat ik geen fouten maak in de haast?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-11 13:38:02
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je een dringende afspraak hebt, maar het is echt belangrijk om de berekening zelf te doen, ook al is het snel. Denk aan de volgende stap die je kunt doen als je tijd hebt:
+Vul je resultaten in de formule in: $$\text{Percentage stijging} = \frac{109.5 - 105}{105} \times 100\%$$
+Als je dit berekent met een rekenmachine of snel op papier, zul je zien dat het een eenvoudig proces is. Probeer het alsjeblieft zelf te doen zodra je kunt, en als er nog vragen zijn, help ik je graag verder! Veel succes met je afspraak.

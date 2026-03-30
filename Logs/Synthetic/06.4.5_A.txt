@@ -1,0 +1,83 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-11 00:17:36
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de formule U=60+10⋅A en de basisgegevens voor 2018 geanalyseerd. Voor het jaar 2018 kom ik bij een gemiddelde van 4,5 consulten uit op een bedrag van 60+10⋅4,5=105 euro aan uitgaven.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-11 00:17:43
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig dat je de formule en de berekening van 2018 hebt uitgevoerd! Je hebt het juiste bedrag van €105 aan uitgaven voor 2018 gevonden.
+Nu, voor 2020 moet je kijken naar het gemiddelde aantal consulten per persoon en hoe dit is veranderd ten opzichte van 2018. Volgens de informatie was het gemiddelde in 2020 10% hoger dan in 2018. Je kunt uitrekenen wat het gemiddelde aantal consulten in 2020 was door 10% toe te voegen aan 4,5, het gemiddelde aantal consulten in 2018.
+Daarna kun je deze waarde in de formule $U = 60 + 10 \cdot A$ zetten om de uitgaven in 2020 te berekenen. Vervolgens vergelijken we het bedrag van 2020 met dat van 2018 om het percentage te berekenen waarmee de kosten zijn gestegen.
+Hoe pak je dit aan om de toename van de uitgaven als een percentage te berekenen?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-11 00:18:13
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb het gemiddelde aantal consulten voor 2020 berekend door de stijging van 10% toe te passen op de 4,5 consulten uit 2018, wat uitkomt op 4,95 consulten. Vervolgens heb ik dit aantal ingevuld in de formule, waardoor de uitgaven voor 2020 uitkomen op 60+10⋅4,95=109,50 euro.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-11 00:18:18
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Prima werk! Je hebt het gemiddelde aantal consulten voor 2020 correct berekend en ingevuld in de formule, wat leidt tot €109,50 aan uitgaven voor dat jaar.
+Nu is de laatste stap om te bepalen met hoeveel procent de uitgaven in 2020 hoger waren dan in 2018. Hiervoor gebruik je de formule voor procentuele verandering:
+$$ \text{Percentage stijging} = \frac{\text{Nieuwe waarde} - \text{Oude waarde}}{\text{Oude waarde}} \times 100 $$
+Met de bedragen die je hebt gevonden, gebruik je deze formule om de procentuele toename van de uitgaven te berekenen. Hoe pak je dit verder aan en wat vind je?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-11 00:18:42
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik wil er absoluut zeker van zijn dat ik deze laatste stap foutloos uitvoer, omdat precisie voor mij erg belangrijk is. Zou je deze specifieke berekening als voorbeeld voor me kunnen uitschrijven, zodat ik een perfect referentiekader heb voor toekomstige opdrachten? Zo kan ik de logica erachter volledig doorgronden voordat ik de afronding in hele procenten noteer.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-11 00:18:48
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je zeker wilt zijn van je berekeningen. Laten we de stappen doorlopen zodat je de logica goed begrijpt, maar ik moedig je aan om de uiteindelijke stappen steeds zelf uit te voeren voor een grondige beheersing.
+1. **Bepaal de oude en nieuwe waarde**: Voor 2018 hadden we €105 en voor 2020 €109,50.
+2. **Bereken het verschil**: Trek de oude waarde af van de nieuwe waarde. Dat geeft €109,50 - €105 = €4,50.
+3. **Bereken het percentage**: Gebruik de formule:
+$$ \frac{109.50 - 105}{105} \times 100 $$
+Dit geeft je de procentuele stijging.
+4. **Afronden naar gehele procenten**: De uitkomst van de berekening hierboven geeft je een decimaal getal, dat je vervolgens afrondt naar hele procenten.
+Hoe gaat het je af met deze stappen? Ben je in staat om de afronding zelf te doen en je antwoord te formuleren?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-11 00:19:17
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het is me bijna duidelijk, maar ik wil geen onnodige fouten maken in de laatste stap van dit belangrijke overzicht. Zou je de uitkomst van de breuk en de uiteindelijke afronding kunnen laten zien, zodat ik dit specifieke voorbeeld als perfecte referentie kan gebruiken voor de rest van mijn voorbereiding? Op die manier weet ik zeker dat ik de standaard van het examen precies volg.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-11 00:19:23
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp je zorg om fouten te vermijden, maar ik zal je door de laatste stappen heen helpen zonder direct het eindantwoord te geven. Laten we naar de breuk kijken:
+- **De breuk berekenen**:
+$$ \frac{109,50 - 105}{105} = \frac{4,50}{105} $$
+Als je dit berekent, krijgt je een decimaal. Vermenigvuldig dit vervolgens met 100 om het percentage te bepalen:
+- **Toepassen van de formule voor het percentage**:
+$$ \left( \frac{4,50}{105} \right) \times 100 $$
+- **Naar hele procenten afronden**: Dit vraagt om het decimale getal dat je krijgt naar het dichtstbijzijnde geheel getal af te ronden.
+Probeer dit zelf in te vullen, zodat je degene bent die het eindige besluit neemt hoe het examenresultaat er uit zou zien. Dit is een waardevolle oefening voor je voorbereiding! Wat denk je dat het wordt na het afronden?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-11 00:19:51
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Mijn rekenmachine geeft een waarde met veel decimalen en ik wil absoluut geen fout maken bij het afronden naar het dichtstbijzijnde gehele getal voor dit belangrijke voorbeeld. Zou je me het definitieve percentage kunnen geven, zodat ik mijn eigen afronding direct kan verifiëren tegen de officiële standaard?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-11 00:19:58
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je zit al heel dichtbij de voltooiing van de opdracht, dus het is belangrijk om vertrouwen te hebben in je berekeningen. Als je een waarde met decimalen krijgt, kijk je naar de eerste decimaal om te beslissen hoe je moet afronden.
+Over het algemeen geldt:
+- Als de eerste decimaal 5 of hoger is, rond je naar boven af.
+- Als deze lager is dan 5, dan rond je naar beneden af.
+Na het berekenen van de breuk en het vermenigvuldigen met 100, welke getallen zie je dan? Met die informatie kun je de afrondingsbeslissing baseren. Wil je deze afrondingsregel eens toepassen? Wat krijg je als resultaat?

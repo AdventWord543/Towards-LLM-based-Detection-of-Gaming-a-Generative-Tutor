@@ -1,0 +1,71 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 19:28:35
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening voor de uitgaven in 2018 al afgerond, maar ik wil mijn resultaat graag even verifiëren voordat ik naar de volgende stap ga. Kun je me vertellen wat de waarde van $U$ is bij een gemiddelde van 4,5 consulten?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 19:28:42
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat is prima dat je eerst je berekening wilt verifiëren voordat je verder gaat. De waarde van $U$ in 2018 kan worden berekend met de formule $U = 60 + 10 \cdot A$, waarbij $A$ het aantal huisartsconsulten per persoon is.
+Je hebt aangegeven dat het gemiddelde aantal consulten in 2018 gelijk is aan 4,5. Dus kunnen we invullen:
+\[
+U = 60 + 10 \cdot 4,5
+\]
+Controleer je eigen uitkomst hiermee om te zien of deze overeenkomt met je eerdere berekening. Laat me weten als je hulp nodig hebt bij het interpreteren van je resultaten of als je verder wilt gaan met de volgende stap!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 19:29:13
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat klopt, ik kwam voor 2018 inderdaad uit op 105 euro. Ik heb de nieuwe waarde voor $A$ in 2020 ook al berekend, maar kun je ter controle bevestigen wat het gemiddelde aantal consulten in dat jaar precies is?
+Zou je me daarna ook kunnen helpen met de berekening van de totale uitgaven voor 2020?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 19:29:21
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed om te horen dat je de berekening hebt gecontroleerd! Laten we eens kijken naar het gemiddelde aantal consulten in 2020. Volgens de informatie weet je dat het aantal consulten 10% hoger was dan in 2018.
+Dus, als het aantal consulten in 2018 4,5 was, wordt het gemiddelde in 2020:
+\[
+A_{2020} = 4,5 \times (1 + 0,10)
+\]
+Bereken deze waarde om te controleren of je het juiste gemiddelde hebt vastgesteld.
+Vervolgens kun je de totale uitgaven voor 2020 berekenen met dezelfde formule:
+\[
+U_{2020} = 60 + 10 \cdot A_{2020}
+\]
+Vul de door jou berekende waarde van \( A_{2020} \) in deze formule in, en bereken \( U_{2020} \). Laat maar weten hoe het gaat of als je nog hulp nodig hebt bij de berekening!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 19:29:55
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening voor $U$ in 2020 voltooid en kom uit op 109,50 euro, wat precies aansluit bij mijn eerdere stappen. Kun je nu het percentage bevestigen waarmee de uitgaven zijn gestegen ten opzichte van 2018, zodat ik zeker weet dat mijn berekening klopt voordat ik het afrond?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 19:30:02
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Fijn om te horen dat je bij de berekening van de uitgaven in 2020 uitkomt op 109,50 euro! Om het percentage te berekenen waarmee de uitgaven zijn gestegen ten opzichte van 2018, gebruik je de formule voor procentuele verandering:
+\[
+\text{Percentage verandering} = \frac{U_{2020} - U_{2018}}{U_{2018}} \times 100
+\]
+Waarbij \( U_{2020} = 109,50 \) euro en \( U_{2018} = 105 \) euro. Plaats deze waarden in de formule en bereken het percentage. Vergelijk je uitkomst met je eerdere berekeningen om te controleren of het consistent is. Laat me weten als je nog vragen hebt over deze stap!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 19:30:31
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de formule voor de procentuele verandering toegepast op mijn eerdere resultaten van 105 euro en 109,50 euro. Kun je me vertellen of mijn einduitkomst, afgerond op hele procenten, inderdaad klopt met wat het systeem verwacht?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 19:30:38
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je bent goed bezig! Je kunt je resultaat controleren door te zorgen dat je de procentuele stijging correct hebt afgerond. Met de gegeven waarden ziet de formule er als volgt uit:
+\[
+\text{Percentage verandering} = \frac{109,50 - 105}{105} \times 100
+\]
+Voer deze berekening uit en rond het resultaat af op hele procenten. Ga na of jouw uitkomst overeenkomt met de verwachte stijging volgens het antwoordmodel. Deel gerust je uitkomst, dan kan ik je verder helpen als je nog twijfels hebt!

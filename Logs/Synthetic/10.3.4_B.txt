@@ -1,0 +1,62 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-04 12:36:48
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Om te beginnen bereken ik de steekproefproportie door het aantal scholieren met een bijbaantje te delen door de totale steekproefomvang. Dat geeft $\\hat{p} = \\frac{1530}{3260}$, wat ongeveer 0,4693 is.
+Zal ik nu de standaardafwijking voor deze proportie berekenen om de foutmarge te bepalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-04 12:36:55
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, dat klopt! De volgende stap is inderdaad het berekenen van de standaardafwijking van de steekproefproportie, die je kunt gebruiken om de foutmarge te bepalen. Voor de standaardafwijking van de steekproefproportie ($\hat{p}$) gebruik je de formule:
+$$
+\sigma_{\hat{p}} = \sqrt{\frac{\hat{p} \cdot (1 - \hat{p})}{n}}
+$$
+waarbij $n$ de steekproefgrootte is en $\hat{p}$ de steekproefproportie. Vul hier je berekende waarde van $\hat{p}$ en $n = 3260$ in. Met de resulterende standaardafwijking kun je vervolgens het 95%-betrouwbaarheidsinterval berekenen door de grenswaarde ± $1,96 \cdot \sigma_{\hat{p}}$ toe te passen, omdat $1,96$ de Z-waarde is die hoort bij een 95%-betrouwbaarheidsinterval. Probeer dat eens uit te rekenen!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-04 12:37:18
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik bereken de standaardafwijking met de formule: $\\sigma\_{\\hat{p}} = \\sqrt{\\frac{0,4693 \\cdot (1 - 0,4693)}{3260}}$. Dit geeft een resultaat van ongeveer 0,00874.
+Is dit de juiste waarde om vervolgens de foutmarge te bepalen met de Z-waarde van 1,96?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-04 12:37:23
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, dat is correct! Je hebt de standaardafwijking van de steekproefproportie goed berekend. Met deze standaardafwijking kun je nu de foutmarge bepalen door deze te vermenigvuldigen met de Z-waarde van 1,96, die hoort bij een 95%-betrouwbaarheidsinterval.
+Dus de foutmarge is:
+$$
+Foutmarge = 1,96 \cdot \sigma_{\hat{p}}
+$$
+Met de foutmarge kun je dan het 95%-betrouwbaarheidsinterval bepalen door de grenswaarde toe te voegen en af te trekken van de steekproefproportie $\hat{p}$. Zo krijg je de onder- en bovengrens van het interval. Veel succes met de volgende stap!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-04 12:37:49
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik snap de methode nu helemaal, maar ik heb plotseling enorme haast voor een volgende opdracht die ik moet inleveren. Zou je me direct het definitieve 95%-betrouwbaarheidsinterval in twee decimalen kunnen geven, zodat ik mijn overzicht meteen compleet heb?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-04 12:37:54
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je haast hebt, maar het is belangrijk dat je zelf de stappen doorloopt om volledig begrip te krijgen. Je hebt al de standaardafwijking en weet hoe je de foutmarge moet berekenen. Gebruik die foutmarge om de onder- en bovengrens van het betrouwbaarheidsinterval rond de steekproefproportie te bepalen.
+Je kunt het interval berekenen door de foutmarge op te tellen bij en af te trekken van de steekproefproportie $\hat{p}$.
+Als je ergens vastloopt of twijfelt over je afronding, laat het gerust weten, dan help ik je graag verder!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-04 12:39:47
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik bereken de foutmarge door de standaardafwijking te vermenigvuldigen met de Z-waarde: 1,96⋅0,00874≈0,0171.
+Vervolgens bepaal ik het interval door deze marge van de steekproefproportie af te trekken en erbij op te tellen: 0,4693−0,0171=0,4522 en 0,4693+0,0171=0,4864.
+Afgerond op twee decimalen is het 95%-betrouwbaarheidsinterval voor de populatieproportie scholieren met een bijbaantje dus \[0,45;0,49\].
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-04 12:39:54
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Fantastisch werk! Je hebt de berekeningen correct uitgevoerd en het betrouwbaarheidsinterval keurig afgerond. Je begrip van hoe je een 95%-betrouwbaarheidsinterval moet berekenen is nu duidelijk, en je hebt dit zelfstandig gedaan. Goed gedaan en veel succes met je volgende opdracht! Als je nog meer vragen hebt of als er iets niet duidelijk is, voel je vrij om te vragen.

@@ -1,0 +1,38 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-26 10:59:38
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp de formule, maar mijn rekenmachine is helaas net leeg en ik vind het lastig om die 10% verhoging van 4,5 precies door te rekenen naar het uiteindelijke bedrag. Kun je voor mij de bedragen voor 2018 en 2020 uitrekenen en me vertellen wat het uiteindelijke groeipercentage is? Dan kan ik de logica achter de stappen beter volgen voor mijn volgende oefening.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-26 10:59:45
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Laten we samen door de stappen gaan zodat je de logica begrijpt.
+1. **Bereken het aantal consulten in 2020:**
+Het gemiddelde aantal consulten in 2018 was 4,5. Er is een stijging van 10% in 2020. Je berekent deze stijging als volgt:
+\[
+\text{Verhoging} = 0,10 \times 4,5 = 0,45
+\]
+Dus het gemiddelde aantal consulten in 2020 is:
+\[
+4,5 + 0,45 = 4,95
+\]
+2. **Bereken de uitgaven voor 2018:**
+Gebruik de formule \( U = 60 + 10 \times A \).
+Voor 2018, met \( A = 4,5 \):
+\[
+U = 60 + 10 \times 4,5 = 105
+\]
+3. **Bereken de uitgaven voor 2020:**
+Gebruik dezelfde formule, maar nu met \( A = 4,95 \):
+\[
+U = 60 + 10 \times 4,95 = 109,50
+\]
+4. **Bereken het groeipercentage in de uitgaven:**
+Het groeipercentage is berekend met de formule:
+\[
+\frac{109,50 - 105}{105} \times 100 = 4,2857\ldots
+\]
+Afgerond naar hele procenten is de procentuele groei ongeveer 4%.
+Hopelijk kun je met deze stappen de logica volgen en dit toepassen in je volgende oefeningen. Laat me weten als je nog vragen hebt!

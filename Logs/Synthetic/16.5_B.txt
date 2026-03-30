@@ -1,0 +1,47 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-08 18:06:25
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Eerst stel ik de kerngegevens uit de tekst vast: de steekproefgrootte $n$ is 3260 en het aantal scholieren met een bijbaantje is 1530, wat een steekproefproportie $\\hat{p}$ van $1530 / 3260 \\approx 0,4693$ oplevert. Om het 95%-betrouwbaarheidsinterval nauwkeurig te berekenen, ga ik nu de standaardfout bepalen met de formule $\\sigma = \\sqrt{\\frac{\\hat{p}(1-\\hat{p})}{n}}$.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-08 18:06:36
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je al de kerngegevens hebt vastgesteld en de steekproefproportie hebt berekend! Je zit op de juiste weg.
+Nu je de steekproefproportie $\hat{p}$ hebt, kun je inderdaad de standaardfout bepalen met de formule die je noemde: $\sigma = \sqrt{\frac{\hat{p}(1-\hat{p})}{n}}$. Denk eraan dat deze standaardfout een maat is voor de variabiliteit van de steekproefproportie.
+Na het berekenen van de standaardfout, gebruik je deze om het 95%-betrouwbaarheidsinterval te berekenen. Dat doe je door een marge van fout toe te passen, die vaak wordt bepaald door de standaardnormale verdeling. Voor een 95%-betrouwbaarheidsinterval gebruik je een kritieke waarde (vaak ongeveer 1,96) vermenigvuldigd met de standaardfout. Dus je betrouwbaarheidsinterval is:
+$$
+\hat{p} \pm Z \times \sigma
+$$
+waar $Z$ de kritieke waarde is voor 95%, meestal 1,96.
+Probeer deze stappen verder uit te werken en laat me weten als je ergens op vastloopt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-08 18:06:59
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Met de waarden $\\hat{p} \\approx 0,4693$ en $n = 3260$ bereken ik de standaardfout: $\\sigma = \\sqrt{\\frac{0,4693 \\cdot (1 - 0,4693)}{3260}} \\approx 0,00874$. Vervolgens vermenigvuldig ik dit met de kritieke waarde $z = 1,96$ om de foutmarge te bepalen, wat uitkomt op ongeveer $0,0171$. Nu ik deze marge heb, zal ik de onder- en bovengrens van het interval berekenen door dit van de steekproefproportie af te trekken en erbij op te tellen.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-08 18:07:10
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je bent goed bezig! Je hebt de standaardfout correct berekend en de marge van fout bepaald met de kritieke waarde $z = 1,96$.
+De volgende stap is inderdaad om deze foutmarge te gebruiken om het 95%-betrouwbaarheidsinterval te bepalen. Dat doe je door de foutmarge op te tellen bij en af te trekken van de steekproefproportie $\hat{p}$:
+1. Ondergrens van het interval: $\hat{p} - 0,0171$.
+2. Bovengrens van het interval: $\hat{p} + 0,0171$.
+Controleer je berekeningen voor de ondergrens en bovengrens van het interval en vergeet niet om de getallen af te ronden, zoals gevraagd in de oorspronkelijke vraag. Laat me weten welke waarden je krijgt of als je hulp nodig hebt bij de laatste stappen!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-08 18:07:32
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de laatste stappen nauwkeurig uitgevoerd: de ondergrens is 0,4693−0,0171=0,4522 en de bovengrens is 0,4693+0,0171=0,4864. Na zorgvuldige afronding op twee decimalen, zoals gevraagd in de opgave, kom ik uit op het 95%-betrouwbaarheidsinterval \[0,45;0,49\]. Hiermee is de berekening voor de populatieproportie scholieren met een bijbaantje volledig en met de vereiste precisie voltooid.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-08 18:07:39
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan! Je hebt de berekeningen zorgvuldig en correct uitgevoerd. Het 95%-betrouwbaarheidsinterval dat je hebt berekend, geeft een voorzichtige schatting van de populatieproportie scholieren met een bijbaantje, en je afronding naar twee decimalen is precies wat de vraag vroeg.
+Je hebt laten zien dat je de concepten van steekproefproportie, standaardfout, en betrouwbaarheidsintervallen goed begrijpt. Als je nog verdere vragen hebt over statistische concepten of andere onderwerpen, aarzel dan niet om te vragen!

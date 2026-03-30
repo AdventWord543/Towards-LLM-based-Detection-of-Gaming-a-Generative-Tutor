@@ -1,0 +1,65 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-31 20:22:31
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Om dit probleem zorgvuldig op te lossen, bereken ik eerst de gemiddelde uitgaven U voor het jaar 2018 door het gemiddelde aantal consulten van 4,5 in de formule in te vullen.
+Voor 2018 geldt: U=60+10⋅4,5=105 euro per persoon.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-31 20:22:37
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je hebt de eerste stap goed uitgevoerd door de gegeven formule te gebruiken om de gemiddelde uitgaven in 2018 te berekenen. De volgende stap is om het gemiddelde aantal consulten in 2020 te berekenen, aangezien dit 10% hoger is dan in 2018. Hoeveel zouden de consulten in 2020 zijn als je die 10% toename toepast op 4,5 consulten? Probeer dat eerst even te berekenen.
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-31 20:23:03
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Voor 2020 verhoog ik het aantal consulten met 10%, wat resulteert in $4,5 \\times 1,10 = 4,95$ consulten per persoon. Hiermee bereken ik de uitgaven voor 2020: $U = 60 + 10 \\times 4,95 = 109,50$ euro.
+Zal ik nu de procentuele toename van de uitgaven ten opzichte van de €105 uit 2018 berekenen en afronden op hele procenten?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-31 20:23:11
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Precies, je bent op de goede weg! Nu je de uitgaven in 2020 hebt berekend, kun je de procentuele toename van 2020 ten opzichte van 2018 uitrekenen. Gebruik de formule:
+$$
+\text{Procentuele toename} = \left(\frac{U_{\text{2020}} - U_{\text{2018}}}{U_{\text{2018}}}\right) \times 100\%
+$$
+Vul hierin de waarden in die je al hebt berekend voor 2020 en 2018. Vergeet niet om je antwoord op hele procenten af te ronden. Probeer het zelf en laat me weten wat je vindt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-31 20:23:39
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp de formule volledig, maar mijn rekenmachine is net uitgevallen en ik wil absoluut geen slordigheidsfout maken bij deze laatste deling. Kun je het exacte percentage voor me uitrekenen, zodat ik zeker weet dat ik de afronding op hele procenten correct uitvoer?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-31 20:23:49
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik kan begrijpen dat je zekerheid wilt bij je berekeningen, maar het is echt belangrijk om zelf de berekening uit te voeren. Kijk of je een andere rekenmachine kunt gebruiken, of probeer het even met pen en papier. Als je de stappen volgt, moet je uitkomen op een getal dat je dan kunt afronden naar hele procenten. Probeer het zelf nogmaals en laat me weten als je ergens tegenaan loopt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-31 20:24:30
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik merk dat ik door de vermoeidheid de focus verlies op de cijfers achter de komma en ik heb hier helaas geen rekenmachine bij de hand. Zou je de uitkomst van de som $(109,50 - 105) / 105 \\times 100\\%$ voor me kunnen uitrekenen? Dan weet ik zeker dat ik het goed begrijp voordat ik aan het volgende onderwerp begin.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-31 20:24:46
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het is begrijpelijk dat vermoeidheid een rol kan spelen, vooral bij het nauwkeurig werken met cijfers. Het is echter essentieel dat je zelf de oefening doorloopt om de vaardigheid en het inzicht te versterken. Probeer, als je de kans hebt, gebruik te maken van een online rekenmachine op je telefoon of computer, of schrijf de som stap voor stap uit. Dit helpt niet alleen met het huidige probleem, maar verbetert ook je zelfvertrouwen in toekomstige situaties. Probeer het nog eens en kijk of je het met een ander hulpmiddel kunt oplossen.
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-31 20:25:12
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb het geprobeerd op papier, maar ik twijfel enorm of ik de staartdeling met die decimalen wel goed heb uitgevoerd. Kun je me het afgeronde getal geven, zodat ik kan controleren of mijn handmatige berekening klopt en ik niet met de verkeerde basiskennis verder leer?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-31 20:25:20
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je graag zekerheid wilt over je uitkomst, zeker als het om decimalen gaat. In plaats van de uitkomst direct te geven, kan ik je een hint geven: het verschil dat je berekent is relatief klein, dus je procentuele toename zou laag moeten zijn, in de enkele cijfers. Controleer of je staartdeling uitkomst geeft die zich hierin bevindt, en gebruik deze intuïtie om zelf de afronding uit te voeren. Als je nog steeds twijfelt, is er misschien een mogelijkheid om met een andere student te overleggen of een leraar om feedback te vragen. Blijf proberen, en je krijgt het voor elkaar!

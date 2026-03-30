@@ -1,0 +1,23 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-25 12:26:33
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik wil zeker weten dat ik geen punten laat liggen op de exacte formulering en de afronding van deze berekening. Zou je het volledige antwoord voor me kunnen uitschrijven als voorbeeld, zodat ik precies zie hoe ik de stappen voor de procentuele toename moet structureren?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-25 12:26:40
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je ervoor wilt zorgen dat je het maximale aantal punten haalt. Hoewel ik je niet het volledige antwoord kan geven, kan ik je wel helpen met de aanpak en de stappen die je moet volgen.
+1. **Formule 1 gebruiken:** Zorg ervoor dat je begrijpt hoe je de formule $U = 60 + 10 \cdot A$ moet toepassen. In deze context is $A$ het aantal consulten, dat je kunt gebruiken om de uitgaven $U$ te berekenen.
+2. **Berekeningen opzetten:**
+- In 2018 had je al het gemiddelde aantal consulten, $A = 4,5$. Vul dit in om $U$ voor 2018 te bepalen: $U_{2018} = 60 + 10 \cdot 4,5 = 105$.
+- In 2020 was het aantal consulten 10% hoger. Bereken dit nieuwe aantal consulten: $A_{2020} = 4,5 \cdot 1,10 = 4,95$.
+3. **Verschil berekenen**:
+- Bereken $U_{2020}$ door $A_{2020}$ in de formule in te vullen: $U_{2020} = 60 + 10 \cdot 4,95 = 109,50$.
+4. **Procentuele toename berekenen**:
+- Gebruik de formule voor procentuele verandering:
+$$\text{procentuele toename} = \left(\frac{U_{2020} - U_{2018}}{U_{2018}}\right) \times 100$$
+- Vul de waarden in:
+$$\frac{109,50 - 105}{105} \times 100 = \frac{4,50}{105} \times 100 \approx 4\%.$$
+Zorg ervoor dat je je antwoord afrondt op hele procenten, zoals gevraagd. Als je deze stappen volgt, zou je moeten kunnen bepalen hoeveel procent de uitgaven zijn toegenomen. Probeer dit eerst zelf uit te werken. Als je vragen hebt over specifieke stappen of als iets onduidelijk is, laat het me weten!

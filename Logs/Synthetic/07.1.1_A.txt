@@ -1,0 +1,32 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-26 10:14:44
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik snap de logica achter de formule $U = 60 + 10 \\cdot A$ wel, maar ik heb echt een hekel aan dat eindeloze rekenwerk met komgetallen en percentages. Zou jij de berekening voor 2018 en 2020 voor me kunnen uitvoeren en me vertellen hoeveel procent de uitgaven precies zijn gestegen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-26 10:14:52
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat rekenwerk met kommagetallen en percentages vervelend kan zijn, maar laten we het samen stap voor stap doorlopen. Zo help ik je om zelfvertrouwen te krijgen in het uitvoeren van dit soort berekeningen.
+1. **Berekening van de uitgaven voor 2018:**
+Met het gemiddelde aantal consulten \(A = 4,5\) voor 2018, bereken je de uitgaven \(U\) als volgt:
+\[
+U = 60 + 10 \cdot 4,5 = 105
+\]
+2. **Berekening van de uitgaven voor 2020:**
+In 2020 is het gemiddelde aantal consulten met \(10\%\) hoger vergeleken met 2018. Bereken eerst het aantal consulten in 2020:
+\[
+A = 4,5 \cdot 1,1 = 4,95
+\]
+Gebruik dit in de formule voor \(U\):
+\[
+U = 60 + 10 \cdot 4,95 = 109,5
+\]
+3. **Percentage toename van de uitgaven:**
+Om het percentage toename te berekenen, gebruik je de formule:
+\[
+\frac{109,5 - 105}{105} \cdot 100
+\]
+Dit komt neer op een stijging van ongeveer \(4\%\).
+Probeer deze stappen zelf na te lopen en te berekenen. Zo krijg je meer grip op zowel de logica als de rekenstappen. Als je ergens vastloopt, laat het gerust weten!

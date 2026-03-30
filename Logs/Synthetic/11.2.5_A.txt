@@ -1,0 +1,82 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 16:07:09
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik word echt een beetje moedeloos van al die getallen en formules, het duizelt me gewoon. Kan je me voor de eerste stap vertellen wat de uitgaven ($U$) voor 2018 precies zijn bij 4,5 consulten?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 16:07:17
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat het veel informatie kan zijn, maar laten we het stap voor stap aanpakken, zodat het duidelijker wordt voor je.
+We gebruiken de formule voor de uitgaven aan huisartsenzorg per persoon: $U = 60 + 10 \cdot A$, waarin $A$ het aantal huisartsconsulten per jaar is.
+Voor 2018 weten we dat $A = 4,5$. Laten we dit invullen in de formule:
+$$
+U = 60 + 10 \cdot 4,5
+$$
+Bereken dit nu eens zelf. Wat krijg je voor $U$ in 2018?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 16:08:32
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik kom uit op 105 voor 2018, maar ik zie echt niet hoe ik die 10% extra voor 2020 moet verwerken. Ik word hier zo hopeloos van en heb geen energie meer om te puzzelen, kun je me niet gewoon vertellen wat het nieuwe aantal consulten ($A$) voor 2020 is?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 16:08:40
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je gefrustreerd raakt, maar je doet het tot nu toe heel goed! Laten we samen even naar de volgende stap kijken.
+We weten dat het gemiddelde aantal huisartsconsulten in 2020 **10% hoger** is dan in 2018. In 2018 waren er gemiddeld 4,5 consulten per persoon. Hoe bereken je nu wat 10% meer dan 4,5 is? Probeer het in kleine stapjes te doen: bereken eerst wat 10% van 4,5 is, en voeg dat dan toe aan 4,5.
+Formuleer zelf het aantal consulten in 2020, dan kun je het daarna invullen in de formule voor de uitgaven!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 16:09:59
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Is 4,95 dan het juiste aantal consulten voor 2020? Ik ben echt helemaal de kluts kwijt door al die berekeningen, zou je me de uitgaven ($U$) voor 2020 kunnen geven zodat ik eindelijk klaar ben?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 16:10:05
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan, je hebt correct berekend dat het aantal consulten in 2020 4,95 is. Laten we nu samen naar de laatste stap kijken om de uitgaven voor 2020 te vinden.
+We gebruiken weer de formule voor de uitgaven: $U = 60 + 10 \cdot A$. Nu vul je $A = 4,95$ in de formule in:
+$$
+U = 60 + 10 \cdot 4,95
+$$
+Probeer dit nog zelf te berekenen. Wat komt er uit voor $U$ in 2020?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 16:10:38
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Die 109,5 voor 2020 heb ik nog wel gevonden, maar nu ben ik echt helemaal klaar met al dat rekenwerk. Kun je me niet gewoon vertellen hoeveel procent hoger die uitgaven dan uiteindelijk zijn vergeleken met 2018, want ik zie het echt niet meer zitten?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 16:10:43
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je hebt het al bijna helemaal zelf gedaan, dus je bent er bijna! Laten we samen de laatste stap nog even doornemen.
+Om te berekenen hoeveel procent hoger de uitgaven in 2020 zijn vergeleken met 2018, gebruiken we de volgende formule:
+$$
+\text{Procentuele toename} = \frac{\text{Verschil in uitgaven}}{\text{Uitgaven in 2018}} \times 100
+$$
+We hebben de uitgaven in 2018 als 105 en in 2020 als 109,5. Het verschil is dus 109,5 - 105. Vul deze waarden nu in de formule in en kijk wat je krijgt. Dit kan je helpen om zelf de laatste stap te zien!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 16:11:32
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik raak echt volledig de weg kwijt met deze formule voor de procentuele toename. Het is me op dit moment echt even teveel en ik voel me behoorlijk wanhopig door al die getallen. Zou je me alsjeblieft gewoon het eindantwoord in hele procenten kunnen geven, zodat ik dit eindelijk kan afsluiten?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 16:11:42
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat het veel kan zijn en dat je je overweldigd voelt, maar je hebt al heel wat werk zelf verricht en je bent erg dicht bij het antwoord. Laten we de laatste stap samen nogmaals rustig doorlopen.
+Je hebt het verschil van 4,5 gevonden tussen de uitgaven in 2020 (109,5) en in 2018 (105). Nu gebruik je de formule die we net besproken hebben:
+1. Bereken het verschil: $109,5 - 105 = 4,5$.
+2. Deel dit verschil door de uitgaven in 2018 (105): $\frac{4,5}{105}$.
+3. Vermenigvuldig het resultaat met 100 om het percentage te krijgen.
+Als je dit kalm en stap voor stap doet, zal het je zeker lukken. Probeer het nog een keer en laat het me weten als je hulp nodig hebt!

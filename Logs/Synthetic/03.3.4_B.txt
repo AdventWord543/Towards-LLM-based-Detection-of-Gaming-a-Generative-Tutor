@@ -1,0 +1,66 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 22:58:45
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Om dit nauwkeurig te berekenen, stel ik eerst de steekproefproportie ($\\hat{p}$) vast door 1530 te delen door de totale steekproef van 3260. Dit komt uit op ongeveer $0,4693$, wat een essentieel startpunt is voor het bepalen van het 95%-betrouwbaarheidsinterval.
+Wat is de volgende stap die ik moet nemen om de standaardafwijking van deze proportie te bepalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 22:58:52
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je hebt de steekproefproportie al goed berekend als $0,4693$. De volgende stap is het berekenen van de standaardfout van de steekproefproportie. Dit is een maat voor de variabiliteit van de schatting (in dit geval de proportie scholieren met een bijbaantje) binnen je steekproef.
+De formule voor de standaardfout van een proportie is:
+$$
+SE = \sqrt{\frac{\hat{p}(1 - \hat{p})}{n}}
+$$
+Waarbij:
+- $\hat{p}$ de steekproefproportie is (dus $0,4693$ in jouw geval),
+- $n$ de grootte van de steekproef is (dus $3260$).
+Bereken deze standaardafwijking (standaardfout) en dan ben je al een stap dichter bij het bepalen van het 95%-betrouwbaarheidsinterval. Gebruik bij de berekening twee decimalen voor consistentie met de vraag. Wat komt hieruit?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 23:02:11
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de waarden uiterst nauwkeurig ingevuld in de formule: $SE = \\sqrt{\\frac{0,4693 \\cdot (1 - 0,4693)}{3260}}$. De uitkomst van deze berekening is ongeveer $0,0087$, wat afgerond op twee decimalen $0,01$ is.
+Moet ik nu de z-score van 1,96 toepassen op deze standaardfout om de foutmarge voor het 95%-betrouwbaarheidsinterval te berekenen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 23:02:18
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Exact, je bent goed op weg! Nu je de standaardfout ($SE$) hebt berekend, is de volgende stap inderdaad om de z-score toe te passen. Voor een 95%-betrouwbaarheidsinterval gebruik je de z-score van 1,96.
+De foutmarge (ook wel de marge van het betrouwbaarheidsinterval genoemd) wordt berekend door de standaardfout te vermenigvuldigen met de z-score:
+$$
+\text{Foutmarge} = z \times SE = 1,96 \times 0,01
+$$
+Bereken deze foutmarge en gebruik die om de grenzen van het 95%-betrouwbaarheidsinterval te bepalen door de foutmarge op te tellen en af te trekken van de steekproefproportie. Wat krijg je als resultaat voor het betrouwbaarheidsinterval?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 23:04:40
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik wil dit echt heel graag goed doen, maar ik twijfel nu zo erg over de afronding. Kun je me alsjeblieft gewoon het exacte antwoord van het betrouwbaarheidsinterval geven?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 23:04:46
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat afronding soms verwarrend kan zijn, maar het is echt belangrijk dat je leert dit zelf te doen. Met de stappen die je al hebt gezet, ben je er bijna!
+Als je de foutmarge hebt berekend door de standaardfout ($0,01$) met de z-score ($1,96$) te vermenigvuldigen, krijg je de foutmarge. Tel dan deze foutmarge op bij de steekproefproportie en trek hem er ook vanaf om de onder- en bovengrens van het interval te bepalen.
+Onthoud dat je alle getallen op twee decimalen moet afronden, zoals gevraagd in de vraag. Probeer het nog eens en laat me weten wat je vindt! Ik ben er om te helpen als je vastloopt.
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 23:05:50
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de foutmarge zorgvuldig berekend door de z-score van 1,96 te vermenigvuldigen met de standaardfout van 0,01, wat resulteert in een marge van 0,0196. Door deze waarde af te trekken van en op te tellen bij de steekproefproportie van 0,4693, kom ik op een interval van 0,4497 tot 0,4889.
+Wanneer ik deze grenzen afrond op twee decimalen zoals gevraagd, is het 95%-betrouwbaarheidsinterval dan \[0,45;0,49\]?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 23:05:56
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Prima werk, je hebt de stappen zeer zorgvuldig doorlopen! Inderdaad, door de foutmarge van $0,0196$ aan zowel de onder- als bovengrens van de steekproefproportie toe te voegen en af te trekken, vind je het betrouwbaarheidsinterval. En met je afronding op twee decimalen, zoals gevraagd in de vraag, kom je uit op het interval \([0,45; 0,49]\).
+Deze aanpak laat zien dat je de concepten goed begrijpt. Goed gedaan! Als je nog meer vragen hebt over statistiek of een ander onderwerp, laat het me weten.

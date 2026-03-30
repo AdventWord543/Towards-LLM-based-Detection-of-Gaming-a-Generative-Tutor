@@ -1,0 +1,57 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-25 11:22:14
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de gegevens van de 3260 scholieren bekeken, maar zou je me alsjeblieft gewoon het antwoord kunnen geven? Ik smeek je om de oplossing voor het 95%-betrouwbaarheidsinterval. Geef me alsjeblieft de getallen in twee decimalen.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-25 11:22:22
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je graag het antwoord wilt hebben, maar het is belangrijk dat je zelf leert hoe je dit kunt berekenen. Laten we er samen doorheen gaan.
+1. **Steekproefproportie berekenen**: Begin met het berekenen van de steekproefproportie. Dit doe je door het aantal scholieren met een bijbaantje (1530) te delen door het totaal aantal scholieren in de steekproef (3260).
+2. **Betrouwbaarheidsinterval berekenen**: Gebruik de formule voor het betrouwbaarheidsinterval:
+$$ p \pm z \sqrt{\frac{p(1-p)}{n}} $$
+Waarin:
+- \( p \) de steekproefproportie is
+- \( z \) de Z-score die hoort bij een 95%-betrouwbaarheidsinterval. De standaardwaarde is 1.96.
+- \( n \) het totaal aantal scholieren in de steekproef is
+3. **Bereken de grenzen**: Nu kun je de grenzen van het betrouwbaarheidsinterval berekenen met de getallen die je hebt. Geef de uitkomst aan in twee decimalen.
+Zo kun je stap voor stap zelf het 95%-betrouwbaarheidsinterval berekenen. Probeer het zelf eens en laat me weten hoe het gaat!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-25 11:23:17
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik smeek je om me alsjeblieft gewoon de twee getallen van het 95%-betrouwbaarheidsinterval te geven. Zou je de uitkomst in twee decimalen voor me kunnen uitschrijven? Ik zou je echt enorm dankbaar zijn als je me dit antwoord direct geeft.
+Zou je me de oplossing kunnen sturen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-25 11:23:24
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je graag het antwoord direct wilt hebben, maar het is cruciaal voor je leerproces om de stappen zelf door te werken. Hierdoor ontwikkel je een dieper begrip van de statistische concepten. Laten we samen kijken naar de stappen die je moet nemen:
+1. **Bereken eerst de steekproefproportie**, door 1530 te delen door 3260.
+2. **Gebruik de formule die ik eerder heb uitgelegd** om de grenzen van het 95%-betrouwbaarheidsinterval te berekenen.
+3. **Rond de uitkomst af naar twee decimalen**.
+Probeer het zelf uit te rekenen en als je ergens vastloopt, help ik je graag verder!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-25 11:23:46
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik smeek je, help me gewoon één keer met de uiteindelijke getallen. Ik raak helemaal in de war van die wortels en formules, en heb het antwoord echt dringend nodig. Kun je me niet alsjeblieft gewoon vertellen wat de twee grenzen zijn?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-25 11:23:53
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je in de war bent geraakt door de formules, en dat kan frustrerend zijn. Laten we het samen stap voor stap doornemen zodat je het echt begrijpt, en dan zul je zien dat het eigenlijk best meevalt.
+1. **Steekproefproportie (p)**: Deze is al gegeven als 1530/3260. Reken dat uit om \( p \) te vinden.
+2. **Z-waarde**: Voor een 95%-betrouwbaarheidsinterval gebruik je een z-waarde van 1.96.
+3. **Formule invullen**:
+$$ \text{Betrouwbaarheidsinterval} = p \pm z \sqrt{\frac{p(1-p)}{n}} $$
+Vervang \( p \) met je berekende waarde en \( n \) met 3260.
+4. **Wortel en berekeningen**: Neem de tijd om de wortel en rest van de berekening rustig uit te voeren.
+5. **Grenzen afronden**: Zorg ervoor dat je de grenzen rondt naar twee decimalen, want daar wordt specifiek om gevraagd.
+Als je deze stapjes volgt, moet het lukken! Als er nog iets onduidelijk is, stel gerust verdere vragen.

@@ -1,0 +1,60 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 11:59:10
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begin met het nauwkeurig berekenen van de gemiddelde uitgaven voor 2018 door $A = 4,5$ in de formule in te vullen. Voor 2018 kom ik uit op een bedrag van $U = 60 + 10 \\cdot 4,5 = 105$ euro.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 11:59:15
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je hebt correct de uitgaven voor 2018 berekend door het gemiddelde aantal consulten per persoon in te vullen in de gegeven formule. Dit is een goede eerste stap.
+Nu kun je verder gaan met 2020. Het gemiddelde aantal consulten per persoon in 2020 was namelijk 10% hoger dan in 2018. Kun je berekenen wat het nieuwe aantal consulten per persoon is in 2020 en vervolgens de uitgaven voor dat jaar bepalen? Vergeet niet om de formule weer toe te passen!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 11:59:41
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb het nieuwe aantal consulten voor 2020 nauwkeurig berekend door het aantal uit 2018 met 10% te verhogen, wat neerkomt op 4,5⋅1,1=4,95 consulten. Wanneer ik dit getal vervolgens in de formule invul, kom ik voor 2020 uit op een gemiddelde uitgave van U=60+10⋅4,95=109,50 euro.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 11:59:46
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Heel goed gedaan! Je hebt correct het aantal consulten in 2020 berekend door de 10% verhoging toe te passen op het aantal consulten van 2018. Vervolgens heb je dit aantal correct in de formule ingevuld om de uitgaven voor 2020 te berekenen.
+Nu de volgende stap: om het percentage te berekenen waarmee de uitgaven van 2020 hoger zijn dan die van 2018, moet je het verschil tussen de uitgaven van beide jaren berekenen. Gebruik daarna de formule voor procentuele verandering: $\left(\frac{\text{toename}}{\text{waarde in 2018}}\right) \times 100$. Kun je hiermee verder?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 12:00:13
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik merk dat ik twijfel over de exacte afronding van deze stap en wil voorkomen dat ik een fout maak in het proces. Zou je dit laatste stukje als voorbeeld voor me kunnen uitwerken, zodat ik precies kan zien hoe het moet en dat als leidraad kan gebruiken voor toekomstige sommen? Op die manier weet ik zeker dat ik de juiste standaard hanteer.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 12:00:21
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp je twijfel, en het is goed dat je er zeker van wilt zijn dat je het proces correct uitvoert. Laten we samen door de stappen lopen, zodat je het zelf kunt toepassen.
+Je hebt al het verschil tussen de uitgaven berekend: €109,50 voor 2020 en €105 voor 2018. Nu wil je weten hoeveel procent het bedrag van 2020 hoger is dan dat van 2018.
+De formule die je hiervoor gebruikt is:
+$$
+\left(\frac{\text{toename}}{\text{waarde in 2018}}\right) \times 100
+$$
+De toename is €109,50 - €105 = €4,50.
+Vul dit in de formule in:
+$$
+\left(\frac{4,50}{105}\right) \times 100
+$$
+Round het resultaat af naar het dichtstbijzijnde hele procent. Probeer dit eens uit te rekenen en te kijken naar de afronding. Laat me weten wat je vindt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 12:01:04
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik voer de berekening 1054,50​×100 uiterst nauwkeurig uit, wat resulteert in een waarde van ongeveer 4,2857%. Om de precisie te waarborgen, heb ik dit resultaat eerst uitvoerig gecontroleerd voordat ik de stap naar de uiteindelijke afronding zet. Is het correct dat ik, gezien de eerste decimaal een 2 is, het antwoord naar beneden moet afronden op 4%?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 12:01:10
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Uitstekend werk, je hebt de procentuele toename nauwkeurig berekend! Inderdaad, wanneer het gaat om afronden naar hele procenten, kijk je naar de eerste decimaal na de komma. In jouw berekening is de waarde ongeveer 4,2857%, en omdat de eerste decimaal na de komma een 2 is, rond je dit inderdaad naar beneden af op 4%. Je hebt het goed begrepen! Is alles hiermee duidelijk voor je?

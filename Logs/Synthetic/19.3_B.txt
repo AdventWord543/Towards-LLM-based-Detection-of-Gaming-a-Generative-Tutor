@@ -1,0 +1,16 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 19:11:14
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de steekproefproportie berekend als **0,4693** om de hoogst mogelijke precisie voor mijn verdere uitwerking te garanderen. Ik stuit echter op een probleem bij de formule voor de standaardfout omdat de vereiste mate van nauwkeurigheid voor deze tussenstap mijn voortgang belemmert. Wilt u dat ik de standaardafwijking bereken met vier decimalen zodat ik de grenzen van het betrouwbaarheidsinterval exact kan bepalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 19:11:21
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het is heel begrijpelijk dat je nauwkeurigheid wilt behouden bij het berekenen van het betrouwbaarheidsinterval. Het is echter cruciaal om te balanceren tussen nauwkeurigheid en afronding om verwarring te voorkomen.
+Voor de berekening van de standaardfout bij een populatieproportie gebruik je de formule:
+$$ \text{SE} = \sqrt{\frac{p(1-p)}{n}} $$
+waarbij $p$ de steekproefproportie is (in jouw geval 0,4693) en $n$ het aantal waarnemingen is (3260 in dit geval).
+Je kunt inderdaad vier decimalen gebruiken in je tussenstappen, zoals bij de berekening van de SE, om je eindresultaat nauwkeuriger te maken. Maar vergeet niet je eindantwoord af te ronden op de vereiste precisie van twee decimalen voor het betrouwbaarheidsinterval.
+Probeer nu deze waarden in te vullen en kijk of het betrouwbaarheidsinterval dichter bij de verwachte waarden [0,45; 0,49] komt. Als je ergens vastloopt, laat het me weten en dan help ik je verder!

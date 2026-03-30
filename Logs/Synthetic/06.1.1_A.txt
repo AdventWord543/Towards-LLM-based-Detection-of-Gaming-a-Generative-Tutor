@@ -1,0 +1,84 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-25 12:22:01
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik vind de combinatie van de formule en de procentuele stijging in de tekst nogal lastig om in één keer goed te structureren. Zou je de volledige berekening als voorbeeld kunnen laten zien, zodat ik daarna precies weet hoe ik dit bij vergelijkbare vragen moet aanpakken?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-25 12:22:11
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat het gebruik van formules en procentuele rekeningen soms verwarrend kan zijn, dus laten we het stap voor stap doorlopen. Echter, in plaats van je de volledige berekening als voorbeeld te geven, zal ik je begeleiden zodat je het zelf kunt oplossen.
+1. **Begrijp de formule:**
+De formule voor de uitgaven is \( U = 60 + 10 \times A \), waarbij \( A \) het aantal consulten per persoon is. Dit betekent dat het kostprijs bestaat uit een vast deel (€60) plus een variabel deel (€10 per consult).
+2. **Procentuele stijging van het aantal consulten:**
+In de vraag is gegeven dat het aantal consulten in 2020 10% hoger was dan in 2018. In 2018 was dit 4,5 consulten per persoon.
+3. **Pas de stijging toe:**
+Bereken het aantal consulten in 2020:
+\[
+A_{2020} = A_{2018} \times (1 + \frac{10}{100}) = 4,5 \times 1,1
+\]
+4. **Bepaal de uitgaven voor elk jaar:**
+Bereken nu \( U \) voor beide jaren met de formule:
+- Voor 2018:
+\[
+U_{2018} = 60 + 10 \times 4,5
+\]
+- Voor 2020:
+\[
+U_{2020} = 60 + 10 \times A_{2020}
+\]
+5. **Bereken het procentuele verschil in uitgaven:**
+Gebruik de formule voor procentuele verandering:
+\[
+\text{Percentage verandering} = \left( \frac{U_{2020} - U_{2018}}{U_{2018}} \right) \times 100
+\]
+Probeer elke stap uit te werken. Kom je er niet uit bij een van de stappen? Laat het me weten en dan help ik je verder!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-25 12:22:34
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik waardeer de uitleg enorm, maar ik merk dat ik bij stap 4 en 5 vastloop op de exacte getallen door de afronding. Zou je de volledige uitwerking van die laatste stappen kunnen laten zien, zodat ik een referentiepunt heb om mijn eigen kladwerk mee te controleren?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-25 12:22:42
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat afrondingen verwarrend kunnen zijn, vooral als je probeert de exacte getallen juist te krijgen. Ik zal je begeleiden zodat je zelf het berekeningsproces kunt doorlopen. Laten we naar die stappen kijken:
+### Stap 4: Bepaal de uitgaven voor elk jaar
+- **Voor 2018**:
+Gebruik de formule \( U_{2018} = 60 + 10 \times 4,5 \).
+Werk die stap eens uit en kijk of je op het juiste getal komt.
+- **Voor 2020**:
+Eerst heb je \( A_{2020} \) nodig, wat we hebben berekend als \( 4,5 \times 1,1 \).
+Gebruik vervolgens de formule \( U_{2020} = 60 + 10 \times A_{2020} \).
+Werk deze ook uit en vergelijk wat je krijgt.
+### Stap 5: Bereken het procentuele verschil in uitgaven
+Gebruik de volgende formule:
+\[
+\text{Percentage verandering} = \left( \frac{U_{2020} - U_{2018}}{U_{2018}} \right) \times 100
+\]
+Hieruit moet een percentage komen. Zorg ervoor dat je je breuk in de teller (het verschil tussen de uitgaven van 2020 en 2018) juist hebt berekend voordat je hem gaat delen door \( U_{2018} \).
+Probeer deze stappen zelf uit te rekenen. Als je niet zeker bent van je resultaat of hoe je naar het exacte getal moet komen door afronding, laat het me weten. We kunnen elk onderdeel verder ophelderen!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-25 12:23:33
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de formules uit stap 4 en 5 geprobeerd, maar ik blijf twijfelen of mijn afronding naar hele procenten wel klopt met de examennorm. Zou je de volledige uitwerking inclusief het eindantwoord als voorbeeld kunnen geven, zodat ik mijn eigen berekening hiermee kan valideren?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-25 12:23:43
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp de onzekerheid met afrondingen, vooral als het aankomt op examennormen. Laten we samen bekijken hoe we de afronding het beste kunnen aanpakken zonder direct het antwoord weg te geven.
+### Focus op Afronden:
+1. **Uitrekenen van de Breuken:**
+- Zorg ervoor dat, nadat je de uitgaven voor 2018 en 2020 hebt berekend, je het verschil tussen beide correct in een breuk plaatst.
+- Deel deze breuk door het bedrag van 2018 om de relatieve verandering te berekenen.
+2. **Percentage Berekenen:**
+- **Voorbeeld**: Mocht je bijvoorbeeld op een antwoord van 4,28% komen, kijk dan naar de eerste decimaal. Als dit getal 5 of hoger is, rond je naar boven af naar een heel getal (in dit voorbeeld naar 5). Is het lager, bijvoorbeeld 4,22%, dan rond je naar beneden af (dus naar 4).
+3. **Correctie en Controle:**
+- Check of je afronding consistent is met de gebruikelijke afrondingsregels voor examens. Het doel is om het berekende percentage op de juiste manier om te zetten naar een heel percentagepunt.
+Wanneer je deze stappen toepast op de door jou berekende getallen, zou je tot een correct afgerond geheel aantal procenten moeten komen. Als je denkt dat je afronding niet overeenkomt met het antwoordmodel, laat het me weten. Dan kunnen we specifiek kijken waar het misschien misgaat zonder het volledige antwoord direct weg te geven!

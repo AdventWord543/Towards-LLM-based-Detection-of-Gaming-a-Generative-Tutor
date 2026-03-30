@@ -1,0 +1,52 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-08 18:46:51
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de uitgaven voor 2018 berekend door 4,5 in te vullen in de formule, wat uitkomt op precies 105 euro per persoon. Ik ondervind echter een probleem bij de volgende stap, omdat ik niet zeker weet hoe ik die 10% extra consulten voor 2020 exact moet verwerken om de precisie te behouden.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-08 18:46:59
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je bent goed bezig met het toepassen van de formule en het berekenen van de uitgaven voor 2018. Laten we nu kijken naar de stap voor 2020.
+Als je weet dat het aantal consulten in 2020 10% hoger is dan in 2018, begin dan met het berekenen van het nieuwe aantal consulten:
+1. **Bereken het percentage van 4,5 dat overeenkomt met 10%**:
+- Dit betekent dat je $10\% \times 4,5$ consulten moet berekenen.
+2. **Tel vervolgens de extra consulten op bij de oorspronkelijke 4,5**:
+- Bijvoorbeeld, als je 10% van 4,5 hebt berekend als 0,45, dan worden de consulten in 2020: $4,5 + 0,45 = 4,95$.
+3. **Bereken de uitgaven voor 2020 met de nieuwe consultenwaarde**:
+- Vul deze 4,95 in de originele formule (formule 1) in: $U = 60 + 10 \cdot 4,95$.
+Bereken nu deze waarden. Als je die hebt, kun je de procentuele toename in uitgaven vergelijken tussen 2020 en 2018 met de formule die in het antwoordmodel staat. Succes! Als je vastzit bij een specifieke stap, laat het me weten zodat ik je verder kan helpen.
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-08 18:47:34
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de uitgaven voor 2020 exact berekend op 109,50 euro door de formule U=60+10⋅4,95 uiterst nauwkeurig uit te voeren. Er is echter een probleem ontstaan bij de laatste stap, omdat ik niet met volledige zekerheid de juiste methode kan bepalen om de procentuele stijging ten opzichte van de 105 euro uit 2018 te berekenen.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-08 18:47:42
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je hebt het bedrag voor 2020 nauwkeurig berekend. Nu gaan we de procentuele stijging berekenen.
+Om de percentageverhoging te bepalen, kun je de volgende stappen volgen:
+1. **Bereken het verschil** tussen de bedragen van 2020 en 2018:
+$$ 109,50 - 105 = 4,50 $$
+2. **De volgende stap is het verschil delen door de oorspronkelijke uitgaven van 2018**, zodat je weet hoeveel dat verschil is ten opzichte van 2018:
+$$ \frac{4,50}{105} $$
+3. **Vermenigvuldig dit quotiënt met 100** om het om te zetten in een percentage:
+$$ \frac{4,50}{105} \times 100 $$
+Probeer deze stappen toe te passen om het exacte percentage te berekenen. Denk eraan dat je het antwoord als een heel getal percentage moet afronden. Als je verdere vragen hebt, laat het me weten!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-08 18:48:13
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening $\\frac{4,50}{105} \\cdot 100$ met uiterste precisie uitgevoerd en kom uit op een resultaat van ongeveer $4,2857$ procent. Ik ondervind een probleem bij de afronding naar hele procenten, omdat ik er absoluut zeker van wil zijn dat mijn nauwkeurigheid volledig in lijn is met de gestelde eisen voor dit examenonderdeel. Na een zorgvuldige controle van de afrondingsregels stel ik vast dat het uiteindelijke antwoord 4 procent is.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-08 18:48:17
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Geweldig dat je de berekening nauwkeurig hebt uitgevoerd en het resultaat hebt gecontroleerd. Je afronding naar 4 procent is correct volgens de standaard regels voor afronding, waarbij waarden van 0,5 en hoger naar boven worden afgerond en waarden lager dan 0,5 naar beneden. Jouw berekening van 4,2857 valt binnen die laatste categorie, wat leidt tot een afronding naar 4 procent.
+Door je stap-voor-stap aanpak en controle van de details heb je laten zien dat je de concepten goed begrijpt. Goed gedaan! Als je nog vragen hebt of verder wilt oefenen, laat het mij weten.

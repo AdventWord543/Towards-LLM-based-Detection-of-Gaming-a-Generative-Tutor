@@ -1,0 +1,41 @@
+================================================================================
+GAMING MISMATCH REPORT
+================================================================================
+
+Total mismatches: 151
+
+MISMATCH TYPES:
+--------------------------------------------------------------------------------
+Truth: No         -> Predicted: Yes        Count:  121 ( 80.1%)
+Truth: Yes        -> Predicted: No         Count:   16 ( 10.6%)
+Truth: No         -> Predicted: 1          Count:    2 (  1.3%)
+Truth: No         -> Predicted: 2          Count:    2 (  1.3%)
+Truth: No         -> Predicted: 3          Count:    1 (  0.7%)
+Truth: No         -> Predicted: 4          Count:    1 (  0.7%)
+Truth: No         -> Predicted: Round 2    Count:    1 (  0.7%)
+Truth: No         -> Predicted: Round 1    Count:    1 (  0.7%)
+Truth: Yes        -> Predicted: 4          Count:    1 (  0.7%)
+Truth: Yes        -> Predicted: 3          Count:    1 (  0.7%)
+Truth: Yes        -> Predicted: 5          Count:    1 (  0.7%)
+Truth: Yes        -> Predicted: Round 3    Count:    1 (  0.7%)
+Truth: Yes        -> Predicted: Round 4    Count:    1 (  0.7%)
+Truth: Yes        -> Predicted: Round 5    Count:    1 (  0.7%)
+
+MISMATCHES BY SUFFIX:
+--------------------------------------------------------------------------------
+_A: 37 mismatches
+_B: 64 mismatches
+_C: 50 mismatches
+
+MISMATCHES BY ROUND:
+--------------------------------------------------------------------------------
+Round  1: 30 mismatches
+Round  2: 36 mismatches
+Round  3: 28 mismatches
+Round  4: 39 mismatches
+Round  5: 12 mismatches
+Round  6: 1 mismatches
+Round  7: 2 mismatches
+Round  8: 1 mismatches
+Round  9: 1 mismatches
+Round 10: 1 mismatches

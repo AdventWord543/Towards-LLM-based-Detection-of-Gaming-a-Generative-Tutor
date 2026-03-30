@@ -1,0 +1,60 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 19:31:23
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de uitgaven voor 2018 al berekend om een solide startpunt te hebben voor de rest van de opgave. Kun je bevestigen welk bedrag voor $U$ er uit die eerste stap komt, zodat ik zeker weet dat mijn basis klopt?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 19:31:29
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Heel goed dat je bezig bent met gecontroleerd stappen zetten! Laten we samen kijken naar de formule en de gegevens die je hebt voor 2018. Volgens de informatie kun je het bedrag $U$ berekenen met de formule:
+$$ U = 60 + 10 \cdot A $$
+In 2018 was het gemiddelde aantal consulten $A = 4.5$. Vul dit in de formule in:
+$$ U = 60 + 10 \cdot 4.5 $$
+Probeer nu deze berekening uit te voeren en kijk welk bedrag je krijgt. Vergeet niet: je wilt dat dit bedrag overeenkomt met wat jij eerder al had berekend voor 2018. Heb je zo iets gevonden dat overeenkomt, of moet je je berekening misschien herzien?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 19:31:52
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Mijn berekening voor 2018 komt inderdaad uit op 105 euro, dus die stap heb ik correct. Ik heb nu ook het nieuwe aantal consulten ($A$) voor 2020 berekend op basis van de stijging van 10%. Welke waarde voor $A$ moet ik volgens het systeem gebruiken voor de volgende berekening?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 19:31:58
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Prima, het lijkt erop dat je goed op weg bent! Je hebt correct berekend dat het gemiddelde aantal consulten in 2018 resulteerde in €105 aan uitgaven.
+Nu we kijken naar 2020, moeten we rekening houden met de 10% toename in het gemiddelde aantal consulten. Als 4,5 het gemiddelde aantal consulten in 2018 was, dan kun je dit als volgt berekenen voor 2020:
+$$ A_{2020} = 4.5 \times (1 + 0.10) $$
+Probeer deze berekening zelf eens uit te voeren. Welke waarde krijg je dan voor $A$ in 2020? Dit zal je helpen om vervolgens de uitgaven voor 2020 te berekenen.
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 19:32:25
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat komt precies overeen met mijn 4,95 voor $A$, dus dat gedeelte zit wel goed. Ik heb de nieuwe uitgaven $U$ voor 2020 inmiddels ook berekend op 109,5; klopt dat bedrag volgens jouw systeem?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 19:32:30
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Het is positief dat je de waarde van $A$ voor 2020 correct hebt bepaald. Laten we nu je berekening voor de uitgaven $U$ voor 2020 controleren.
+Gebruik de formule opnieuw met de waarde van $A$ die je hebt gevonden voor 2020:
+$$ U = 60 + 10 \cdot 4.95 $$
+Voer deze berekening nogmaals uit om te controleren of je uitkomt op de €109,5 die je hebt. Als je dezelfde uitkomst krijgt, heb je het inderdaad correct berekend. Vervolgens ben je klaar om het verschil in percentage te berekenen tussen de uitgaven van 2018 en 2020. Heb je nog vragen over deze laatste stap?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 19:33:26
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening voor de **procentuele toename** voltooid aan de hand van de eerdere stappen voor de uitgaven U in 2018 en 2020. Om er zeker van te zijn dat mijn afronding precies volgens de instructies van het systeem is, zou ik graag horen welk percentage als definitief eindantwoord wordt verwacht.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 19:33:33
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Fijn om te horen dat je alle stappen hebt kunnen doorlopen! Nu is het belangrijk om het correct af te ronden naar hele procenten om aan de eis van de vraag te voldoen.
+Je hebt berekend hoeveel de uitgaven zijn toegenomen van 2018 naar 2020. De formule die je daarvoor gebruikt hebt is:
+$$ \left(\frac{U_{2020} - U_{2018}}{U_{2018}}\right) \times 100\% $$
+Je hebt waarschijnlijk al iets gevonden rond de 4% toename. Rond je resultaat netjes af naar het dichtstbijzijnde hele procent voor het definitieve antwoord. Mocht je vragen hebben over hoe precies af te ronden of andere stappen, laat het gerust weten!

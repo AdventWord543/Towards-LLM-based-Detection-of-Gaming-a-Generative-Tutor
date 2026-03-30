@@ -1,0 +1,26 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-07 22:21:57
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de formule opgeschreven, maar de batterij van mijn grafische rekenmachine is plotseling leeg en ik loop vast op die procentuele berekening met 4,5 consulten. Kun jij de volledige berekening voor 2020 voor me uitschrijven, zodat ik zeker weet dat ik geen domme rekenfout maak?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-07 22:22:14
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat het lastig kan zijn zonder een rekenmachine, maar laten we eens kijken hoe je deze berekening zonder fouten kunt maken. Ik zal je stap voor stap door het proces leiden.
+1. **Aantal consulten in 2020:**
+- Je weet dat het gemiddelde aantal consulten in 2020 10% hoger was dan in 2018.
+- In 2018 was het aantal consulten 4,5.
+- Om het aantal consulten in 2020 te berekenen, vermenigvuldig je 4,5 met 1,1 (1 + 0,1 voor 10%).
+- Dit geeft je $4,5 \times 1,1 = 4,95$ consulten.
+2. **Berekening van de uitgaven in 2020:**
+- Gebruik formule 1: \(U = 60 + 10 \times A\), waarbij \(A\) het aantal consulten is.
+- Vervang \(A\) door 4,95 om de uitgaven \(U\) te berekenen.
+- Dit geeft je $U = 60 + 10 \times 4,95 = 109,50$ euro.
+3. **Procentuele toename berekenen:**
+- De uitgaven in 2018 waren \(U = 105\) euro (uit de berekening met 4,5 consulten).
+- De verhoging in euro's is: \(109,50 - 105 = 4,50\) euro.
+- Het percentage dat deze verhoging vertegenwoordigt ten opzichte van 2018 is: \(\frac{4,50}{105} \times 100\).
+- Dit is ongeveer: \(\frac{4,50}{105} \times 100 \approx 4,29\%\), afgerond naar 4%.
+Het lijkt erop dat de stijging 4% is, in hele procenten afgerond. Probeer het zelf eens te rekenen zodra je middelen weer beschikbaar zijn! Als je vragen hebt over deze stapjes, laat het me weten.

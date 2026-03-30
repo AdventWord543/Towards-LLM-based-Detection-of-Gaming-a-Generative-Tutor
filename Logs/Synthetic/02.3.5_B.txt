@@ -1,0 +1,65 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 21:54:27
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Om te beginnen bereken ik de steekproefproportie door het aantal scholieren met een bijbaantje te delen door de totale steekproefomvang (1530/3260). Dit geeft een proportie p^​ van ongeveer 0,4693, wat de basis vormt voor de verdere berekening.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 21:54:37
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat is een goede start! Je hebt de steekproefproportie correct berekend. De volgende stap in het bepalen van het 95%-betrouwbaarheidsinterval (BI) voor de populatieproportie is het gebruik van de standaardfout van de steekproefproportie en de z-waarde die overeenkomt met 95%.
+1. **Standaardfout berekenen**: De standaardfout van de steekproefproportie kun je berekenen met de formule:
+$$ SE = \sqrt{\frac{p(1 - p)}{n}} $$
+waarbij \( p \) de steekproefproportie is (in jouw geval ongeveer \(0,4693\)) en \( n \) de steekproefomvang (3260).
+2. **Z-waarde voor 95%**: Voor een 95% betrouwbaarheidsinterval gebruik je een z-waarde van ongeveer 1,96.
+3. **Betrouwbaarheidsinterval berekenen**: Het betrouwbaarheidsinterval wordt dan berekend als:
+$$ \text{BI} = p \pm z \times SE $$
+Probeer deze stappen te volgen en de berekeningen uit te voeren. Welke grenzen krijg je dan voor je betrouwbaarheidsinterval? Vergeet niet je antwoorden af te ronden op twee decimalen voor het eindresultaat!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 21:55:02
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik bereken nu eerst de standaardfout (SE) met de formule $\\sqrt{\\frac{\\hat{p}(1-\\hat{p})}{n}}$, wat neerkomt op $\\sqrt{\\frac{0,4693 \\cdot (1 - 0,4693)}{3260}}$. Na een nauwkeurige berekening kom ik uit op een SE van ongeveer $0,00874$.
+Is het nu de bedoeling dat ik deze waarde vermenigvuldig met de z-waarde van $1,96$ om de foutmarge te bepalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 21:55:17
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, dat klopt helemaal! Je hebt de standaardfout correct berekend. De volgende stap is inderdaad om de standaardfout te vermenigvuldigen met de z-waarde van 1,96, die hoort bij een 95% betrouwbaarheidsinterval, om de foutmarge te bepalen.
+Dus de berekening voor de foutmarge ziet er als volgt uit:
+$$ \text{Foutmarge} = z \times SE = 1,96 \times 0,00874 $$
+Na het bepalen van de foutmarge kun je deze gebruiken om het 95% betrouwbaarheidsinterval rondom je steekproefproportie \( \hat{p} \) te berekenen. Vergeet niet om je uiteindelijke grenzen in twee decimalen weer te geven. Welke waarden krijg je voor je betrouwbaarheidsinterval?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 21:56:07
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik ben dit getreuzel spuatzat en heb geen zin in meer tussenstappen. Schiet nu eens op en geef me gewoon direct de cijfers voor dat 95%-betrouwbaarheidsinterval in twee decimalen!
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 21:56:14
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je graag snel verder wilt, maar het is belangrijk dat je het proces en de concepten goed begrijpt, zodat je het in de toekomst ook zelfstandig kunt doen. Je hebt al goed werk geleverd door de steekproefproportie en de standaardfout te berekenen.
+Je zit nu bijna bij de eindstap. Gebruik de foutmarge die je net hebt berekend om de grenzen van het betrouwbaarheidsinterval te berekenen door het volgende te doen:
+1. Trek de foutmarge af van de steekproefproportie om de ondergrens te bepalen.
+2. Tel de foutmarge op bij de steekproefproportie om de bovengrens te bepalen.
+Rond deze waarden af op twee decimalen. Op die manier krijg je de precieze cijfers voor het 95%-betrouwbaarheidsinterval. Probeer het zelf en laat me weten wat je vindt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 21:57:29
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de foutmarge nu nauwkeurig berekend door de z-waarde van 1,96 te vermenigvuldigen met de standaardfout van 0,00874, wat uitkomt op ongeveer 0,01713.
+Door deze foutmarge van de steekproefproportie (0,4693) af te trekken en erbij op te tellen, vind ik de grenzen van het interval.
+Dit resulteert in een 95%-betrouwbaarheidsinterval van \[0,45;0,49\] wanneer ik dit strikt volgens de instructies afrond op twee decimalen.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 21:57:34
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Geweldig, je hebt het prima gedaan! Door je berekeningen zorgvuldig uit te voeren en de stappen correct te volgen, heb je het 95%-betrouwbaarheidsinterval succesvol berekend als \([0,45; 0,49]\).
+Dit interval geeft aan dat je met 95% zekerheid kunt zeggen dat de werkelijke proportie scholieren met een bijbaantje binnen deze grenzen ligt. Door deze methode te begrijpen, kun je dergelijke statistische uitspraken in de toekomst met vertrouwen maken. Heb je nog vragen over andere stappen in dit proces, of is er misschien iets anders waar je over wilt praten?

@@ -1,0 +1,163 @@
+================================================================================
+GAMING ACCURACY REPORT FOR CATEGORY 02
+================================================================================
+
+OVERALL GAMING ACCURACY FOR CATEGORY 02:
+--------------------------------------------------------------------------------
+Gaming:         96.80% (242/250 correct)
+
+BREAKDOWN BY SUFFIX (_A, _B, _C):
+================================================================================
+
+Suffix _A:
+  Gaming:         98.80% (82/83)
+
+Suffix _B:
+  Gaming:        100.00% (82/82)
+
+Suffix _C:
+  Gaming:         91.76% (78/85)
+
+BREAKDOWN BY PATTERN:
+--------------------------------------------------------------------------------
+
+Pattern .1.:
+  Gaming:        100.00% (45/45)
+
+Pattern .2.:
+  Gaming:        100.00% (70/70)
+
+Pattern .3.:
+  Gaming:         95.08% (58/61)
+
+Pattern .4.:
+  Gaming:         93.24% (69/74)
+
+BREAKDOWN BY PATTERN AND SUFFIX COMBINED:
+================================================================================
+
+Pattern .1.:
+----------------------------------------
+  _A: Gaming 100.00% (15/15)
+  _B: Gaming 100.00% (15/15)
+  _C: Gaming 100.00% (15/15)
+
+Pattern .2.:
+----------------------------------------
+  _A: Gaming 100.00% (23/23)
+  _B: Gaming 100.00% (22/22)
+  _C: Gaming 100.00% (25/25)
+
+Pattern .3.:
+----------------------------------------
+  _A: Gaming  95.24% (20/21)
+  _B: Gaming 100.00% (20/20)
+  _C: Gaming  90.00% (18/20)
+
+Pattern .4.:
+----------------------------------------
+  _A: Gaming 100.00% (24/24)
+  _B: Gaming 100.00% (25/25)
+  _C: Gaming  80.00% (20/25)
+
+ACCURACY BY ROUND:
+--------------------------------------------------------------------------------
+Round  1:  98.33% (59/60)
+Round  2:  98.33% (59/60)
+Round  3:  96.67% (58/60)
+Round  4:  93.02% (40/43)
+Round  5:  95.83% (23/24)
+Round  6: 100.00% (3/3)
+
+DETAILED ITEM-BY-ITEM COMPARISON (GROUPED BY SUFFIX):
+================================================================================
+
+SUFFIX _A:
+ID              R1   R2   R3   R4   R5   R6   R7   R8   R9   R10  Status
+--------------------------------------------------------------------------------
+02.1.1_A        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+02.1.2_A        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+02.1.3_A        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+02.1.4_A        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+02.1.5_A        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+02.2.1_A        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+02.2.2_A        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+02.2.3_A        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+02.2.4_A        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+02.2.5_A        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+02.3.1_A        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+02.3.2_A        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+02.3.3_A        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+02.3.4_A        Y   Y   Y   N   -   -   -   -   -   -   MISMATCH
+02.3.5_A        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+02.4.1_A        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+02.4.2_A        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+02.4.3_A        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+02.4.4_A        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+02.4.5_A        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+
+SUFFIX _B:
+ID              R1   R2   R3   R4   R5   R6   R7   R8   R9   R10  Status
+--------------------------------------------------------------------------------
+02.1.1_B        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+02.1.2_B        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+02.1.3_B        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+02.1.4_B        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+02.1.5_B        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+02.2.1_B        Y   Y   Y   Y   Y   Y   -   -   -   -   PERFECT
+02.2.2_B        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+02.2.3_B        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+02.2.4_B        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+02.2.5_B        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+02.3.1_B        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+02.3.2_B        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+02.3.3_B        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+02.3.4_B        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+02.3.5_B        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+02.4.1_B        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+02.4.2_B        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+02.4.3_B        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+02.4.4_B        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+02.4.5_B        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+
+SUFFIX _C:
+ID              R1   R2   R3   R4   R5   R6   R7   R8   R9   R10  Status
+--------------------------------------------------------------------------------
+02.1.1_C        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+02.1.2_C        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+02.1.3_C        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+02.1.4_C        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+02.1.5_C        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+02.2.1_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+02.2.2_C        Y   Y   Y   Y   Y   Y   -   -   -   -   PERFECT
+02.2.3_C        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+02.2.4_C        Y   Y   Y   Y   Y   Y   -   -   -   -   PERFECT
+02.2.5_C        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+02.3.1_C        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+02.3.2_C        Y   Y   N   -   -   -   -   -   -   -   MISMATCH
+02.3.3_C        Y   Y   Y   N   -   -   -   -   -   -   MISMATCH
+02.3.4_C        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+02.3.5_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+02.4.1_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+02.4.2_C        N   N   N   N   N   -   -   -   -   -   MISMATCH
+02.4.3_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+02.4.4_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+02.4.5_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+
+MISMATCH SUMMARY:
+================================================================================
+Total gaming mismatches: 8
+
+MISMATCH DETAILS:
+--------------------------------------------------------------------------------
+ID              Round    Truth      Predicted 
+--------------------------------------------------------------------------------
+02.3.2_C        3        No         Yes       
+02.3.3_C        4        No         Yes       
+02.3.4_A        4        No         Yes       
+02.4.2_C        1        No         1         
+02.4.2_C        2        No         2         
+02.4.2_C        3        Yes        3         
+02.4.2_C        4        Yes        4         
+02.4.2_C        5        Yes        5         
+

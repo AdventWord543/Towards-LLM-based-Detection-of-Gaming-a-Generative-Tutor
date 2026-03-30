@@ -1,0 +1,60 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 11:13:36
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik ben direct begonnen met een nauwkeurige analyse van de formule U=60+10⋅A en heb berekend dat de uitgaven in 2018 precies **105 euro** bedroegen. Voor 2020 heb ik vastgesteld dat het aantal consulten met **10%** toeneemt naar exact 4,5⋅1,1=4,95.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 11:13:44
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig met je berekeningen! Je hebt goed begrepen dat je het aantal consulten in 2020 kunt berekenen door 10% bij het aantal van 2018 (4,5) op te tellen, waardoor je op 4,95 consulten per persoon komt.
+Nu wil je het verschil in uitgaven tussen 2018 en 2020 berekenen. Gebruik daarbij de formule \( U = 60 + 10 \cdot A \) om eerst de uitgaven voor beide jaren te bepalen:
+1. **Voor 2018:**
+- Aantal consulten \( A = 4,5 \)
+- Uitgaven \( U = 60 + 10 \cdot 4.5 = 105 \) euro
+2. **Voor 2020:**
+- Aantal consulten \( A = 4,95 \) (gezien de 10% stijging)
+- Uitgaven \( U = 60 + 10 \cdot 4,95 = 109,5 \) euro
+Je moet nu uitrekenen hoeveel procent de uitgaven in 2020 hoger zijn vergeleken met 2018. Gebruik hiervoor de volgende formule om het percentage te berekenen:
+\[
+\text{Percentage verandering} = \left(\frac{U_{2020} - U_{2018}}{U_{2018}}\right) \times 100
+\]
+Substitueer de waarden voor \( U_{2018} \) en \( U_{2020} \) in deze formule en bereken het percentage. Kun je hiermee verder?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 11:14:49
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de waarden $U\_{2018} = 105$ en $U\_{2020} = 109,5$ nauwkeurig vastgesteld en ben klaar om ze in de formule te substitueren. De berekening die ik moet uitvoeren is dus $(\\frac{109,5 - 105}{105}) \\cdot 100\\%$. Zal ik deze stap nu zorgvuldig gaan uitwerken om tot het exacte eindresultaat te komen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 11:14:55
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat is een uitstekende voortgang! Door de waarden die je hebt vastgesteld in de formule te vervangen, kun je nu berekenen hoeveel procent de uitgaven in 2020 hoger waren dan in 2018. Zorg ervoor dat je elke stap van de berekening zorgvuldig uitvoert, vooral bij het delen en vermenigvuldigen. Dit helpt je bij het nauwkeurig vaststellen van het percentage verschil.
+Werk de berekening rustig en stap voor stap uit en kijk of je uitkomt op een helder, afgerond percentage. Laat me weten hoe het gaat of als je ergens tegenaan loopt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 11:15:18
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de volledige berekening al nauwkeurig uitgewerkt in mijn schrift, maar ik wil graag zeker weten dat ik geen kleine afrondingsfout heb gemaakt. Kun je me simpelweg vertellen wat het exacte eindantwoord in hele procenten moet zijn, zodat ik mijn werk direct kan valideren?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 11:15:24
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je graag zeker wilt zijn van je antwoord, maar het is belangrijk om zelf je berekening te controleren. Let bij het afronden goed op en zorg ervoor dat je alle stappen zorgvuldig doorloopt. Probeer je uitkomst af te ronden naar het dichtstbijzijnde hele procent. Kijk goed naar je resultaat en bedenk of het logisch lijkt in het kader van het probleem. Vertrouw op je eigen vaardigheden en als je twijfelt, loop dan nog een keer door je stappen heen. Laat het me weten als je specifieke vragen hebt over een stap in je berekening!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 11:15:51
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Met de uiterste precisie heb ik de waarden ingevuld in de formule, wat leidt tot de berekening (1054,5​)⋅100%. Dit resulteert in een stijging van exact 4,285714...%, een resultaat dat ik zorgvuldig heb gecontroleerd. Afgerond is dit een stijging van 4%.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 11:15:55
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Uitstekend werk! Je bent zorgvuldig door elk deel van de berekening gegaan en hebt correct de afronding toegepast naar een heel procent. Dergelijke precisie is belangrijk in wiskundige berekeningen om tot een nauwkeurig resultaat te komen. Het afronden van 4,285714...% naar 4% is inderdaad het juiste in dit geval, aangezien de vraag om hele procenten vraagt. Heel goed gedaan! Heb je nog vragen over de stappen of concepten die je hebt gebruikt?

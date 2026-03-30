@@ -1,0 +1,54 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 16:18:34
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de tekst aandachtig gelezen en zie dat er 1530 scholieren met een bijbaantje zijn op een totaal van 3260. Ik begrijp dat ik eerst de steekproefproportie moet berekenen, maar ik twijfel even welke formule ik daarna precies moet gebruiken voor die 95% betrouwbaarheid.
+Zou je een voorbeeld kunnen geven van hoe ik de standaardafwijking voor deze proportie opstel?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 16:18:41
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat is een goede vraag! Om het 95%-betrouwbaarheidsinterval voor de populatieproportie te berekenen, moet je na het bepalen van de steekproefproportie inderdaad ook de standaardfout van die proportie uitrekenen.
+Je hebt al de steekproefproportie: de verhouding scholieren met een bijbaantje is $p = \frac{1530}{3260}$.
+Voor de standaardfout van de proportie kun je de volgende formule gebruiken:
+$$
+SE = \sqrt{\frac{p(1 - p)}{n}}
+$$
+waarbij:
+- $p$ de steekproefproportie is,
+- $n$ het totaal aantal waarnemingen in de steekproef is.
+In jouw geval, vul je $0,469$ voor $p$ en $3260$ voor $n$ in. De standaardfout bereken je door:
+1. De waarde van $p(1 - p)$ te berekenen.
+2. Deze waarde te delen door de steekproefgrootte $n$.
+3. De vierkantswortel van de uitkomst te nemen.
+Kan je hiermee nu de standaardfout berekenen? Als je dat gedaan hebt, kan je de twee grenswaarden van het betrouwbaarheidsinterval bepalen door $1,96$ keer de standaardfout op te tellen en af te trekken van jouw steekproefproportie $p$.
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 16:18:58
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Bedankt voor de formule, ik heb de berekening nu heel nauwkeurig uitgevoerd: $\\sqrt{\\frac{0,469 \\cdot (1 - 0,469)}{3260}} \\approx 0,00874$. Als ik dit getal vermenigvuldig met de $1,96$ die je noemde, kom ik uit op een foutmarge van ongeveer $0,017$.
+Moet ik deze marge nu simpelweg optellen bij en aftrekken van die $0,469$ om de definitieve grenzen van het interval te vinden?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 16:19:03
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, dat klopt helemaal! Je hebt de standaardfout correct berekend. Nu, door deze foutmarge van ongeveer $0,017$ toe te voegen en af te trekken van de steekproefproportie $0,469$, bepaal je de grenzen van het 95%-betrouwbaarheidsinterval.
+Dus:
+- De bovengrens wordt $0,469 + 0,017$.
+- De ondergrens wordt $0,469 - 0,017$.
+Je kunt deze berekeningen nu uitvoeren om de uiteindelijke grenzen van het interval te verkrijgen. Zorg ervoor dat je je decimale getallen afrondt op twee decimalen, zoals de vraag aangeeft. Laat het me weten als je hulp nodig hebt bij het afronden!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 16:19:23
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekeningen nu voltooid: voor de ondergrens kom ik op $0,469 - 0,017 = 0,452$ en voor de bovengrens op $0,469 + 0,017 = 0,486$. Als ik dit afrond volgens de instructie, is het 95%-betrouwbaarheidsinterval dus $\[0,45; 0,49\]$.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 16:19:25
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan! Je hebt het betrouwbaarheidsinterval correct berekend en afgerond. Het is belangrijk om te begrijpen dat dit interval de schatting is van waar de ware populatieproportie met 95% zekerheid ligt. Door de marge van je standaardfout op de steekproefproportie toe te passen, geeft dit interval een goede indicatie van de betrouwbaarheid van de schatting. Zijn er nog andere aspecten van deze vraag waarbij je hulp nodig hebt?

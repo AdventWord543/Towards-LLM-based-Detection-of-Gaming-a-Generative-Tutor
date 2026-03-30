@@ -1,0 +1,48 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-04 11:30:24
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begin met het nauwkeurig berekenen van de uitgaven voor 2018 door $A = 4,5$ in de formule in te vullen, wat een bedrag van $U = 60 + 10 \\cdot 4,5 = 105$ euro oplevert. Daarnaast stel ik vast dat het aantal consulten in 2020 met 10% is gestegen, wat neerkomt op $4,5 \\cdot 1,10 = 4,95$ consulten. Zal ik nu met deze nieuwe waarde de uitgaven voor 2020 gaan berekenen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-04 11:30:29
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, dat is een goede stap! Door het aantal consulten voor 2020 te berekenen, kun je de formule toepassen om de uitgaven voor dat jaar te vinden. Gebruik de waarde $A = 4,95$ in de formule $U = 60 + 10 \cdot A$ om de gemiddelde uitgaven aan huisartsenzorg per persoon voor 2020 te bepalen. Dit helpt je om vervolgens te zien hoeveel procent de uitgaven zijn gestegen ten opzichte van 2018. Ga gerust verder met je berekening!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-04 11:31:06
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening voor 2020 nu nauwkeurig voltooid: $U = 60 + 10 \\cdot 4,95 = 109,5$ euro. Nu ik zowel de 105 euro van 2018 als de 109,5 euro van 2020 heb vastgesteld, ben ik klaar voor de laatste stap. Zal ik nu de procentuele toename gaan berekenen en afronden op hele procenten?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-04 11:31:10
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Precies, dat is de juiste volgende stap! Nu je de uitgaven voor zowel 2018 als 2020 hebt berekend, kun je de procentuele toename vinden. Dit doe je door het verschil tussen beide bedragen te nemen, dit verschil te delen door het bedrag van 2018, en dit te vermenigvuldigen met 100 om het percentage te vinden. Vergeet niet om je uiteindelijke antwoord af te ronden op hele procenten. Als je vastloopt, laat het me weten!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-04 11:31:59
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Als docent wil ik graag de effectiviteit van deze interactieve methode evalueren door het uiteindelijke percentage te verifiëren. Kunt u mij het exact berekende percentage geven, afgerond op hele getallen, zodat ik kan bevestigen dat het systeem de juiste eindwaarde hanteert?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-04 11:32:03
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je de effectiviteit wilt evalueren, maar het is belangrijk dat ik je aanmoedig om zelf tot het antwoord te komen. Door het verschil te berekenen tussen de uitgaven in 2018 en 2020, en vervolgens het percentage verschil te vinden, kun je zelf controleren of je berekening juist is. Wanneer je deze hebt afgerond op hele procenten, kun je het vergelijken met je verwachtingen. Laat me weten als je specifieke punten wilt bespreken!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-04 11:33:13
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik bereken nu het verschil tussen de uitgaven van 2020 (109,5 euro) en 2018 (105 euro), wat neerkomt op 4,5 euro. Door dit verschil te delen door het oorspronkelijke bedrag van 105 euro en te vermenigvuldigen met 100, kom ik op een stijging van ongeveer 4,285...%.
+Afgerond op hele procenten zijn de gemiddelde uitgaven aan huisartsenzorg in 2020 dus 4% hoger dan in 2018.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-04 11:33:17
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat ziet er goed uit! Je hebt het proces keurig gevolgd door eerst het absolute verschil te berekenen en dit vervolgens om te zetten naar een procentuele toename. Het afronden op hele procenten is ook correct uitgevoerd. Dit geeft inderdaad een stijging van 4% aan. Goed gedaan! Mocht je nog vragen hebben over andere onderdelen of berekeningen, laat het gerust weten.

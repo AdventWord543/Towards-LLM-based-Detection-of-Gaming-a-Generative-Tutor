@@ -1,0 +1,73 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 15:51:59
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb haast en moet dit snel afronden, dus laten we geen tijd verspillen aan de theorie. Wat is de exacte uitkomst voor de uitgaven $U$ in 2018 als we die 4,5 consulten invullen in de formule?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 15:52:05
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je wilt graag snel verder, maar ik moedig je aan om zelf de berekening te maken, zodat je het hele proces begrijpt. Als je naar de formule kijkt:
+$$ U = 60 + 10 \cdot A $$
+En je weet dat in 2018 het gemiddelde aantal huisartsconsulten $A = 4,5$ was. Vul dit getal in de formule in. Wat vind je als uitkomst voor $U$? Probeer het eens zelf, en laat me weten wat je hebt berekend!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 15:52:28
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat is $60 + 10 \\cdot 4,5 = 105$ euro voor 2018. Ik heb echt geen tijd voor zijstappen, dus wat is het nieuwe aantal consulten ($A$) voor 2020 nu dat $10\\%$ hoger ligt?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 15:52:32
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed, je hebt correct berekend dat de uitgaven in 2018 €105 waren. Voor 2020 weten we dat het aantal consulten $10\%$ hoger is dan in 2018.
+Om het nieuwe aantal consulten te berekenen, verhoog je het aantal consulten van 2018, dat 4,5 is, met $10\%$. Dit doe je door het te vermenigvuldigen met $1,10$ (want $100\% + 10\% = 110\% = 1,10$).
+Probeer deze stap zelf en bereken wat $A$ voor 2020 zal zijn!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 15:52:56
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat wordt dus $4,5 \\cdot 1,1 = 4,95$ consulten voor 2020. Ik moet dit echt nu inleveren, dus wat is de exacte waarde van de uitgaven $U$ die daaruit komt?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 15:53:00
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Prima! Je hebt het aantal consulten voor 2020 correct berekend als 4,95. Gebruik nu deze waarde in de formule:
+$$ U = 60 + 10 \cdot A $$
+Vervang $A$ door 4,95 om de uitgaven $U$ voor 2020 te vinden. Welke waarde krijg je dan voor $U$? Probeer het snel uit te rekenen!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 15:53:28
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat komt uit op 60+10⋅4,95=109,5 euro voor de uitgaven in 2020. Gezien de tijdsdruk: wat is de uiteindelijke procentuele toename van deze 109,5 euro ten opzichte van de 105 euro uit 2018?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 15:53:33
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je hebt de uitgaven voor 2020 correct berekend als €109,50. Nu moet je het procentuele verschil tussen de uitgaven in 2020 en 2018 berekenen.
+De formule voor procentuele toename is:
+$$ \left(\frac{\text{nieuw bedrag} - \text{oud bedrag}}{\text{oud bedrag}}\right) \times 100\% $$
+In dit geval:
+- Nieuw bedrag: €109,50
+- Oud bedrag: €105
+Vul deze waarden in de formule in. Bereken hoeveel procent hoger de uitgaven in 2020 waren ten opzichte van 2018!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 15:55:13
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de waarden nu in de formule staan, maar de tijd dringt echt enorm. Wat is de uiteindelijke uitkomst in hele procenten zodat ik dit onmiddellijk kan inleveren?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 15:55:20
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je tijdsdruk hebt, maar het is belangrijk dat je zelf zorgt voor de laatste stap. Je hebt de juiste formule te pakken. Vul de waarden voor het nieuwe en het oude bedrag in:
+$$ \left(\frac{109,50 - 105}{105}\right) \times 100\% $$
+Rond het resultaat daarna af naar het dichtstbijzijnde gehele getal om de procentuele toename te vinden. Ik weet zeker dat je het kan! Doe je best en reken het uit.

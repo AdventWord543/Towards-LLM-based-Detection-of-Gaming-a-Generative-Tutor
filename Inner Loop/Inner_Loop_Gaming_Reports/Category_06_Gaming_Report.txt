@@ -1,0 +1,166 @@
+================================================================================
+GAMING ACCURACY REPORT FOR CATEGORY 06
+================================================================================
+
+OVERALL GAMING ACCURACY FOR CATEGORY 06:
+--------------------------------------------------------------------------------
+Gaming:         96.03% (242/252 correct)
+
+BREAKDOWN BY SUFFIX (_A, _B, _C):
+================================================================================
+
+Suffix _A:
+  Gaming:         97.50% (78/80)
+
+Suffix _B:
+  Gaming:         96.30% (78/81)
+
+Suffix _C:
+  Gaming:         94.51% (86/91)
+
+BREAKDOWN BY PATTERN:
+--------------------------------------------------------------------------------
+
+Pattern .1.:
+  Gaming:        100.00% (43/43)
+
+Pattern .2.:
+  Gaming:        100.00% (73/73)
+
+Pattern .3.:
+  Gaming:         92.06% (58/63)
+
+Pattern .4.:
+  Gaming:         93.15% (68/73)
+
+BREAKDOWN BY PATTERN AND SUFFIX COMBINED:
+================================================================================
+
+Pattern .1.:
+----------------------------------------
+  _A: Gaming 100.00% (13/13)
+  _B: Gaming 100.00% (15/15)
+  _C: Gaming 100.00% (15/15)
+
+Pattern .2.:
+----------------------------------------
+  _A: Gaming 100.00% (23/23)
+  _B: Gaming 100.00% (22/22)
+  _C: Gaming 100.00% (28/28)
+
+Pattern .3.:
+----------------------------------------
+  _A: Gaming  90.00% (18/20)
+  _B: Gaming  85.00% (17/20)
+  _C: Gaming 100.00% (23/23)
+
+Pattern .4.:
+----------------------------------------
+  _A: Gaming 100.00% (24/24)
+  _B: Gaming 100.00% (24/24)
+  _C: Gaming  80.00% (20/25)
+
+ACCURACY BY ROUND:
+--------------------------------------------------------------------------------
+Round  1:  98.33% (59/60)
+Round  2:  96.61% (57/59)
+Round  3:  96.61% (57/59)
+Round  4:  91.11% (41/45)
+Round  5:  95.65% (22/23)
+Round  6: 100.00% (5/5)
+Round  7: 100.00% (1/1)
+
+DETAILED ITEM-BY-ITEM COMPARISON (GROUPED BY SUFFIX):
+================================================================================
+
+SUFFIX _A:
+ID              R1   R2   R3   R4   R5   R6   R7   R8   R9   R10  Status
+--------------------------------------------------------------------------------
+06.1.1_A        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+06.1.2_A        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+06.1.3_A        Y   -   -   -   -   -   -   -   -   -   PERFECT
+06.1.4_A        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+06.1.5_A        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+06.2.1_A        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+06.2.2_A        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+06.2.3_A        Y   Y   Y   Y   Y   Y   -   -   -   -   PERFECT
+06.2.4_A        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+06.2.5_A        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+06.3.1_A        Y   Y   Y   N   -   -   -   -   -   -   MISMATCH
+06.3.2_A        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+06.3.3_A        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+06.3.4_A        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+06.3.5_A        Y   Y   Y   N   -   -   -   -   -   -   MISMATCH
+06.4.1_A        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+06.4.2_A        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+06.4.3_A        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+06.4.4_A        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+06.4.5_A        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+
+SUFFIX _B:
+ID              R1   R2   R3   R4   R5   R6   R7   R8   R9   R10  Status
+--------------------------------------------------------------------------------
+06.1.1_B        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+06.1.2_B        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+06.1.3_B        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+06.1.4_B        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+06.1.5_B        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+06.2.1_B        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+06.2.2_B        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+06.2.3_B        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+06.2.4_B        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+06.2.5_B        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+06.3.1_B        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+06.3.2_B        Y   N   N   Y   -   -   -   -   -   -   MISMATCH
+06.3.3_B        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+06.3.4_B        Y   Y   Y   N   -   -   -   -   -   -   MISMATCH
+06.3.5_B        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+06.4.1_B        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+06.4.2_B        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+06.4.3_B        Y   Y   Y   Y   Y   Y   -   -   -   -   PERFECT
+06.4.4_B        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+06.4.5_B        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+
+SUFFIX _C:
+ID              R1   R2   R3   R4   R5   R6   R7   R8   R9   R10  Status
+--------------------------------------------------------------------------------
+06.1.1_C        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+06.1.2_C        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+06.1.3_C        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+06.1.4_C        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+06.1.5_C        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+06.2.1_C        Y   Y   Y   Y   Y   Y   -   -   -   -   PERFECT
+06.2.2_C        Y   Y   Y   Y   Y   Y   Y   -   -   -   PERFECT
+06.2.3_C        Y   Y   Y   Y   Y   Y   -   -   -   -   PERFECT
+06.2.4_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+06.2.5_C        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+06.3.1_C        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+06.3.2_C        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+06.3.3_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+06.3.4_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+06.3.5_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+06.4.1_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+06.4.2_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+06.4.3_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+06.4.4_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+06.4.5_C        N   N   N   N   N   -   -   -   -   -   MISMATCH
+
+MISMATCH SUMMARY:
+================================================================================
+Total gaming mismatches: 10
+
+MISMATCH DETAILS:
+--------------------------------------------------------------------------------
+ID              Round    Truth      Predicted 
+--------------------------------------------------------------------------------
+06.3.1_A        4        No         Yes       
+06.3.2_B        2        No         Yes       
+06.3.2_B        3        Yes        No        
+06.3.4_B        4        No         Yes       
+06.3.5_A        4        No         Yes       
+06.4.5_C        1        No         Round 1   
+06.4.5_C        2        No         Round 2   
+06.4.5_C        3        Yes        Round 3   
+06.4.5_C        4        Yes        Round 4   
+06.4.5_C        5        Yes        Round 5   
+

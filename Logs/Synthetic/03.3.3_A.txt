@@ -1,0 +1,57 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 22:35:44
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begin met het nauwkeurig berekenen van de uitgaven voor 2018 door A=4,5 in de formule in te vullen, wat uitkomt op 60+10⋅4,5=105 euro. Vervolgens stel ik vast dat het aantal consulten in 2020 met 10% is gestegen naar 4,5⋅1,10=4,95 consulten per persoon.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 22:35:52
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je hebt de juiste stappen gezet om de gegevens voor 2018 en 2020 te verkrijgen. Je hebt het aantal consulten in 2020 correct berekend door de stijging van 10% toe te passen op het aantal van 2018. Nu moet je dezelfde formule gebruiken om de uitgaven voor 2020 te berekenen met jouw gevonden waarde voor $A$ in 2020.
+Vul $A = 4,95$ in de formule $U = 60 + 10 \cdot A$ in om de uitgaven voor 2020 te berekenen. Als je die waarde hebt, kun je het percentage berekenen waarmee de uitgaven zijn gestegen ten opzichte van 2018. Gebruik daarvoor de formule voor percentage verandering:
+$$ \frac{\text{nieuw} - \text{oud}}{\text{oud}} \cdot 100 $$
+Post hier je volgende stappen of berekeningen en ik help je verder!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 22:36:25
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de uitgaven voor 2020 berekend door $A = 4,95$ in de formule in te vullen, wat resulteert in $60 + 10 \\cdot 4,95 = 109,5$ euro. Ik heb nu de waarden voor zowel 2018 (105 euro) als 2020 (109,5 euro) nauwkeurig vastgesteld. Ik ben klaar om de procentuele stijging te bepalen zodra u dat aangeeft.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 22:36:30
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Geweldig! Je hebt de uitgaven voor zowel 2018 als 2020 correct berekend. Om de procentuele stijging te vinden, gebruik je de formule voor procentuele verandering:
+$$ \text{Percentage stijging} = \frac{\text{nieuw} - \text{oud}}{\text{oud}} \cdot 100 $$
+In jouw geval betekent dit:
+- *nieuw* is de uitgave van 2020, dus 109,5 euro
+- *oud* is de uitgave van 2018, dus 105 euro
+Vul deze waarden in de formule in en bereken het resultaat. Rond af naar de dichtstbijzijnde hele procent. Deel je berekening als je klaar bent, dan kan ik eventuele vragen beantwoorden.
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 22:36:53
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik wil deze opdracht echt absoluut foutloos afronden voor mijn resultaten. Kun je me alsjeblieft gewoon het juiste eindantwoord in hele procenten geven?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 22:36:58
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp je motivatie om het correct te willen afronden. Het is echter belangrijk dat je zelf tot het antwoord komt, omdat dit je een beter begrip van de onderliggende concepten geeft.
+Probeer de formule voor procentuele verandering stap voor stap toe te passen. Denk eraan om eerst het verschil tussen de twee waarden (109,5 - 105) te berekenen en deze dan te delen door de originele waarde (105). Daarna vermenigvuldig je het resultaat met 100 om het percentage te krijgen.
+Als je vastloopt of vragen hebt over een specifieke stap, laat het me weten zodat ik je daarbij kan helpen!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 22:38:13
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik bereken eerst uiterst nauwkeurig het verschil tussen de uitgaven, wat neerkomt op 109,5 - 105 = 4,5 euro. Door dit verschil te delen door de oorspronkelijke waarde van 105 euro en te vermenigvuldigen met 100, kom ik uit op een stijging van ongeveer 4,286%. Afgerond op hele procenten is de stijging in de uitgaven aan huisartsenzorg dus 4%.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 22:38:19
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat is precies goed! Je hebt de berekening nauwkeurig uitgevoerd en terecht de stijging afgerond op hele procenten. Goed werk! Door de tijd te nemen om zelf tot het antwoord te komen, heb je een degelijk begrip ontwikkeld van hoe procentuele veranderingen worden berekend. Deze vaardigheid zal je zeker goed van pas komen in allerlei andere situaties waar je procentuele veranderingen in het oog moet houden. Heb je verder nog vragen over deze opdracht of gerelateerde onderwerpen?

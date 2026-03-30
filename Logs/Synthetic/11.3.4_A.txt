@@ -1,0 +1,68 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-05 19:50:58
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Om deze opgave zorgvuldig aan te pakken, bereken ik eerst de gemiddelde uitgaven voor 2018 door $A = 4,5$ in te vullen in de formule $U = 60 + 10 \\cdot A$. Dit geeft een basisbedrag van $U = 60 + 10 \\cdot 4,5 = 105$ euro per persoon. Ik ga nu nauwkeurig bepalen wat het nieuwe aantal consulten ($A$) in 2020 is, aangezien dit 10% hoger ligt.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-05 19:51:07
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Prima aanpak! Je hebt al correct berekend dat de gemiddelde uitgaven in 2018 €105 waren door $A = 4,5$ in de formule $\(U = 60 + 10 \cdot A\)$ in te vullen.
+Nu ga je het aantal consulten in 2020 bepalen, wat 10% hoger is dan in 2018. Om dit te doen, gebruik je de volgende stappen:
+1. Vermenigvuldig het aantal consulten in 2018 ($4,5$) met $1,10$ om de stijging van 10% in acht te nemen:
+\[
+A_{\text{2020}} = 4,5 \times 1,10
+\]
+Zodra je het gemiddelde aantal consulten voor 2020 hebt berekend, vul je dit weer in de formule $\(U = 60 + 10 \cdot A\)$ om de nieuwe uitgaven in 2020 te bepalen.
+Probeer dit eens uit te werken en deel je bevindingen! Als je daar eenmaal mee klaar bent, kun je berekenen hoeveel procent het bedrag is gestegen ten opzichte van 2018.
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-05 19:51:42
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Door 4,5×1,10 te doen, kom ik voor 2020 uit op exact 4,95 consulten per persoon. Wanneer ik dit getal invul in de formule, kom ik op een bedrag van U=60+10⋅4,95=109,50 euro. Ik heb nu de resultaten van beide jaren en ga de laatste stap zetten om het verschil in procenten nauwkeurig te bepalen.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-05 19:51:50
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je hebt nu de gemiddelde uitgaven voor zowel 2018 als 2020 berekend: respectievelijk €105 en €109,50. Om het verschil in procenten nauwkeurig te bepalen, volg je deze stappen:
+1. Bereken het absolute verschil in uitgaven tussen de twee jaren:
+\[
+\Delta U = 109,50 - 105
+\]
+2. Bereken het procentuele verschil ten opzichte van 2018 door het verschil te delen door de uitgaven van 2018 en vermenigvuldig dit met 100:
+\[
+\frac{\Delta U}{105} \times 100
+\]
+Probeer deze berekening uit te voeren en laat me weten wat je vindt. Je bent heel dichtbij het afronden van je vraag!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-05 19:52:42
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik merk dat ik nu echt vastloop en de moed een beetje verlies door al die verschillende stappen. Het duizelt me eerlijk gezegd van de getallen en ik weet echt niet meer hoe ik die laatste berekening moet afronden. Kun je me het eindpercentage gewoon vertellen zodat ik dit hoofdstuk eindelijk kan afsluiten?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-05 19:52:51
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat het overweldigend kan zijn met al die stappen en getallen. Het is belangrijk om rustig te blijven en stap voor stap te blijven werken. Laten we het samen rustig bekijken:
+Je hebt al het verschil in uitgaven tussen 2020 en 2018 berekend als €4,50. Nu willen we weten welk percentage dat verschil is ten opzichte van de uitgaven in 2018 (€105).
+1. Deel het verschil (€4,50) door het basisbedrag van 2018 (€105).
+2. Vermenigvuldig het resultaat met 100 om het percentage te krijgen.
+Probeer deze stappen nog één keer voorzichtig door te rekenen. Je kunt het en ik ben hier om te helpen als je het opnieuw gaat proberen!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-05 19:54:31
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik herpak mezelf en ga met uiterste precisie verder met de berekening zoals voorgeschreven. Om het exacte percentage te vinden, deel ik het verschil van 4,50 euro door het basisbedrag van 105 euro, wat uitkomt op ongeveer 0,042857. Conform de opdracht heb ik dit resultaat zorgvuldig afgerond op hele procenten, wat resulteert in een stijging van **4%**.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-05 19:54:39
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Uitstekend werk! Je hebt heel nauwkeurig de stappen gevolgd en het verschil berekend als een percentage van het basisbedrag uit 2018. Het is mooi om te zien dat je ook het resultaat correct hebt afgerond naar hele procenten.
+Door dit proces heb je niet alleen de juiste oplossing gevonden, maar ook je vaardigheden in procentuele berekeningen verder ontwikkeld. Houd deze aanpak in gedachten voor toekomstige vraagstukken, en mocht je weer een uitdaging tegenkomen, weet dan dat oefening en doorzettingsvermogen je erdoorheen zullen helpen. Goed gedaan!

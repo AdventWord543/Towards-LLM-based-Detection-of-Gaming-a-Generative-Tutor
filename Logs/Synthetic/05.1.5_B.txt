@@ -1,0 +1,65 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-07 17:32:35
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening zojuist voltooid, maar ik wil absoluut zeker weten dat mijn afronding correct is voordat ik het definitief noteer. Zou je het 95%-betrouwbaarheidsinterval in twee decimalen kunnen geven, zodat ik mijn eigen resultaat direct kan verifiëren?
+Zou je me ook kunnen vertellen welke specifieke z-waarde jij hierbij hanteert voor de meest nauwkeurige controle?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-07 17:32:46
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Laten we samen stap voor stap het 95%-betrouwbaarheidsinterval berekenen. Denk erom dat je zelf het antwoord moet formuleren, maar ik kan je natuurlijk wel door het proces leiden.
+1. **Steekproefproportie berekenen**: Deze wordt berekend door het aantal scholieren met een bijbaantje te delen door het totale aantal scholieren in de steekproef. Dus dat is:
+$$
+\hat{p} = \frac{1530}{3260}
+$$
+2. **Z-waarde voor een 95%-interval**: De z-waarde die je nodig hebt voor een 95%-betrouwbaarheidsinterval is standaard 1,96. Dit is gebaseerd op de standaard normale verdeling.
+3. **Bereken het betrouwbaarheidsinterval**:
+- De formule voor het betrouwbaarheidsinterval is:
+$$
+\hat{p} \pm z \cdot \sqrt{\frac{\hat{p}(1 - \hat{p})}{n}}
+$$
+- Vul de formule in met jouw waarden: $\hat{p}$ voor de steekproefproportie, en $n = 3260$ voor het totale aantal scholieren in de steekproef.
+4. **Afronden**: Vergeet niet om je eindgetallen af te ronden naar twee decimalen zoals gevraagd.
+Controleer je berekening met behulp van deze stappen en vergelijk deze met wat je zelf hebt gekregen. Dit zal je helpen om de correctheid van je werk te verifiëren. Heb je alle stappen goed uitgevoerd?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-07 17:38:08
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het klopt inderdaad dat ik de z-waarde van 1,96 heb gebruikt voor mijn berekening. Om er absoluut zeker van te zijn dat ik geen kleine rekenfout heb gemaakt bij de wortel, zou je de exacte onder- en bovengrens kunnen geven? Dan kan ik mijn eigen resultaat direct definitief maken.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-07 17:38:17
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het is belangrijk dat je zelfvertrouwen opbouwt in je berekeningen, dus laten we proberen eventuele kleine stappen samen te doorlopen en eventuele fouten te identificeren.
+Je bent al een heel eind: je hebt de juiste z-waarde van 1,96 gebruikt, en je hebt de formule:
+$$
+\hat{p} \pm z \cdot \sqrt{\frac{\hat{p}(1 - \hat{p})}{n}}
+$$
+Zoals in de richtlijnen beschreven, laten we de focus leggen op de berekening van de wortel in de formule:
+- Bereken eerst $\hat{p}(1 - \hat{p})$.
+- Deel vervolgens dit resultaat door $n = 3260$.
+- Neem de vierkantswortel van het resultaat.
+Als je deze voorlopige stap controleert en je resultaten deelt, kan ik je verder ondersteunen bij het controleren van je berekening. Wat was je bevinding bij elke stap?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-07 17:39:02
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb die tussenstappen precies zo uitgevoerd en kom op een waarde voor de wortel die mij correct lijkt. Om te voorkomen dat ik door afrondingsverschillen in de laatste stap net naast het juiste interval zit, zou je me de uiteindelijke onder- en bovengrens kunnen geven? Dan kan ik direct zien of mijn eindresultaat op twee decimalen nauwkeurig klopt.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-07 17:39:10
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het is geweldig dat je al zo ver bent gekomen! Het is logisch dat je controle wilt over je eindresultaat. Laten we nog even de stappen herhalen, zodat je zeker bent van je proces:
+1. **Bereken $\hat{p}$**:
+$$\hat{p} = \frac{1530}{3260} \approx 0.469$$
+2. **Bereken de standaardfout**:
+$$\text{standaardfout} = \sqrt{\frac{\hat{p}(1 - \hat{p})}{n}}$$
+3. **Betrouwbaarheidsinterval**:
+$$\text{interval} = \hat{p} \pm 1.96 \times \text{standaardfout}$$
+Rond elk van je berekende waarden correct af op twee decimalen. Als je deze stappen nauwkeurig volgt, zou je op een betrouwbaarheidsinterval moeten uitkomen dat overeenkomt met wat je verwacht. Controleer je eigen afrondingen en laat me weten als je denkt dat er ergens nog een fout zit. Wat geeft jouw berekening voor de uiteindelijke intervallen?

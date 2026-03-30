@@ -1,0 +1,70 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:19:13
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de formule $U = 60 + 10 \\cdot A$ goed bekeken en zie dat ik eerst de uitgaven voor 2018 moet berekenen met het gemiddelde van 4,5 consulten. Kunt u mij helpen bepalen wat de volgende nauwkeurige stap is om het aantal consulten voor 2020 correct te berekenen? Ik wil er zeker van zijn dat ik de stijging van 10% precies meeneem.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:19:19
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je de eerste stap hebt ondernomen! Laten we eens kijken naar hoe je het gemiddelde aantal consulten voor 2020 kunt berekenen door rekening te houden met de stijging van 10%.
+In 2018 was het gemiddelde aantal consulten per persoon \( A = 4,5 \). We willen nu weten wat het aantal consulten in 2020 was, gezien de opmerking dat dit aantal 10% hoger is.
+Om de stijging van 10% te berekenen, voeg je 10% van het oorspronkelijke aantal consulten (2018) toe aan dat aantal. Dus de formule die je kunt gebruiken is:
+\[
+A_{2020} = A_{2018} \cdot (1 + \frac{10}{100}) \\
+A_{2020} = 4,5 \cdot (1 + 0,1)
+\]
+Als je dat uitrekent, krijg je het gemiddelde aantal consulten per persoon in 2020. Probeer dat eens en dan kunnen we verder kijken naar de berekening van de uitgaven met deze nieuwe waarde.
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:19:34
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb het gemiddelde aantal consulten voor 2020 nu berekend door $4,5 \\cdot 1,1$ te doen, wat uitkomt op exact 4,95 consulten. Moet ik deze waarde nu direct invullen in de formule $U = 60 + 10 \\cdot A$ voor beide jaren om het verschil in euro's te zien? Ik wil er zeker van zijn dat ik geen rekenfouten maak voordat we naar de procentuele stijging gaan kijken.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:19:40
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Precies, dat is de juiste aanpak! Nu je het gemiddelde aantal consulten voor 2020 hebt berekend als \( A_{2020} = 4,95 \), kun je deze waarde invullen in de formule \( U = 60 + 10 \cdot A \) om de uitgaven voor 2020 te berekenen.
+Doe eerst hetzelfde voor 2018 met het gegeven aantal consulten, namelijk \( A_{2018} = 4,5 \). Zo krijg je de uitgaven voor beide jaren.
+Vergelijk vervolgens de uitgaven in euro's voor 2018 en 2020 om te zien hoeveel hoger de uitgaven zijn in 2020. Dit verschil heb je nodig voor de berekening van de procentuele stijging. Nadat je de uitgaven voor beide jaren hebt berekend, kun je doorgaan met het berekenen van de procentuele stijging.
+Laat me weten of dit duidelijk is en of je hulp nodig hebt met de volgende stappen!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:20:00
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening nu zorgvuldig uitgevoerd: voor 2018 kom ik op $60 + 10 \\cdot 4,5 = 105$ euro en voor 2020 op $60 + 10 \\cdot 4,95 = 109,50$ euro. Om het verschil in procenten te berekenen, moet ik nu de formule $\\frac{\\text{nieuw} - \\text{oud}}{\\text{oud}} \\cdot 100$ gebruiken met deze bedragen? Ik wil er zeker van zijn dat ik de juiste waarden op de juiste plek zet voor het eindantwoord in hele procenten.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:20:08
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, je hebt het helemaal goed begrepen! Je gaat nu naar de laatste stap om de procentuele stijging te berekenen. De formule die je toepast is inderdaad:
+\[
+\frac{\text{nieuw} - \text{oud}}{\text{oud}} \cdot 100
+\]
+In jouw geval vervang je de waarden als volgt:
+- *Nieuw* is het bedrag van 2020, dus \( 109,50 \) euro.
+- *Oud* is het bedrag van 2018, dus \( 105 \) euro.
+Plaats deze waarden in de formule:
+\[
+\frac{109,50 - 105}{105} \cdot 100
+\]
+Dit zal je de procentuele stijging geven waarmee de uitgaven voor huisartsenzorg zijn toegenomen van 2018 naar 2020. Vergeet niet om je eindantwoord in hele procenten te geven.
+Veel succes met de afronding van de berekening! Laat me weten als je ergens tegenaan loopt.
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:20:28
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening nu voltooid: $\\frac{109,50 - 105}{105} \\cdot 100$ komt uit op ongeveer $4,2857...$ procent. Als ik dit volgens de instructie afrond op hele procenten, is het eindantwoord dan precies 4%? Ik wil er absoluut zeker van zijn dat deze afronding correct is voor mijn eindverslag.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:20:32
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, je hebt het helemaal goed gedaan! Bij afronden tot hele procenten kijk je naar de eerste decimaal achter de komma. In jouw geval is het resultaat van de berekening $4,2857...$.
+De eerste decimaal is 2, en omdat dit minder is dan 5, ronden we naar beneden af. Hierdoor kom je inderdaad uit op 4% als het afgeronde eindantwoord. Het lijkt erop dat je alles correct hebt uitgevoerd. Goed gedaan! Als je nog andere vragen hebt of duidelijkheid nodig hebt over een ander onderwerp, laat het me gerust weten.

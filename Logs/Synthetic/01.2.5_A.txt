@@ -1,0 +1,57 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 00:02:06
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de kosten voor 2018 al berekend op 105 euro om een goed startpunt te hebben. Kunt u me nu vertellen wat het exacte gemiddelde aantal consulten voor 2020 is, aangezien dit 10% hoger ligt dan de 4,5 consulten uit 2018?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 00:02:15
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je de uitgaven voor 2018 al hebt berekend. Om te weten hoeveel consulten er in 2020 gemiddeld per persoon waren, moeten we het aantal consulten van 2018 verhogen met 10%.
+In 2018 was het gemiddelde aantal huisartsconsulten per persoon 4,5. Een toename van 10% betekent dat je 10% van 4,5 moet berekenen en dit bij 4,5 optelt.
+Hoe zou je 10% van 4,5 berekenen en wat komt er dan uit als je dit bij de 4,5 optelt?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 00:02:55
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat heb ik uitgerekend: $10\\%$ van $4,5$ is $0,45$, dus voor $2020$ kom ik op $4,95$ consulten uit. Wat is de exacte uitkomst voor de uitgaven $U$ als we dit getal in de formule invullen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 00:03:03
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Prima werk! Je hebt het aantal consulten voor 2020 correct berekend, namelijk $4,95$.
+Nu gaan we dit aantal consulten gebruiken om de gemiddelde uitgaven $U$ te berekenen met de formule:
+$$ U = 60 + 10 \cdot A $$
+Waarbij $A$ het gemiddelde aantal consulten per persoon is. Vul nu $A = 4,95$ in de formule in. Wat komt daaruit als je de berekening uitvoert?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 00:03:36
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Als ik 4,95 in de formule invul, kom ik precies uit op 109,50 euro voor de gemiddelde uitgaven in 2020. Kunt u me nu vertellen met hoeveel procent deze uitgaven zijn gestegen ten opzichte van de 105 euro uit 2018?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 00:03:46
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan! Nu dat je de uitgaven voor 2020 als €109,50 hebt berekend, kunnen we het percentage van de stijging ten opzichte van 2018 bepalen.
+Om te berekenen met hoeveel procent de uitgaven gestegen zijn, gebruiken we de formule voor procentuele verandering:
+$$ \text{Procentuele verandering} = \frac{\text{Nieuw bedrag} - \text{Oud bedrag}}{\text{Oud bedrag}} \times 100\% $$
+In jouw geval is het 'Nieuw bedrag' €109,50 en het 'Oud bedrag' €105. Vul deze waarden in de formule. Wat kom je hieruit als resultaat?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 00:04:14
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het verschil tussen het nieuwe en het oude bedrag is 4,50 euro. Als ik dit deel door het oude bedrag van 105 euro en vermenigvuldig met 100, wat is dan het percentage dat ik als eindantwoord moet noteren?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 00:04:20
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Uitstekend, je bent op de goede weg! Door het verschil van €4,50 te delen door het oude bedrag van €105 en dit te vermenigvuldigen met 100, krijg je de procentuele stijging. De berekening die je moet uitvoeren is:
+$$ \frac{4,50}{105} \times 100 $$
+Als je deze berekening uitvoert, wat kom je dan uit voor het percentage? Rond je antwoord af op hele procenten.

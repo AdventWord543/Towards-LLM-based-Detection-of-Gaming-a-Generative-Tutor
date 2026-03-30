@@ -1,0 +1,161 @@
+================================================================================
+MISCLASSIFICATIONS REPORT - All Runs
+================================================================================
+
+========================================
+Run 1
+========================================
+
+FALSE POSITIVES (Predicted Yes, Actually No):
+  (none)
+
+FALSE NEGATIVES (Predicted No, Actually Yes):
+  - 430.json
+  - 905.json
+  - 985.json
+
+
+========================================
+Run 2
+========================================
+
+FALSE POSITIVES (Predicted Yes, Actually No):
+  (none)
+
+FALSE NEGATIVES (Predicted No, Actually Yes):
+  - 381.json
+  - 430.json
+  - 905.json
+  - 985.json
+
+
+========================================
+Run 3
+========================================
+
+FALSE POSITIVES (Predicted Yes, Actually No):
+  (none)
+
+FALSE NEGATIVES (Predicted No, Actually Yes):
+  - 430.json
+  - 905.json
+  - 985.json
+
+
+========================================
+Run 4
+========================================
+
+FALSE POSITIVES (Predicted Yes, Actually No):
+  - 929.json
+
+FALSE NEGATIVES (Predicted No, Actually Yes):
+  - 381.json
+  - 430.json
+  - 544.json
+  - 858.json
+  - 886.json
+  - 905.json
+  - 985.json
+
+
+========================================
+Run 5
+========================================
+
+FALSE POSITIVES (Predicted Yes, Actually No):
+  - 1058.json
+  - 952.json
+
+FALSE NEGATIVES (Predicted No, Actually Yes):
+  - 430.json
+  - 905.json
+  - 985.json
+
+
+========================================
+Run 6
+========================================
+
+FALSE POSITIVES (Predicted Yes, Actually No):
+  - 952.json
+
+FALSE NEGATIVES (Predicted No, Actually Yes):
+  - 430.json
+  - 858.json
+  - 905.json
+  - 985.json
+
+
+========================================
+Run 7
+========================================
+
+FALSE POSITIVES (Predicted Yes, Actually No):
+  - 952.json
+
+FALSE NEGATIVES (Predicted No, Actually Yes):
+  - 381.json
+  - 430.json
+  - 985.json
+
+
+========================================
+Run 8
+========================================
+
+FALSE POSITIVES (Predicted Yes, Actually No):
+  - 385.json
+
+FALSE NEGATIVES (Predicted No, Actually Yes):
+  - 430.json
+  - 858.json
+  - 905.json
+  - 985.json
+
+
+========================================
+Run 9
+========================================
+
+FALSE POSITIVES (Predicted Yes, Actually No):
+  - 929.json
+
+FALSE NEGATIVES (Predicted No, Actually Yes):
+  - 430.json
+  - 858.json
+  - 985.json
+
+
+========================================
+Run 10
+========================================
+
+FALSE POSITIVES (Predicted Yes, Actually No):
+  (none)
+
+FALSE NEGATIVES (Predicted No, Actually Yes):
+  - 381.json
+  - 430.json
+  - 858.json
+  - 985.json
+
+
+================================================================================
+SUMMARY - Misclassification Frequency Across All Runs
+================================================================================
+
+FALSE POSITIVES:
+  - 952.json: 3/10 runs
+  - 929.json: 2/10 runs
+  - 1058.json: 1/10 runs
+  - 385.json: 1/10 runs
+
+FALSE NEGATIVES:
+  - 430.json: 10/10 runs
+  - 985.json: 10/10 runs
+  - 905.json: 7/10 runs
+  - 858.json: 5/10 runs
+  - 381.json: 4/10 runs
+  - 544.json: 1/10 runs
+  - 886.json: 1/10 runs

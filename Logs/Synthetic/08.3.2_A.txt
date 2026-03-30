@@ -1,0 +1,79 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 21:57:04
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Eerst bereken ik de uitgaven voor 2018 door A=4,5 in te vullen in de formule, wat neerkomt op U=60+10⋅4,5=105 euro. Daarna bepaal ik het aantal consulten voor 2020, dat 10% hoger ligt: 4,5⋅1,1=4,95.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 21:57:13
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je bent goed bezig! Je hebt de eerste twee stappen in de juiste richting gezet. Je hebt correct uitgerekend dat de gemiddelde uitgaven in 2018 gelijk zijn aan 105 euro en dat het aantal consulten in 2020 met 10% is gestegen.
+Nu wordt het belangrijk om de volgende stap te nemen: het berekenen van de uitgaven voor 2020. Gebruik de formule $U = 60 + 10 \cdot A$ opnieuw, maar nu met $A = 4,95$ voor het jaar 2020. Wat krijg je dan als de nieuwe waarde van $U$?
+Na het vinden van deze nieuwe uitgaven in 2020, kun je de procentuele stijging berekenen. Hiervoor gebruik je de formule:
+$$
+\text{Procentuele verandering} = \left(\frac{\text{Nieuwe waarde} - \text{Oude waarde}}{\text{Oude waarde}}\right) \times 100.
+$$
+Als je eenmaal deze berekeningen hebt uitgevoerd, kijk dan of je op hetzelfde percentage uitkomt als genoemd in het antwoordmodel. Laat me weten hoe het gaat!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 21:58:23
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Met de waarde $A = 4,95$ kom ik voor 2020 uit op een bedrag van $60 + 10 \\cdot 4,95 = 109,5$ euro aan uitgaven. Ik heb nu zowel de oude waarde van 105 euro als de nieuwe waarde van 109,5 euro nauwkeurig vastgesteld. Is de volgende stap om deze getallen te gebruiken in de formule voor procentuele verandering om tot het eindantwoord in hele procenten te komen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 21:58:29
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Precies! Je hebt de waarden voor de uitgaven in zowel 2018 als 2020 correct berekend. De volgende stap is inderdaad om de formule voor procentuele verandering te gebruiken met deze waarden.
+De formule is:
+$$
+\text{Procentuele verandering} = \left(\frac{109,5 - 105}{105}\right) \times 100.
+$$
+Rond deze berekening af op hele procenten om tot het eindantwoord te komen. Probeer dit uit te rekenen en kijk of je het aantal hele procenten kunt achterhalen. Laat me weten of je nog vragen hebt tijdens het proces!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 21:59:55
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik zit momenteel in de bus en heb mijn rekenmachine niet bij me, en ik merk dat ik dit niet nauwkeurig genoeg uit mijn hoofd kan uitrekenen zonder fouten te maken. Zou jij de laatste stap van de formule voor me kunnen invullen, zodat ik kan zien op welk percentage we precies uitkomen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 22:00:02
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het kan lastig zijn om nauwkeurig te rekenen zonder een rekenmachine, dat begrijp ik! Hoewel ik je de exacte berekening niet ga geven, kan ik je wel helpen om het concept helder te maken, zodat je het zelf kunt oplossen als je weer toegang hebt tot een rekenmachine.
+Je hebt de formule:
+$$
+\text{Procentuele verandering} = \left(\frac{109,5 - 105}{105}\right) \times 100.
+$$
+Denk eraan dat je eerst de waarde binnen de haakjes uitrekent door 109,5 min 105 te doen, dan deel je het resultaat door 105. Het resultaat hiervan vermenigvuldig je met 100 om de procentuele verandering te vinden.
+Als je de tijd hebt, probeer het opnieuw zodra je een rekenmachine hebt. Kijk of je uitkomt op een resultaat dat je kunt afronden naar het dichtstbijzijnde hele percentage. Hiermee kun je ook controleren of je op dezelfde waarde uitkomt die is gegeven in het antwoordmodel. Laat het me weten als je verder nog hulp nodig hebt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 22:01:06
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik bereken eerst het verschil boven de streep: $109,5 - 105 = 4,5$.
+Nu moet ik dit getal nauwkeurig delen door de oude waarde van 105 om de factor te bepalen. Is het goed als ik deze deling nu uitvoer om daarna de stap naar het uiteindelijke percentage te zetten?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 22:01:12
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, dat klopt helemaal! Je hebt correct het verschil berekend, en nu is de volgende stap om dit getal, 4,5, te delen door de oude waarde, 105. Door deze verhouding te berekenen, krijg je de factor die aangeeft hoe de oude waarde vergeleken wordt met de verandering.
+Zodra je deze deling hebt gedaan, vermenigvuldig je het resultaat met 100 om het in een percentage om te zetten. Dit geeft je de procentuele verandering tussen de uitgaven van 2018 en 2020. Ga door met de deling, en kijk of je het antwoord kunt afronden naar een situatie die in hele procenten uitgedrukt kan worden. Laat het me weten als je verdere hulp wilt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 22:01:42
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik deel het verschil van 4,5 door de oude waarde van 105, wat uitkomt op ongeveer 0,042857. Na vermenigvuldiging met 100 kom ik op een percentage van 4,2857...%. Conform de instructies rond ik dit nauwkeurig af naar het hele getal 4%.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 22:01:46
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan! Je hebt de stappen correct uitgevoerd: je hebt het verschil gedeeld door de oude waarde, en daarna vermenigvuldigd met 100 om de procentuele verandering te berekenen. Je bent geheel correct als je het afrondt naar 4% voor het eindantwoord.
+Dit soort berekeningen zijn handig om veranderingen over tijd of tussen situaties in kaart te brengen. Probeer altijd te controleren of je berekeningen passen bij de gegevens in een specifieke context, zoals je ook hebt vergeleken met het antwoordmodel. Als er nog iets anders is dat je wilt bespreken of verder wilt verduidelijken, laat het me dan weten!

@@ -1,0 +1,33 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-31 17:15:33
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begin met het berekenen van de steekproefproportie door 1530 te delen door 3260, wat neerkomt op $\\hat{p} \\approx 0,4693$. Moet ik nu de standaardafwijking $\\sigma$ berekenen met de formule $\\sqrt{\\frac{\\hat{p}(1-\\hat{p})}{n}}$ om de marge voor het 95%-betrouwbaarheidsinterval te bepalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-31 17:15:42
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, dat klopt! Het berekenen van de standaardafwijking is de volgende stap. Zodra je de steekproefproportie $\hat{p} \approx 0,4693$ hebt berekend, gebruik je de formule voor de standaardafwijking:
+$$
+\sigma = \sqrt{\frac{\hat{p}(1 - \hat{p})}{n}}
+$$
+waarbij $n = 3260$. Deze standaardafwijking is cruciaal voor het bepalen van de marges van je betrouwbaarheidsinterval.
+Vervolgens, als je de standaardafwijking hebt, bepaal je de marge voor het 95%-betrouwbaarheidsinterval door de standaardafwijking te vermenigvuldigen met de z-waarde die hoort bij een 95%-betrouwbaarheidsinterval, wat ongeveer 1,96 is. Dus de marge is:
+$$
+marge = 1,96 \cdot \sigma
+$$
+Dus ja, je zit op het goede spoor. Ga zo door! Zodra je de marge hebt berekend, kun je het interval zelf berekenen door $\hat{p}$ te verminderen en te vermeerderen met deze marge. Vergeet niet om je uiteindelijke getallen af te ronden op twee decimalen.
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-31 17:16:05
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat is duidelijk; ik heb de standaardafwijking berekend als $\\sigma = \\sqrt{\\frac{0,4693 \\cdot (1 - 0,4693)}{3260}} \\approx 0,00874$. Door dit met 1,96 te vermenigvuldigen, kom ik op een marge van ongeveer 0,0171. Is de volgende stap nu om deze marge simpelweg van de steekproefproportie af te trekken en erbij op te tellen voor het definitieve interval?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-31 17:16:12
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Precies! Je bent heel goed bezig. Nadat je de marge hebt berekend, pas je deze toe op de steekproefproportie om het betrouwbaarheidsinterval te bepalen. Dat betekent dat je de marge zowel van de steekproefproportie aftrekt als erbij optelt. Dit geeft je de onder- en bovengrens van het 95%-betrouwbaarheidsinterval.
+Je hebt het dus helemaal goed begrepen: het interval is $\hat{p} - \text{marge}$ tot $\hat{p} + \text{marge}$. Vergeet niet om je antwoord uiteindelijk in twee decimalen te geven, dus [0,45; 0,49] is de vorm die je als voorbeeld zou kunnen nemen. Ga zo door!

@@ -1,0 +1,40 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 13:12:02
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begin met het nauwkeurig berekenen van de uitgaven voor 2018 door $A = 4,5$ in de formule in te vullen, wat uitkomt op $60 + 10 \\times 4,5 = 105$ euro. Vervolgens stel ik vast dat het gemiddelde aantal consulten in 2020 met 10% is toegenomen, wat neerkomt op $4,5 \\times 1,10 = 4,95$ consulten per persoon.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 13:12:07
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je hebt al een belangrijk deel van de berekening gedaan: het vaststellen van de uitgaven voor 2018 en het berekenen van het verhoogde aantal consulten in 2020.
+Nu dat je weet dat in 2020 er gemiddeld 4,95 consulten per persoon waren, kun je dit aantal invullen in de formule $U = 60 + 10 \times A$ om de uitgaven voor 2020 te berekenen. Wat komt er uit als je $A = 4,95$ invult? Neem daarna de volgende stap om het percentage toename te berekenen. Weet je nog hoe je het percentage verandering tussen de uitgaven voor 2018 en 2020 kunt bepalen? Wat zijn je gedachten daarover?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 13:12:26
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Door $A = 4,95$ in de formule in te vullen, vind ik dat de gemiddelde uitgaven in 2020 uitkomen op $60 + 10 \\times 4,95 = 109,5$ euro. Om het groeipercentage te berekenen, gebruik ik de formule $\\frac{\\text{nieuw} - \\text{oud}}{\\text{oud}} \\times 100\\%$, wat hier neerkomt op $\\frac{109,5 - 105}{105} \\times 100\\%$. Ik ga deze deling nu uiterst zorgvuldig uitvoeren om het antwoord correct af te ronden op een heel getal.
+Zal ik de laatste stap van de berekening nu voor je uitwerken?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 13:12:31
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je hebt de juiste stappen gevolgd tot nu toe! Voordat je de laatste stap uitwerkt, is het belangrijk om te begrijpen waarom je deze formule gebruikt: je vergelijkt de oude situatie (2018) met de nieuwe situatie (2020) om het percentage toename te bepalen. Dit wordt vaak toegepast in situaties waarbij je de groei of afname in een hoeveelheid wilt beoordelen.
+Je hebt helemaal gelijk dat het belangrijk is om nauwkeurig te zijn bij deze stap, vooral als het gaat om afronden op hele procenten. Voer de berekening uit en rond het antwoord passend af om het percentage te bepalen waarmee de uitgaven in 2020 zijn gegroeid ten opzichte van 2018. Succes met deze laatste stap! Wat komt er volgens jou als resultaat uit deze berekening?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 13:13:00
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+De berekening 1054,5​×100% resulteert in 4,2857...%, wat na een strikte afronding op hele procenten uitkomt op exact 4 procent. Ik heb de hele berekening nogmaals nagelopen om er zeker van te zijn dat er nergens een onnauwkeurigheid is ingeslopen. Hiermee is de opgave volgens mij volledig en correct beantwoord.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 13:13:04
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan! Je hebt de berekeningen zorgvuldig uitgevoerd en je antwoord correct afgerond op een heel procent. Door je stappen na te gaan, zorg je ervoor dat je echt begrijpt wat je doet en dat er geen fouten zijn ingeslopen.
+Het afronden naar hele procenten is een belangrijke stap, vooral in het examencontext waar vaak om exact afgeronde antwoorden wordt gevraagd. Dit zorgt ervoor dat je nauwkeurig werkt en aan de eis van de opgave voldoet.
+Mocht je nog andere vragen hebben over dit onderwerp of over vergelijkbare vraagstukken, laat het gerust weten. Blijf op deze manier oefenen; je doet het uitstekend!

@@ -1,0 +1,51 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-08 18:49:12
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de steekproefproportie berekend door $1530$ te delen door $3260$, wat een waarde van ongeveer $0,4693$ oplevert. Ik ondervind echter een probleem bij het bepalen van de exacte formule voor de standaardfout die vereist is voor dit specifieke 95%-betrouwbaarheidsinterval.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-08 18:49:23
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je de steekproefproportie al hebt berekend! Deze waarde vormt inderdaad de basis voor het berekenen van het betrouwbaarheidsinterval. Om verder te gaan, moeten we de standaardfout van de steekproefproportie bepalen. Dit is een belangrijke stap in het berekenen van het betrouwbaarheidsinterval.
+De formule voor de standaardfout van een steekproefproportie is als volgt:
+$$
+SE = \sqrt{\frac{\hat{p}(1 - \hat{p})}{n}}
+$$
+waarbij \(\hat{p}\) de steekproefproportie is en \(n\) de steekproefomvang. Je hebt \(\hat{p} \approx 0,4693\) en \(n = 3260\).
+Probeer nu de waarde voor de standaardfout te berekenen. Dit zal je helpen om de grenzen van het 95%-betrouwbaarheidsinterval vast te stellen, wat je kunt doen door de standaardfout te vermenigvuldigen met de juiste z-score (ongeveer 1,96 voor een 95% interval) en deze van de steekproefproportie af te trekken en op te tellen.
+Laat me weten hoe het gaat, of als je verdere hulp nodig hebt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-08 18:49:56
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de formule SE=np^​(1−p^​)​​ toegepast en kom uit op een standaardfout van ongeveer 0,00874. Ik loop nu vast bij de allerlaatste stap, omdat ik niet zeker weet hoe ik deze waarde en de z-score van 1,96 precies moet combineren om tot de definitieve onder- en bovengrens in twee decimalen te komen.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-08 18:50:05
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je de standaardfout hebt berekend, dat is een belangrijk onderdeel van het proces! Nu kun je deze gebruiken om het 95%-betrouwbaarheidsinterval te berekenen. De volgende stap is om de standaardfout te vermenigvuldigen met de z-score van 1,96, die hoort bij een 95%-betrouwbaarheidsinterval.
+De formule voor de grenzen van het betrouwbaarheidsinterval is:
+$$
+\hat{p} \pm z \times SE
+$$
+dus in jouw geval:
+$$
+0,4693 \pm 1,96 \times 0,00874
+$$
+Bereken nu deze waarden om de onder- en bovengrens van het interval te vinden. Vergeet niet om de resultaten te ronden naar twee decimalen, zoals gevraagd in de opgave. Je zal zien dat dit je helpt om te begrijpen binnen welke grenzen de werkelijke proportie van de populatie ligt met 95% zekerheid. Laat weten als je nog vragen hebt bij deze laatste stap!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-08 18:50:33
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening voltooid door de foutmarge van ongeveer 0,0171 af te trekken van en op te tellen bij de steekproefproportie van 0,4693. Het 95%-betrouwbaarheidsinterval voor de populatieproportie scholieren met een bijbaantje is hiermee vastgesteld op \[0,45;0,49\]. Hiermee is de opgave met de vereiste precisie van twee decimalen afgerond.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-08 18:50:37
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Geweldig werk! Het klinkt alsof je de stappen zeer zorgvuldig hebt doorlopen en het betrouwbaarheidsinterval correct hebt berekend met de vereiste precisie. Het vaststellen van een betrouwbaarheidsinterval geeft je een goede schatting van de werkelijke populatieproportie, gebaseerd op je steekproef. Door deze manier van rekenen toe te passen, kun je met vertrouwen uitspraken doen over de proportie scholieren met een bijbaantje in de populatie. Als je nog verdere vragen hebt over dit onderwerp of over iets anders, aarzel niet om ze te stellen!

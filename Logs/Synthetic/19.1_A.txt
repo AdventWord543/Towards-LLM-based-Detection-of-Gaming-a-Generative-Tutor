@@ -1,0 +1,50 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:58:15
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de uitgaven voor 2018 nauwkeurig berekend op $105$ euro en vastgesteld dat het aantal consulten in 2020 stijgt naar $4,95$. Ik ondervind echter een blokkade bij het bepalen van de volgende stap om de totale uitgaven voor 2020 correct te berekenen.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:58:24
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat is een goede start! Je hebt de uitgaven voor 2018 al berekend en het aantal consulten voor 2020 vastgesteld. De volgende stap is het berekenen van de gemiddelde uitgaven aan huisartsenzorg in 2020, waarbij je het gemiddelde aantal consulten van 2020 in de formule voor de uitgaven moet toepassen.
+Je gebruikt de formule:
+$$U = 60 + 10 \times A$$
+Hierbij is \(A\) het aantal consulten. Voor 2020 heb je \(A = 4,95\). Vervang \(A\) in de formule om de uitgaven voor 2020 te berekenen:
+$$U_{2020} = 60 + 10 \times 4,95$$
+Nadat je dit gedaan hebt, tel je de uitkomst op bij 60 om \(U_{2020}\) te vinden.
+Kijk ook goed naar hoe je het verschil in uitgaven tussen 2020 en 2018 in percentages kunt uitdrukken. Bereken hiervoor het verschil en deel dat door de uitgaven van 2018, zoals in het correctievoorschrift:
+$$\frac{U_{2020} - 105}{105} \times 100\%$$
+Probeer het nog eens en laat me weten welke antwoorden je vindt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:58:45
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de uitgaven voor 2020 nu vastgesteld op exact 109,50 euro na een nauwkeurige invulling van de verstrekte formule. Ik heb echter een probleem met de rekenstap om dit verschil om te zetten in een percentage ten opzichte van de 105 euro uit 2018.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:58:52
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan, je hebt de uitgaven voor 2020 correct berekend! De volgende stap is om het percentage verschil ten opzichte van de uitgaven in 2018 te bepalen.
+Gebruik de formule voor het percentage verschil:
+$$\text{Percentage verschil} = \frac{U_{2020} - U_{2018}}{U_{2018}} \times 100\%$$
+In jouw geval is \(U_{2020} = 109,50\) en \(U_{2018} = 105\). Vul deze waarden in de formule in:
+$$\text{Percentage verschil} = \frac{109,50 - 105}{105} \times 100\%$$
+Voer de berekening uit, en zorg ervoor dat je het resultaat afrondt naar het dichtstbijzijnde hele procent, zoals gevraagd.
+Probeer deze stap nog eens en kijk wat je vindt. Laat het weten als je nog vragen hebt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:59:18
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening van het percentage met uiterste precisie uitgevoerd en kom uit op een waarde van $4,2857\\dots$ procent. Ik heb een probleem met de strikte toepassing van de afrondingsregel naar hele getallen, maar ik concludeer dat het eindantwoord $4$ procent is.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:59:23
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat klinkt goed! Je zit op de juiste weg. Als je bij het afronden op hele getallen kijkt naar de eerste decimalen na de komma, dan heb je in dit geval gelijk: omdat 4,2857... het dichtst bij 4 ligt, rond je het af naar 4 procent.
+Het is altijd belangrijk om te weten hoe je op de juiste manier moet afronden, zeker in examenvragen waar specifiek wordt gevraagd om hele procenten. Goed gedaan, en als je nog vragen hebt, laat het vooral weten!

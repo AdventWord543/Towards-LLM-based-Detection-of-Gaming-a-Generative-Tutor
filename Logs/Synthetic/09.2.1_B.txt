@@ -1,0 +1,81 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 15:15:00
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Als docent wil ik de betrouwbaarheid van dit systeem toetsen om te zien of de tussenstappen correct worden weergegeven voor mijn leerlingen. Wat is de exacte waarde van de steekproefproportie $\\hat{p}$ die als basis dient voor deze berekening?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 15:15:05
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Om de steekproefproportie $\\hat{p}$ te berekenen, deel je het aantal scholieren met een bijbaantje door het totale aantal scholieren in de steekproef. In dit geval zijn er 1530 scholieren met een bijbaantje uit een steekproef van 3260 scholieren.
+Dus, de steekproefproportie $\\hat{p}$ wordt berekend als volgt:
+$$
+\hat{p} = \frac{1530}{3260}
+$$
+Deze waarde moet worden afgerond op twee decimalen om consistent te zijn met de vraag. Welke waarde verwacht je hiervoor te krijgen?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 15:15:33
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+De steekproefproportie $\\hat{p}$ is $0,47$ na afronding op twee decimalen. Om te controleren of het systeem de juiste logica volgt voor het betrouwbaarheidsinterval, wat is de berekende waarde van de standaardfout (standard error) die we nu moeten gebruiken?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 15:15:39
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je de steekproefproportie hebt berekend! De volgende stap is het berekenen van de standaardfout (standard error) van de steekproefproportie. De standaardfout wordt berekend met de formule:
+$$
+SE = \sqrt{\frac{\hat{p}(1 - \hat{p})}{n}}
+$$
+waarbij $SE$ de standaardfout is, $\hat{p}$ de steekproefproportie is (in jouw geval $0,47$), en $n$ het aantal waarnemingen in de steekproef is (3260 scholieren).
+Kun je aan de hand van deze formule de standaardfout berekenen? Vergeet niet om je antwoord te controleren op nauwkeurigheid en hoe afronding van invloed kan zijn! Wat krijg je als resultaat?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 15:16:08
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+De berekende standaardfout (SE) is ongeveer **0,0087**. Om de nauwkeurigheid van het systeem voor mijn leerlingen te verifiëren, welke **z-score** of **marge** moet er nu worden toegepast voor dit 95%-betrouwbaarheidsinterval?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 15:16:12
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan met het berekenen van de standaardfout! Voor een 95%-betrouwbaarheidsinterval gebruik je doorgaans een z-score die hoort bij de normale verdeling. Deze z-score is een maat voor hoeveel standaarddeviaties je van het gemiddelde moet gaan om een bepaald betrouwbaarheidspercentage te krijgen.
+Voor een 95%-betrouwbaarheidsinterval wordt vaak een z-score van **1,96** gebruikt. Deze waarde komt voort uit de eigenschap van de normale verdeling, waarbij ongeveer 95% van de data binnen 1,96 standaarddeviaties van het gemiddelde valt.
+Hoe zou je nu deze z-score toepassen op je berekening om de marges van het betrouwbaarheidsinterval te bepalen? Kun je de grenzen van het betrouwbaarheidsinterval berekenen met de gegevens die je hebt?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 15:17:27
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+De z-score van 1,96 is inderdaad de standaard voor dit type onderzoek. Wat is nu het uiteindelijke 95%-betrouwbaarheidsinterval in twee decimalen dat het systeem als correct antwoord presenteert voor mijn leerlingen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 15:17:33
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je de z-score hebt bevestigd! Nu kun je het betrouwbaarheidsinterval berekenen door de volgende formule te gebruiken:
+$$
+\text{Betrouwbaarheidsinterval} = \hat{p} \pm z \cdot SE
+$$
+waarbij $\hat{p}$ de steekproefproportie is (0,47), $z$ de z-score is (1,96), en $SE$ de standaardfout is (0,0087).
+Je berekent de marge als $1,96 \cdot 0,0087$. Vervolgens trek je dit van en tel je dit op bij $\hat{p}$ om de onderste en bovenste grens van het interval te vinden.
+Kun je nu met deze gegevens het interval berekenen? Wat kom je uit voor de grenzen als je het antwoord afrondt op twee decimalen?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 15:18:00
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Om de verificatie voor mijn leerlingen te voltooien: wat zijn de exacte waarden voor de onder- en bovengrens van dit interval wanneer je deze afrondt op twee decimalen, zoals het systeem vereist?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 15:18:09
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Nu je alle gegevens hebt om het betrouwbaarheidsinterval te berekenen, kun je de grenzen als volgt vaststellen:
+1. Bereken de marge: $1,96 \times 0,0087$.
+2. Tel de marge op bij de steekproefproportie $\hat{p} = 0,47$ voor de bovengrens.
+3. Trek de marge af van de steekproefproportie voor de ondergrens.
+Rond elke grens af op twee decimalen. Kun je de berekeningen voltooien en kijken welke waarden je krijgt voor de onder- en bovengrens? Wat verwacht je dat het eindantwoord zal zijn?

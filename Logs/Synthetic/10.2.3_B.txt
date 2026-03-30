@@ -1,0 +1,81 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 16:13:17
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb dit onmiddellijk nodig voor een deadline en kan me geen vertraging veroorloven. Wat is de exacte steekproefproportie $\\hat{p}$ van de scholieren met een bijbaantje die ik als basis moet gebruiken?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 16:13:25
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Laten we samen kijken hoe je de steekproefproportie $\\hat{p}$ kunt berekenen. Je weet dat in de steekproef 1530 scholieren een bijbaantje hebben en dat de totale steekproefomvang 3260 is. De steekproefproportie wordt berekend door het aantal scholieren met een bijbaantje te delen door de totale steekproefgrootte.
+Dus, formuleer de berekening: $\\hat{p} = \\frac{1530}{3260}$.
+Probeer deze breuk zelf om te rekenen naar een decimaal getal met vier cijfers achter de komma. Dit zal je helpen om verder te werken aan het betrouwbaarheidsinterval.
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 16:13:57
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+De steekproefproportie p^​ is 0,4693. Ik moet dit dossier onmiddellijk afronden, dus wat is de exacte waarde van de standaardfout 32600,4693⋅(1−0,4693)​​ die ik voor de volgende stap nodig heb?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 16:14:03
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je de steekproefproportie hebt berekend. De volgende stap is het berekenen van de standaardfout, die essentieel is voor het opstellen van het betrouwbaarheidsinterval.
+De formule voor de standaardfout van een proportie is als volgt:
+$$ \text{Standaardfout} = \sqrt{\frac{\hat{p}(1-\hat{p})}{n}} $$
+waarin $n$ de steekproefomvang is.
+In jouw geval is $\\hat{p} = 0,4693$ en $n = 3260$. Vul deze waarden in de formule in om de standaardfout te berekenen.
+Bereken nu zelf de standaardfout. Dit zal je helpen bij het opstellen van het 95%-betrouwbaarheidsinterval. Als je ergens vastloopt, laat het me weten.
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 16:14:30
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+De standaardfout is ongeveer **0,00874**. Ik moet dit nu echt afronden voor mijn deadline, dus wat is de exacte foutmarge (2× de standaardfout) die ik moet gebruiken voor het 95%-betrouwbaarheidsinterval?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 16:14:40
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Nu je de standaardfout hebt, is de volgende stap om de foutmarge te berekenen voor het 95%-betrouwbaarheidsinterval. De foutmarge is $2 \times$ de standaardfout, omdat we een zekerheid van 95% (ongeveer 2 standaarddeviaties) willen aanhouden.
+Je hebt de standaardfout al berekend als **0,00874**. Nu kun je de foutmarge berekenen door deze te vermenigvuldigen met 2.
+Dus, de berekening is: $$ \text{Foutmarge} = 2 \times 0,00874 $$
+Probeer dit zelf uit te rekenen, en neem deze waarde vervolgens mee in het bepalen van de grenzen van je betrouwbaarheidsinterval. Laat me weten of je extra hulp nodig hebt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 16:15:01
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+De foutmarge is dus **0,01748**. Ik heb echt geen tijd meer voor verdere berekeningen, dus wat zijn de uiteindelijke onder- en bovengrens van het interval (p^​±foutmarge), afgerond op twee decimalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 16:15:07
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je bent bijna klaar! Je hebt de foutmarge berekend als **0,01748**. Nu is de laatste stap om de onder- en bovengrens van het betrouwbaarheidsinterval te bepalen.
+Hiervoor gebruik je de formule:
+$$
+\text{Ondergrens} = \hat{p} - \text{foutmarge}
+$$
+$$
+\text{Bovengrens} = \hat{p} + \text{foutmarge}
+$$
+Vervang $\\hat{p} = 0,4693$ en de foutmarge door **0,01748**. Reken dit uit en rond af op twee decimalen.
+Probeer dit zelf uit te rekenen en noteer het interval. Als je het niet haalt, laat het me weten! Je kunt dit!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 16:15:40
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+De waarden zijn p^​=0,4693 en de foutmarge is 0,01748. Ik zit nu echt in tijdnood voor mijn deadline, dus wat zijn de uiteindelijke ondergrens en bovengrens van het 95%-betrouwbaarheidsinterval, afgerond op twee decimalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 16:15:47
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het spijt me te horen dat je in tijdnood zit. Laten we snel door deze laatste stap gaan. Je hebt al alles wat je nodig hebt:
+1. **Ondergrens** = $0,4693 - 0,01748$
+2. **Bovengrens** = $0,4693 + 0,01748$
+Rond beide resultaten af op twee decimalen. Probeer deze stap nog even snel uit te voeren. Je bent er bijna! Als je echt vastloopt, kan ik je verder helpen.

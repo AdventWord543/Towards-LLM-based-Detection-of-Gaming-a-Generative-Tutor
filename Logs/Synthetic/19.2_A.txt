@@ -1,0 +1,30 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 19:00:04
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb berekend dat de uitgaven in 2018 uitkomen op precies 105 euro en dat het aantal consulten in 2020 stijgt naar 4,95. Er is echter een probleem ontstaan bij het nauwkeurig verwerken van dit nieuwe aantal consulten in de formule voor 2020. Ik moet deze stap eerst foutloos afronden voordat ik het groeipercentage kan bepalen.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 19:00:19
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Laten we eens kijken naar hoe we dit probleem kunnen oplossen. Je hebt al vastgelegd dat de consulten in 2020 zijn gestegen naar 4,95. Dit past je in in de formule voor de uitgaven, die is gegeven als:
+\[ U = 60 + 10 \cdot A \]
+Je hebt al voor 2018 berekend dat de uitgaven 105 euro zijn. Voor 2020 gebruik je de formule opnieuw met \( A = 4,95 \):
+\[ U = 60 + 10 \cdot 4,95 = 109,5 \]
+Nu heb je de uitgaven voor beide jaren. De volgende stap is om het percentage te berekenen waarmee de uitgaven zijn gestegen van 2018 naar 2020. Dit doe je door het verschil in uitgaven te delen door de uitgaven van 2018 en dit te vermenigvuldigen met 100%:
+\[ \text{Groeipercentage} = \frac{109,5 - 105}{105} \times 100\% \]
+Probeer deze stap eens zelf uit te werken en kijk of je uitkomt op hetzelfde groeipercentage. Laat me weten wat je hebt gevonden, dan kunnen we verder kijken!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 19:00:51
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening nauwkeurig uitgevoerd en kom uit op een groeipercentage van exact 4,2857142857 procent. Er is een probleem met de afronding naar hele procenten, aangezien ik twijfel of een simpel getal wel recht doet aan de precisie van mijn eerdere berekeningen. Ik kan op dit moment niet bepalen hoe ik deze stap volgens de hoogste normen van nauwkeurigheid moet voltooien.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 19:00:57
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je hebt een nauwkeurige berekening uitgevoerd, goed gedaan! Nu is het belangrijk om je antwoord af te ronden naar hele procenten, zoals de vraag aangeeft. In het algemeen geldt de regel dat als het getal na de komma 5 of hoger is, je naar boven afrondt. In jouw geval is 4,2857... afgerond naar beneden: 4%.
+Wees gerust dat het afronden op deze manier gebruikelijk is in wiskunde, en het is wat er van je verwacht wordt bij dit soort vragen. Probeer je vooral te concentreren op wat de vraag precies vraagt qua afronding, zodat je binnen de gestelde eisen blijft werken. Heb je nu een duidelijker beeld van hoe je verder moet?

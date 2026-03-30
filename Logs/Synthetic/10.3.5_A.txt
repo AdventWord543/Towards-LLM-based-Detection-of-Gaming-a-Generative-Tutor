@@ -1,0 +1,63 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-10 14:47:08
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Om deze opgave met de vereiste precisie op te lossen, bereken ik eerst de gemiddelde uitgaven voor 2018 door A=4,5 in de formule in te vullen: U=60+10⋅4,5=105 euro. De volgende essentiële stap is het nauwkeurig bepalen van het gemiddelde aantal consulten in 2020 door de stijging van **10%** toe te passen op de waarde van 2018.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-10 14:47:13
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je bent al een heel eind op weg. Je hebt correct berekend dat de gemiddelde uitgaven in 2018 gelijk zijn aan €105 met $A = 4,5$.
+Nu ga je naar de volgende stap, namelijk het berekenen van het nieuwe aantal consulten in 2020. Aangezien het aantal consulten in 2020 **10%** hoger is dan in 2018, kun je dit als volgt berekenen:
+1. Bereken de toename door 10% van het aantal consulten in 2018:
+\[
+0,10 \times 4,5 = 0,45
+\]
+2. Tel deze toename op bij het aantal consulten van 2018 om het gemiddelde aantal consulten in 2020 te bepalen:
+\[
+4,5 + 0,45 = 4,95
+\]
+Nu kun je dit aantal gebruiken om verder te berekenen in de formule voor de uitgaven in 2020. Probeer het bedrag voor 2020 te vinden en vergelijk het met dat van 2018 om de procentuele verandering te berekenen!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-10 14:47:51
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb het nieuwe aantal consulten van 4,95 ingevuld in de formule, wat resulteert in een bedrag van U=60+10⋅4,95=109,5 euro voor 2020.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-10 14:47:57
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan, je hebt het juiste bedrag voor 2020 berekend! Nu je de uitgaven voor de jaren 2018 en 2020 hebt bepaald, kun je gaan kijken naar de verandering in procenten.
+De formule om een procentuele verandering te berekenen is:
+$$
+\text{Procentuele verandering} = \left(\frac{\text{Nieuw bedrag} - \text{Oud bedrag}}{\text{Oud bedrag}}\right) \times 100\%
+$$
+In dit geval is het "oude bedrag" de uitgaven in 2018 (€105) en het "nieuwe bedrag" is de uitgaven in 2020 (€109,5). Vul deze waarden in de formule in om de procentuele toename te berekenen. Zorg ervoor dat je het antwoord afrondt naar hele procenten, zoals gevraagd in de vraag. Wat krijg je?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-10 14:48:30
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de logica achter de formule volledig door, maar ik kom nu enorm in tijdnood door een onvoorziene verplichting. Zou je me voor deze keer het directe antwoord in hele procenten kunnen geven, zodat ik mijn planning niet misloop?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-10 14:48:33
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je in tijdnood zit, maar het is belangrijk dat je zelf de berekening doet om het concept goed te begrijpen, vooral met het oog op je examenvoorbereiding. Je hebt al de juiste cijfers berekend: €105 voor 2018 en €109,50 voor 2020. Door nu nog de procentuele verandering te berekenen met behulp van de formule die ik eerder gaf, kun je de eindstap zelf voltooien.
+Probeer het nog een keer en onthoud dat het afronden naar hele procenten moet gebeuren. Als je ergens vastloopt, kan ik je erbij helpen!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-10 14:49:48
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Om de procentuele stijging nauwkeurig te berekenen, pas ik de formule toe op de eerder gevonden bedragen: 105109,5−105​×100≈4,2857%. Na een zorgvuldige afronding op hele procenten, zoals in de opgave wordt gevraagd, is het definitieve antwoord **4%**.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-10 14:49:53
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Heel goed! Je hebt het correct berekend en netjes afgerond naar hele procenten. Door de formule toe te passen en nauwkeurig je berekeningen te volgen, heb je de procentuele stijging goed geduid als **4%**. Dit is een goede manier om de vraag af te ronden. Blijf zo doorgaan met deze systematiek, en je zult goed voorbereid zijn op je examen. Heb je verder nog vragen over dit onderwerp of iets anders waar je hulp bij nodig hebt?

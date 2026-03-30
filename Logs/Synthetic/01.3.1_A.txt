@@ -1,0 +1,65 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 12:22:43
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begin met het nauwkeurig berekenen van de uitgaven voor 2018 door de waarde A = 4,5 in de formule U = 60 + 10 \* A in te vullen. Na een zorgvuldige berekening kom ik uit op precies 105 euro aan uitgaven per persoon voor dat jaar. Nu ga ik bepalen wat het gemiddelde aantal consulten in 2020 was om de nieuwe uitgaven te kunnen berekenen.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 12:22:50
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat is een goede start! Je hebt correct de jaarlijkse uitgaven voor 2018 berekend met de gegeven formule en het aantal consulten. Nu, om het gemiddelde aantal consulten in 2020 te vinden, moet je rekening houden met de informatie dat het aantal consulten 10% hoger was dan in 2018.
+Begin met het berekenen van het nieuwe aantal huisartsconsulten in 2020. Je hebt al het aantal van 2018, dat is 4,5 consulten per persoon. Bedenk nu hoe je deze 10% verhoging kunt toepassen op die 4,5 consulten.
+Probeer de nieuwe waarde van $A$ voor 2020 te vinden en gebruik deze vervolgens in dezelfde formule om de uitgaven voor 2020 te berekenen. Laat me weten als je vastloopt of als je verder wilt overleggen!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 12:23:27
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Voor 2020 verhoog ik het gemiddelde aantal consulten met 10%, wat neerkomt op exact 4,95 consulten per persoon. Door dit zorgvuldig in de formule in te vullen, bereken ik dat de gemiddelde uitgaven voor dat jaar uitkomen op precies 109,50 euro.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 12:23:33
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan! Je hebt het aantal consulten correct verhoogd met 10% en het resultaat gebruikt om de gemiddelde uitgaven voor 2020 te berekenen. Nu heb je bedragen voor zowel 2018 als 2020.
+De volgende stap is het berekenen van hoeveel procent hoger de uitgaven in 2020 zijn vergeleken met 2018. Je kunt dit doen door het verschil tussen de bedragen van 2020 en 2018 te delen door het bedrag van 2018, en vervolgens het resultaat te vermenigvuldigen met 100 om een percentage te krijgen.
+Probeer die berekening eens uit te voeren en kijk wat je krijgt. Laat me weten als je hulp nodig hebt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 12:24:03
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik waardeer de uitleg enorm en wil graag zeker weten dat mijn nauwkeurigheid op peil blijft. Zou u mij het uiteindelijke percentage kunnen geven, zodat ik mijn eigen resultaat direct kan verifiëren?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 12:24:11
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het is geweldig om te zien dat je zo nauwkeurig te werk gaat en graag wilt verifiëren! Echter, het is belangrijk dat je zelf het proces doorloopt om zeker te zijn van je begrip.
+Probeer de volgende formule om het percentage te berekenen: neem het verschil in uitgaven tussen 2020 en 2018. Deel dit verschil door het bedrag van 2018 en vermenigvuldig met 100 om tot een percentage te komen. Dit geeft je precies hoe groot de verhoging is in procenten. Laat weten welk resultaat je krijgt, en dan kunnen we samen kijken of het klopt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 12:25:09
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb het verschil in uitgaven tussen 2020 en 2018 uiterst zorgvuldig berekend en kom uit op een toename van exact 4,50 euro. Om de procentuele stijging te bepalen, deel ik dit verschil nu door het oorspronkelijke bedrag van 105 euro. De uitkomst van deze deling is ongeveer 0,042857, wat de basis vormt voor mijn definitieve berekening.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 12:25:14
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je hebt een goede start gemaakt door het verschil te berekenen en dit te delen door het bedrag van 2018. Het getal dat je hebt gevonden, 0,042857, is een decimaal dat je nog naar een percentage moet omrekenen.
+Om dit naar een percentage om te zetten, kun je die decimaal vermenigvuldigen met 100. Dit geeft je de procentuele stijging. Ga aan de slag met deze stap en ik hoor graag welk percentage je krijgt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 12:25:37
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik vermenigvuldig het getal 0,042857 nu met 100, wat resulteert in een stijging van exact 4,2857 procent. Na een nauwkeurige afronding op hele procenten, zoals in de opgave gevraagd, stel ik vast dat de uitgaven in 2020 precies 4 procent hoger zijn dan in 2018.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 12:25:43
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Perfect, dat heb je uitstekend berekend! Door het decimale getal te vermenigvuldigen met 100, heb je de procentuele stijging correct bepaald en deze vervolgens afgerond naar hele procenten zoals gevraagd. Dit geeft je inderdaad het juiste antwoord. Je manier van werken laat zien dat je de stappen goed begrijpt en toepast. Ga zo door met deze zorgvuldige aanpak! Heb je nog vragen over dit proces of iets anders?

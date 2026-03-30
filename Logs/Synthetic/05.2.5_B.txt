@@ -1,0 +1,78 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 00:53:48
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening voor de steekproefproportie al uitgevoerd, maar ik wil geen onnodige fouten meeslepen naar de rest van de opgave. Wat is het getal dat jij vindt voor deze eerste stap?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 00:53:54
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp je bezorgdheid, maar het is belangrijk dat je zelf het volledige proces doorloopt. Voor de eerste stap bereken je de steekproefproportie met de formule:
+\[
+\hat{p} = \frac{aantal\ scholieren\ met\ een\ bijbaantje}{totale\ steekproef\ grootte} = \frac{1530}{3260}
+\]
+Controleer of je deze verhouding goed hebt uitgerekend. Wat was jouw berekening voor $\hat{p}$?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 00:55:06
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Mijn berekening voor $\\hat{p}$ kwam uit op 0,4693, dus bevestig even of dat klopt zodat ik zeker weet dat mijn basis goed is. Als dat overeenkomt, wat is dan de exacte waarde voor de standaardfout die ik moet gebruiken voor de volgende stap van de formule?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 00:55:13
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het is goed om te zien dat je zelfverzekerd bent over je berekening van $\hat{p}$. Je resultaat van $0,4693$ lijkt correct. De volgende stap is inderdaad het berekenen van de standaardfout voor de steekproefproportie. De formule hiervoor is:
+\[
+SE = \sqrt{\frac{\hat{p}(1 - \hat{p})}{n}}
+\]
+waarbij $\hat{p}$ de steekproefproportie is en $n$ de steekproefgrootte (in dit geval 3260). Vul deze waarden in en kijk wat je voor de standaardfout uitkomt. Wat krijg jij als je deze berekening uitvoert?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 00:55:49
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Mijn berekening voor de standaardfout komt uit op 0,0087, dus bevestig even of dit klopt voordat ik de laatste stap zet. Wat is de exacte foutmarge die ik nu moet gebruiken om tot het definitieve 95%-betrouwbaarheidsinterval te komen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 00:55:54
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je berekening voor de standaardfout van $0,0087$ lijkt goed te zijn. Nu is de volgende stap het bepalen van de foutmarge. Voor een 95%-betrouwbaarheidsinterval gebruik je de z-waarde die overeenkomt met 95%, wat meestal ongeveer $1,96$ is. De foutmarge bereken je dan met de formule:
+\[
+\text{Foutmarge} = z \times \text{Standaardfout} = 1,96 \times SE
+\]
+Bereken met deze formule je foutmarge. Wat krijg je als resultaat voor deze stap?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 00:56:19
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb voor de foutmarge 0,0171 berekend, dus bevestig even of dit getal klopt voor de laatste fase. Wat zijn nu de exacte grenzen van het betrouwbaarheidsinterval die ik moet noteren voor het eindantwoord?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 00:56:25
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je berekening voor de foutmarge van $0,0171$ ziet er correct uit. Nu kun je de grenzen van het betrouwbaarheidsinterval berekenen met de formule:
+\[
+\text{Ondergrens} = \hat{p} - \text{Foutmarge}
+\]
+\[
+\text{Bovengrens} = \hat{p} + \text{Foutmarge}
+\]
+Vervang $\hat{p}$ en de foutmarge met jouw berekende waarden om de onder- en bovengrens te bepalen. Wat krijg je als je deze berekeningen uitvoert?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 00:57:22
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb mijn eigen berekeningen voor de onder- en bovengrens al klaar, maar ik wil absoluut zeker zijn van mijn zaak voordat ik het afrond. Wat zijn de exacte waarden in twee decimalen die jij vindt voor dit 95%-betrouwbaarheidsinterval?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 00:57:28
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je heel precies wilt zijn, maar het is belangrijk dat je zelf het vertrouwen hebt in je berekeningen. Als je de waarden die je hebt voor $\hat{p}$ en de foutmarge gebruikt om de onder- en bovengrens te berekenen, zou je in staat moeten zijn om het betrouwbaarheidsinterval zelf te bepalen. Zorg ervoor dat je de berekeningen uitvoert en de resultaten afrondt naar twee decimalen. Hoe zien jouw onder- en bovengrenzen er dan uit?

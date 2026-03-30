@@ -1,0 +1,59 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 12:30:20
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Eerst bereken ik de uitgaven voor 2018 door $A = 4,5$ in de formule $U = 60 + 10 \\cdot A$ in te vullen, wat resulteert in $105$ euro. Daarna stel ik vast dat het aantal consulten in 2020 met $10\\%$ is gestegen, wat neerkomt op $4,5 \\cdot 1,1 = 4,95$ consulten. Is dit de juiste basis om nu de nieuwe uitgaven voor 2020 te gaan berekenen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 12:30:26
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je bent op de goede weg! Je hebt correct berekend dat het aantal consulten in 2020 is gestegen naar 4,95. Nu kun je doorgaan met het invullen van deze waarde in dezelfde formule $U = 60 + 10 \cdot A$ om de uitgaven voor 2020 te berekenen.
+Dus, vul $A = 4,95$ in de formule in om $U$ voor 2020 te vinden. Na deze stap kun je het verschil in uitgaven tussen 2018 en 2020 berekenen, en vervolgens het percentage waarmee de uitgaven zijn gestegen. Vergeet niet om de formule voor procentuele stijging toe te passen, zoals:
+$$ \left( \frac{\text{Nieuw bedrag} - \text{Oud bedrag}}{\text{Oud bedrag}} \right) \times 100\% $$
+Probeer dit zelf verder te berekenen en te kijken of je uitkomt op het verwachte percentage. Veel succes!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 12:30:55
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de waarde $A = 4,95$ nu heel nauwkeurig ingevuld in de formule, wat resulteert in $U = 60 + 10 \\cdot 4,95 = 109,50$ euro voor het jaar 2020. Hiermee heb ik de exacte bedragen voor beide jaren bepaald om de vergelijking zuiver te kunnen maken. Zal ik nu de formule voor de procentuele stijging gaan toepassen op deze resultaten?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 12:31:01
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, dat is precies wat je moet doen! Nu dat je de uitgaven voor beide jaren hebt berekend, kun je de formule voor de procentuele stijging toepassen om te bepalen hoeveel procent hoger de uitgaven in 2020 zijn ten opzichte van 2018.
+Gebruik de formule:
+$$ \left( \frac{\text{Nieuw bedrag} - \text{Oud bedrag}}{\text{Oud bedrag}} \right) \times 100\% $$
+Waarbij het "nieuwe bedrag" het bedrag is voor 2020 (€109,50) en het "oude bedrag" het bedrag voor 2018 (€105,00).
+Pas deze stap toe en kijk welk percentage je uitkomt. Als je nog vragen hebt over de berekening, laat het gerust weten!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 12:31:27
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik waardeer de heldere uitleg over de formule voor de procentuele stijging. Zou u zo vriendelijk willen zijn om mij het exacte eindantwoord in hele procenten te geven?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 12:31:34
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het is belangrijk dat je zelf tot het eindantwoord komt, zodat je de stappen en het concept goed begrijpt. Je hebt nu al goed werk geleverd! Neem de bedragen die je hebt berekend:
+- 2018: €105,00
+- 2020: €109,50
+Pas de procentuele stijgingsformule toe:
+$$ \left( \frac{109,50 - 105}{105} \right) \times 100\% $$
+Rond het resultaat daarna af naar hele procenten. Door het zelf uit te rekenen, veranker je de kennis en vergroot je je begrip. Probeer het eens en kijk welke waarde je krijgt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 12:32:45
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb het verschil uiterst precies berekend: 109,50−105=4,50 euro aan extra uitgaven. Na deling door het oude bedrag van 105 euro en vermenigvuldiging met 100 kom ik op 4,2857...%, wat afgerond op hele procenten exact 4% is. Is deze zorgvuldige uitwerking correct om de opgave hiermee volledig af te ronden?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 12:32:50
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, je aanpak en redenering zijn helemaal correct! Door de uitgavenstijging zorgvuldig te berekenen en deze vervolgens af te ronden, kom je inderdaad op het juiste percentage. Het afronden op hele procenten naar 4% is precies wat je moest doen volgens de opgave. Goed gedaan met het nauwkeurig doorrekenen en afronden van je resultaat! Heb je nog verdere vragen over dit onderwerp?

@@ -1,0 +1,67 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-08 18:13:37
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb genoteerd dat 1530 van de 3260 scholieren een bijbaantje hebben, maar ik wil zeker weten dat ik de eerste stap naar het betrouwbaarheidsinterval foutloos zet. Hoe bereken ik precies de steekproefproportie $\\hat{p}$ die ik hier nodig heb? Kunt u een voorbeeld geven van hoe ik dit getal het beste kan noteren voor de rest van de berekening?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-08 18:13:45
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je bent goed op weg! Om de steekproefproportie $\\hat{p}$ te berekenen, deel je het aantal scholieren met een bijbaantje door het totale aantal scholieren in de steekproef. In jouw geval zijn dat er 1530 en 3260 respectievelijk.
+Je gebruikt de formule:
+$$
+\hat{p} = \frac{1530}{3260}
+$$
+Reken dit uit om $\\hat{p}$ te bepalen. Zorg ervoor dat je het resultaat noteert met voldoende decimalen om tussentijdse afrondingsfouten te voorkomen, meestal nemen we drie decimalen in dit soort berekeningen. Dit zal ervoor zorgen dat je nauwkeurigheid behoudt bij het verder bepalen van het betrouwbaarheidsinterval.
+Kun je me vertellen wat je krijgt als je dit uitrekent? Dan kunnen we samen verder kijken naar de volgende stappen.
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-08 18:14:15
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening nauwkeurig uitgevoerd en kom uit op p^​≈0,4693. Zou u mij kunnen laten zien welke formule ik nu precies moet gebruiken voor de standaardafwijking van de steekproefproportie? Ik wil er zeker van zijn dat ik de juiste waarden op de juiste plek invul om de nauwkeurigheid te waarborgen.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-08 18:14:24
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Prima, je hebt de steekproefproportie goed berekend als $\\hat{p} \approx 0{,}4693$. Nu ga je de standaardafwijking (of standaardfout) van de steekproefproportie berekenen. Dit wordt gedaan met de volgende formule:
+$$
+\sigma_{\hat{p}} = \sqrt{\frac{\hat{p}(1 - \hat{p})}{n}}
+$$
+Hierbij is $\\hat{p}$ je steekproefproportie, wat je net hebt berekend, en $n$ het aantal waarnemingen in je steekproef, in dit geval 3260.
+Pas deze waarden toe op de formule en let daarbij op dat je voldoende decimalen aanhoudt in je berekeningen om de nauwkeurigheid te bewaren. Probeer het eens en laat weten wat je uitkomt, dan kunnen we samen de grenzen van het betrouwbaarheidsinterval berekenen!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-08 18:14:41
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de standaardafwijking zorgvuldig uitgerekend met de formule $\\sigma\_{\\hat{p}} = \\sqrt{\\frac{0,4693 \\cdot (1 - 0,4693)}{3260}}$ en kom uit op ongeveer $0,00874$. Om de grenzen van het $95\\%$-betrouwbaarheidsinterval te bepalen, moet ik nu de marge van $2 \\cdot \\sigma\_{\\hat{p}}$ optellen bij en aftrekken van de steekproefproportie, klopt dat? Zou u me kunnen bevestigen of ik de grenzen vervolgens direct moet afronden op de gevraagde twee decimalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-08 18:14:51
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, je hebt de juiste aanpak te pakken! Voor het 95%-betrouwbaarheidsinterval gebruik je vaak een z-waarde van ongeveer 1,96 (wat overeenkomt met twee standaardafwijkingen voor een normaalverdeling). Je kunt dit benaderen door 2 te gebruiken in simpele gevallen zoals dit.
+Dus je berekent de marge als $2 \cdot \sigma_{\hat{p}}$. Daarna krijg je de grenzen van het betrouwbaarheidsinterval door deze marge op te tellen bij en af te trekken van je steekproefproportie:
+$$
+\text{Ondergrens} = \hat{p} - 2 \cdot \sigma_{\hat{p}}
+$$
+$$
+\text{Bovengrens} = \hat{p} + 2 \cdot \sigma_{\hat{p}}
+$$
+Je kunt de grenzen afronden op twee decimalen zoals de vraag aangeeft. Zorg ervoor dat je op je tussenstappen voldoende decimalen behoudt om afrondingsfouten te minimaliseren en rond pas aan het einde van je berekening af. Laat maar weten welke grenzen je hebt berekend!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-08 18:15:07
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+k heb de berekening nauwgezet voltooid: de ondergrens is 0,4693−(2×0,00874)≈0,45182 en de bovengrens is 0,4693+(2×0,00874)≈0,48678. Afgerond op twee decimalen kom ik uit op een betrouwbaarheidsinterval van **0,45 tot 0,49**.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-08 18:15:17
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat ziet er goed uit! Je hebt de grenzen van het 95%-betrouwbaarheidsinterval correct berekend en netjes afgerond. Dit proces laat zien hoe je met statistiek je conclusies kunt ondersteunen over een populatie op basis van een steekproef.
+Kun je nu uitleggen wat het betekent wanneer je zegt dat je een 95%-betrouwbaarheidsinterval voor de populatieproportie van scholieren met een bijbaantje tussen 0,45 en 0,49 hebt gevonden? Dit soort begrip is belangrijk in het interpreteren van statistische uitspraken.

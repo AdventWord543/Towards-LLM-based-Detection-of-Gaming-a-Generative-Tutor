@@ -1,0 +1,51 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 12:33:26
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begin met het nauwkeurig berekenen van de uitgaven voor 2018 door het gemiddelde aantal consulten van 4,5 in de formule in te vullen. Voor 2018 kom ik uit op een bedrag van $U = 60 + 10 \\cdot 4,5 = 105$ euro. Is dit de juiste eerste stap om de vergelijking met 2020 te kunnen maken?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 12:33:32
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, dat is inderdaad een goede eerste stap. Door eerst de uitgaven voor 2018 te berekenen met het gemiddelde aantal consulten, leg je een basis om de verschillen tussen de jaren te kunnen analyseren. De volgende stap is om te bepalen hoeveel procent het gemiddelde aantal consulten in 2020 hoger is dan in 2018, en dit vervolgens te gebruiken om de uitgaven voor 2020 te berekenen.
+Verwerk deze verandering in het aantal consulten in de formule. Heb je al een idee hoe je de gemiddelde uitgaven voor 2020 hiermee kunt berekenen?
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 12:33:59
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik bereken eerst het nieuwe aantal consulten voor 2020: 4,5×1,1=4,95 consulten per persoon. Als ik dit getal in de formule invul, kom ik voor 2020 uit op een bedrag van U=60+10⋅4,95=109,50 euro.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 12:34:04
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Prima werk! Je berekening voor het aantal consulten in 2020 en het invullen daarvan in de formule klopt helemaal. Je hebt nu de uitgaven voor zowel 2018 als 2020 berekend.
+De volgende stap is om te bepalen hoeveel procent hoger de uitgaven in 2020 zijn in vergelijking met 2018. Kun je uitzoeken hoe je het percentage verschil tussen deze twee bedragen kunt berekenen? Probeer die formule toe te passen!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 12:34:32
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik waardeer uw hulp enorm en het zou mij zeer helpen als u het uiteindelijke percentage voor mij zou kunnen berekenen. Zo kan ik direct het correcte antwoord in mijn aantekeningen opnemen.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 12:34:38
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je graag het correcte percentage wilt weten, maar het is belangrijk dat je zelf oefent met het berekenen van dit soort problemen. Dit versterkt je begrip van de concepten.
+Denk na over dit stappenplan: Neem het verschil tussen de uitgaven van 2020 en 2018 en deel dit verschil door de uitgaven van 2018. Vervolgens vermenigvuldig je de uitkomst met 100 om het percentage te krijgen. Kun je deze stappen toepassen om het percentage zelf te berekenen? Ik moedig je ten zeerste aan om het eens te proberen. Als je ergens vastloopt, help ik je graag verder!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 12:35:22
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik bereken eerst het verschil tussen de uitgaven van 2020 (€109,50) en 2018 (€105,00), wat uitkomt op een toename van €4,50. Vervolgens deel ik dit verschil door de oorspronkelijke uitgaven van 2018: $(4,50 / 105,00) \\cdot 100 \\approx 4,2857\\%$.
+Afgerond op hele procenten is de stijging dus 4%. Is dit het volledige antwoord dat wordt gevraagd voor deze opgave?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 12:35:28
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, dat klopt! Je hebt het probleem goed aangepakt. Door het verschil te berekenen en dat om te zetten naar een percentage, kom je uit op een stijging van ongeveer 4,29%. Afgerond naar hele procenten is dat inderdaad 4%. Dit zou je in staat moeten stellen om volledig aan de opgave te voldoen. Goed gedaan! Heb je nog andere vragen over deze opgave of een ander onderwerp?

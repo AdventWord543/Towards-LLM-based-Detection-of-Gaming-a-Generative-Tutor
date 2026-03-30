@@ -1,0 +1,53 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-23 13:09:35
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Zou je zo vriendelijk willen zijn om me het 95%-betrouwbaarheidsinterval voor deze populatieproportie te geven? Ik zou het zeer op prijs stellen als je me simpelweg het volledige antwoord in twee decimalen verstrekt.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-23 13:09:47
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het is belangrijk dat je leert hoe je zelf een betrouwbaarheidsinterval kunt berekenen, omdat dit inzicht geeft in de manier waarop we statistische uitspraken doen over populaties. Laten we samen door de stappen lopen.
+1. **Bereken de steekproefproportie**: Dit is het deel van de steekproef dat een bijbaantje heeft. Je berekent dit door het aantal scholieren met een bijbaantje te delen door het totale aantal scholieren in de steekproef. Dus, je rekent $\frac{1530}{3260}$ uit.
+2. **Bereken de standaardfout van de steekproefproportie**: Dit doe je met de formule:
+$$ SE = \sqrt{\frac{\hat{p}(1-\hat{p})}{n}} $$
+Waar $\hat{p}$ de steekproefproportie is en $n$ de steekproefomvang (3260).
+3. **Gebruik de Z-waarde voor het interval**: Voor een 95% betrouwbaarheidsinterval gebruik je een Z-waarde van ongeveer 1,96.
+4. **Bereken de grenzen van het betrouwbaarheidsinterval**: Deze zijn:
+$$ \hat{p} \pm Z \cdot SE $$
+Probeer de bovenstaande stappen te volgen en kijk welk antwoord je krijgt. Laat me weten of je ergens vastloopt, dan help ik je verder!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-23 13:10:14
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Bedankt voor het overzicht, dat helpt me zeker verder. Zou je zo vriendelijk willen zijn om de uiteindelijke grenzen van het interval in twee decimalen te geven, zodat ik mijn resultaten direct kan controleren?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-23 13:10:22
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je graag wilt controleren of je je berekeningen goed hebt gedaan. Het is echter cruciaal dat je zelf deze stappen doorloopt om het proces goed te begrijpen. Als je echt vastloopt, kan ik je helpen te verduidelijken waar je eventueel een fout kunt zijn ingegaan.
+Ga nog eens na of je:
+1. De steekproefproportie correct hebt berekend.
+2. De formule voor de standaardfout correct hebt toegepast.
+3. De Z-waarde van 1,96 correct hebt gebruikt bij de berekening van het interval.
+Probeer je resultaten te berekenen en vertel me welke waarden je hebt gevonden. Dan kunnen we samen kijken of het allemaal klopt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-23 13:10:49
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dank je voor de heldere toelichting op de methode. Zou je me de twee waarden van het interval alsnog kunnen geven, zodat ik mijn werk met de hoogste precisie kan verifiëren?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-23 13:10:56
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik kan goed begrijpen dat je jouw antwoord wilt verifiëren. Maar het zelf doorlopen van de berekening en het vinden van de oplossing is een waardevolle leerervaring. Als je jouw berekeningen met me wilt delen, kan ik je helpen om te bepalen of je op de goede weg bent.
+Kijk vooral of je:
+- Het juiste quotiënt hebt berekend voor de steekproefproportie.
+- De standaardfout hebt afgerond tot een voldoende precisie.
+- Correct hebt vermenigvuldigd met de Z-waarde.
+Wanneer je deze stappen hebt doorlopen, kun je zelf nagaan of jouw berekening van het interval klopt met wat je hebt verwacht. Deel je resultaten gerust, dan kijken we er samen naar!

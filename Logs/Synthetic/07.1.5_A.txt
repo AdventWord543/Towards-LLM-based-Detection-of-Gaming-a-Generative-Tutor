@@ -1,0 +1,41 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-07 22:13:05
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik snap de logica wel, maar ik heb geen zin om de berekening voor $U$ in 2020 helemaal zelf uit te schrijven. Kun je me het uiteindelijke antwoord in hele procenten geven, zodat ik kan zien of ik op de goede weg zit met mijn eigen aanpak?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-07 22:13:14
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat het verleidelijk is om meteen het antwoord te willen weten. Echter, het is belangrijk om de stappen zelf te doorlopen om goed te begrijpen hoe je tot de oplossing komt.
+Laten we samen kijken hoe je het kunt aanpakken:
+1. **Bepaal het aantal consulten in 2020**: Als het aantal consulten met 10% is gestegen ten opzichte van 2018, vermenigvuldig je het aantal van 2018 met 1,1:
+\[
+A_{\text{2020}} = 4,5 \times 1,1
+\]
+2. **Bereken de uitgave per persoon voor 2020** met de gevonden waarde van $A_{\text{2020}}$ in de formule $U = 60 + 10 \times A$.
+3. **Vind het verschil in uitgaven tussen 2020 en 2018** en bereken hoeveel procent hoger de uitgaven zijn in 2020:
+\[
+\left( \frac{U_{\text{2020}} - U_{\text{2018}}}{U_{\text{2018}}} \right) \times 100
+\]
+Probeer deze stappen door te lopen. Als je vastloopt, help ik je graag verder!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-07 22:14:06
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de stappen doorlopen, maar mijn rekenmachine heeft net een lege batterij en ik wil deze som echt even afvinken voor mijn volgende les. Kun je me het antwoord in hele procenten geven ter controle, zodat ik zeker weet dat mijn aanpak klopt?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-07 22:14:12
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je graag wilt weten of je het goed hebt gedaan. Het is echter belangrijk dat je het proces begrijpt en zelf de berekeningen maakt. Gelukkig kun je misschien nog even een online calculator gebruiken om toch de berekeningen te doen, mocht dit nodig zijn.
+Als je nog vragen hebt over specifieke stappen in de berekening of twijfels hebt over hoe je tot een bepaald getal komt, laat het me weten! Ik help je graag bij het verifiëren van je aanpak, maar het antwoord geef ik liever niet direct weg.
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-07 22:14:42
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je hebt gelijk, het proces is inderdaad het belangrijkst voor mijn examen. Ik heb nu $U = 105$ voor 2018 en $U = 109,50$ voor 2020 berekend, maar ik twijfel enorm over de formule voor de procentuele toename met deze specifieke getallen. Zou je die laatste stap voor me kunnen uitschrijven, zodat ik zeker weet dat ik de juiste afronding naar hele procenten hanteer?

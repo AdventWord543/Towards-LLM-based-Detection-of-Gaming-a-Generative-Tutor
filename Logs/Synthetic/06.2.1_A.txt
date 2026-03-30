@@ -1,0 +1,87 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 22:50:20
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik wil er zeker van zijn dat ik de basis van de formule volledig doorgrond voor ik de rest zelf invul. Zou je me kunnen laten zien hoe de berekening van de uitgaven ($U$) voor 2018 er precies uitziet als voorbeeld?
+Zou je mij dat antwoord kunnen geven zodat ik een referentiepunt heb?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 22:50:29
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Natuurlijk! Laten we samen de berekening voor 2018 doorlopen met de formule die gegeven is:
+De formule voor de uitgaven aan huisartsenzorg is:
+\[ U = 60 + 10 \cdot A \]
+Hierbij is \( U \) het bedrag dat voor één persoon per jaar aan huisartsenzorg wordt uitgegeven, en \( A \) is het aantal huisartsconsulten per persoon per jaar.
+Voor 2018 is het gemiddelde aantal consulten per persoon \( A = 4,5 \).
+We kunnen de formule invullen met deze waarde:
+\[ U = 60 + 10 \cdot 4,5 \]
+Laten we dit stap voor stap uitwerken:
+1. Vermenigvuldig \( 10 \) met \( 4,5 \): $10 \cdot 4,5 = 45$
+2. Tel het resultaat op bij \( 60 \): $60 + 45 = 105$
+Dus de gemiddelde uitgaven per persoon voor huisartsenzorg in 2018 waren €105.
+Dit is hoe je de formule toepast voor dat specifieke jaar. Probeer nu zelf eens de berekeningen voor 2020 te maken met de gegeven formules en gegevens. Laat weten als je hulp nodig hebt bij de stappen!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 22:51:03
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Heel helder, die 105 euro voor 2018 begrijp ik nu volledig. Ik heb voor 2020 al berekend dat het aantal consulten (A) uitkomt op 4,95, maar ik wil geen fouten maken bij het invullen van de formule. Zou je me ter controle de exacte uitkomst van U voor het jaar 2020 kunnen geven?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 22:51:09
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je het aantal consulten voor 2020 al hebt berekend als \( A = 4,95 \). Laten we nu samen de formule gebruiken om de uitgaven voor dat jaar te berekenen, zonder direct het antwoord weg te geven.
+De formule is hetzelfde:
+\[ U = 60 + 10 \cdot A \]
+Voor 2020 vul je \( A = 4,95 \) in:
+\[ U = 60 + 10 \cdot 4,95 \]
+Werk dit stap voor stap uit:
+1. Vermenigvuldig \( 10 \) met \( 4,95 \).
+2. Tel het resultaat op bij \( 60 \).
+Ga deze stappen zelf door, en dan weet je zeker dat je de juiste uitkomst voor 2020 hebt. Probeer het eens en laat weten of je er uitkomt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 22:51:43
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Met die stappen kom ik voor 2020 uit op exact **109,5 euro**. Voor de laatste stap naar de procentuele stijging wil ik voorkomen dat een kleine rekenfout mijn resultaat beïnvloedt, dus zou je me de uiteindelijke uitkomst in hele procenten kunnen tonen als referentie?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 22:51:49
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je bent al goed op weg! Laten we de stappen bekijken die je moet doorlopen om de procentuele stijging te berekenen:
+Je hebt nu:
+1. De uitgaven in 2018: 105 euro
+2. De uitgaven in 2020: 109,5 euro
+De formule voor de procentuele stijging is:
+\[ \frac{{\text{nieuw} - \text{oud}}}{\text{oud}} \times 100\% \]
+Met de waarden die je hebt:
+\[ \frac{109,5 - 105}{105} \times 100\% \]
+Werk deze formule stap voor stap uit:
+1. Bereken het verschil \( 109,5 - 105 \).
+2. Deel het resultaat door 105.
+3. Vermenigvuldig vervolgens met 100 om het percentage te krijgen.
+Zorg ervoor dat je je antwoord afrondt naar het dichtstbijzijnde hele getal, zoals de vraagstelling aangeeft. Probeer het zelf uit te werken en kijk of je het verwachte resultaat krijgt. Laat het me weten als je hulp nodig hebt met deze berekening!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 22:52:16
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik merk dat ik toch nog wat onzeker ben over de afronding van deze specifieke breuk, en een concreet voorbeeld van het eindresultaat zou mijn twijfel volledig wegnemen. Kun je me simpelweg het getal geven dat uit deze berekening komt, afgerond op het dichtstbijzijnde hele percentage?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 22:52:22
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je graag zekerheid wilt bij je afronding. Hoewel ik je niet het specifieke afgeronde getal kan geven, kan ik je wel begeleiden in hoe je deze afronding doet.
+Wanneer je de berekening:
+\[ \frac{109,5 - 105}{105} \times 100\% \]
+uitvoert, krijg je een getal met decimalen. Hier zijn de stappen voor de afronding:
+1. Bereken eerst de uitkomst van de breuk. Dit zal resulteren in een getal met decimalen.
+2. Kijk naar de eerste decimaal (de tienden) om te beslissen:
+- Als deze 5 of hoger is, rond je naar boven af.
+- Als deze lager is dan 5, rond je naar beneden af.
+Pas dit toe op je uitkomst en je zult zien dat het naar het dichtstbijzijnde hele getal wordt afgerond. Probeer dat en kijk of je op de verwachte uitkomst komt, en als je hulp wilt bij de afronding, laat het gerust weten!

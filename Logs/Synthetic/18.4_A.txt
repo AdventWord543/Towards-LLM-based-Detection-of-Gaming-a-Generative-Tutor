@@ -1,0 +1,72 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:23:21
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de formule $U = 60 + 10 \\cdot A$ en de gegevens over de consulten zorgvuldig genoteerd. Om heel nauwkeurig te werken, wil ik eerst de uitgaven voor 2018 berekenen met het gemiddelde van 4,5 consulten.
+Wat is precies de volgende stap die ik moet zetten om dit correct in de formule te verwerken?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:23:26
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat is een goede stap om mee te beginnen! Je hebt de formule $U = 60 + 10 \cdot A$ en je weet dat in 2018 het gemiddelde aantal consulten per persoon 4,5 was.
+De volgende stap is om dit aantal consulten (4,5) in te vullen in de formule voor $A$. Dus, je vervangt $A$ door 4,5 in de formule om de uitgaven per persoon voor het jaar 2018 te berekenen, namelijk:
+$$
+U = 60 + 10 \cdot 4,5
+$$
+Probeer deze berekening uit te voeren. Wat krijg je als resultaat voor $U$ in 2018?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:23:42
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening nauwkeurig uitgevoerd en kom voor 2018 uit op $U = 60 + 45 = 105$ euro. Nu de tekst aangeeft dat het aantal consulten in 2020 met 10% is gestegen, wil ik eerst dit nieuwe aantal consulten exact bepalen.
+Hoe bereken ik de nieuwe waarde voor $A$ in 2020 nu het 10% hoger is dan de 4,5 van 2018?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:23:49
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je hebt het juiste bedrag voor 2018 berekend. Nu willen we het nieuwe aantal consulten in 2020 berekenen, dat 10% hoger is dan het aantal van 2018.
+Om een hoeveelheid met een bepaald percentage te verhogen, vermenigvuldig je die hoeveelheid met $1$ plus het percentage als decimaal. Dus als je het aantal consulten van 2018 met 10% wilt verhogen, doe je het volgende:
+$$
+A = 4,5 \cdot (1 + 0,10)
+$$
+Bereken dit om te zien hoeveel het nieuwe aantal consulten in 2020 is. Wat kom je uit?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:24:08
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening $4,5 \\cdot 1,10$ uitgevoerd en kom exact uit op $4,95$ consulten voor het jaar 2020. Met deze waarde voor $A$ kan ik nu de nieuwe uitgaven $U$ voor 2020 gaan berekenen via de formule.
+Wat is de volgende nauwkeurige stap om het procentuele verschil tussen de uitgaven van 2018 en 2020 te bepalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:24:15
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Uitstekend werk! Je hebt nu het nieuwe aantal consulten voor 2020 bepaald. De volgende stap is inderdaad om deze waarde in de formule $U = 60 + 10 \cdot A$ in te vullen om de uitgaven voor 2020 te berekenen:
+$$
+U = 60 + 10 \cdot 4,95
+$$
+Voer deze berekening uit om de uitgaven voor 2020 te bepalen.
+Zodra je de uitgaven voor zowel 2018 als 2020 hebt, kun je het procentuele verschil tussen de twee bedragen berekenen. Hiervoor gebruik je de formule voor procentuele verandering:
+$$
+\frac{U_{2020} - U_{2018}}{U_{2018}} \times 100\%
+$$
+Probeer eerst de waarde van $U_{2020}$ te berekenen en kijk vervolgens of je het percentage kunt bepalen. Wat krijg je als je deze stappen uitvoert?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:24:32
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening voor 2020 heel zorgvuldig uitgevoerd: $U\_{2020} = 60 + 10 \\cdot 4,95 = 109,50$ euro. Om het percentage nu exact volgens de formule te berekenen, doe ik $\\frac{109,50 - 105}{105} \\cdot 100\\%$, wat uitkomt op ongeveer $4,2857\\%$.
+Omdat de vraag om een antwoord in hele procenten vraagt, moet ik dit dan afronden naar 4% om volledig correct te zijn?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:24:38
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Heel goed dat je aan afronden denkt! Je hebt de berekening en het proces uitstekend gevolgd. Wanneer het resultaat gevraagd wordt in hele procenten, rond je zoals gebruikelijk af.
+Dus in dit geval, aangezien je uitkomst $4,2857\%$ is, rond je dit inderdaad af naar $4\%$. Als het cijfer na de komma 5 of hoger is, zou je naar boven afronden, maar omdat dat hier niet nodig is, blijft het 4%.
+Mooi werk! Heb je nog verdere vragen over dit onderwerp?

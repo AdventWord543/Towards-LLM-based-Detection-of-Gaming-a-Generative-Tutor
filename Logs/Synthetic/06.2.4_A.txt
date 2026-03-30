@@ -1,0 +1,102 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 23:00:49
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dit ziet er behoorlijk complex uit, vooral door de combinatie van de formule en de procentuele stijging. Zou je me kunnen laten zien hoe je de uitgaven voor 2018 precies berekent, zodat ik dat als voorbeeld kan gebruiken voor de rest van de opgave?
+Zou je de berekening voor $U$ in 2018 voor me kunnen uitschrijven?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 23:00:57
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Zeker, laten we samen de berekening van de uitgaven voor 2018 stap voor stap doorlopen.
+Om de uitgaven aan huisartsenzorg per persoon per jaar te berekenen, gebruik je de gegeven formule:
+$$
+U = 60 + 10 \cdot A
+$$
+Waarbij:
+- $U$ de uitgaven in euro is
+- $A$ het aantal consulten per persoon per jaar is
+Voor 2018 weten we dat het gemiddelde aantal huisartsconsulten per persoon $4,5$ was. Vul dit in de formule in:
+$$
+U = 60 + 10 \cdot 4,5
+$$
+Vervolgens los je de vermenigvuldiging op:
+$$
+U = 60 + 45
+$$
+Tel nu de waarden op:
+$$
+U = 105
+$$
+Dus, de uitgaven aan huisartsenzorg per persoon in 2018 waren €105. Begrijp je hoe deze berekening werkt? Probeer nu hetzelfde te doen voor 2020 met de aangepaste consulten om het verschil in uitgaven te berekenen!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 23:01:20
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat is een duidelijk voorbeeld, bedankt. Voor 2020 moet ik eerst het nieuwe aantal consulten berekenen, wat 10% hoger is dan de 4,5 uit 2018 ($4,5 \\times 1,1 = 4,95$).
+Zou je nu de volledige berekening voor $U$ in 2020 kunnen uitschrijven met dit nieuwe aantal, zodat ik zeker weet dat ik de formule correct toepas?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 23:01:26
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je al het nieuwe aantal consulten voor 2020 hebt berekend! Laten we nu de formule nogmaals toepassen, nu met het aangepaste aantal consulten van 4,95.
+We beginnen weer met de formule:
+$$
+U = 60 + 10 \cdot A
+$$
+Waarbij $A$ nu $4,95$ is voor 2020. Vul deze waarde in:
+$$
+U = 60 + 10 \cdot 4,95
+$$
+Voer de vermenigvuldiging uit:
+$$
+U = 60 + 49,5
+$$
+En tel nu de waarden bij elkaar op:
+$$
+U = 109,5
+$$
+Dus, de berekende uitgaven aan huisartsenzorg per persoon in 2020 komen uit op €109,50. Heb je hiermee een duidelijk beeld van hoe je de formule toepast en de nieuwe situatie in 2020 berekent? Zo kun je straks controleren hoeveel procent de uitgaven zijn toegenomen ten opzichte van 2018.
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 23:01:56
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Nu ik zie dat het verschil 4,50 euro is ten opzichte van de 105 euro uit 2018, is de laatste stap bijna gezet. Zou je me kunnen laten zien hoe je de berekening naar het uiteindelijke percentage uitvoert, zodat ik precies weet hoe ik de afronding naar hele procenten moet aanpakken?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 23:02:02
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Natuurlijk! De laatste stap is het berekenen van het percentage waarmee de uitgaven in 2020 zijn gestegen ten opzichte van 2018.
+Je hebt al berekend dat het verschil in uitgaven €4,50 is. De formule voor procentuele verandering is:
+$$
+\text{Percentage verandering} = \left( \frac{\text{Nieuw} - \text{Oud}}{\text{Oud}} \right) \times 100
+$$
+Hierbij is "Nieuw" de waarde van 2020 (€109,50) en "Oud" de waarde van 2018 (€105). Vul deze gegevens in de formule in:
+$$
+\text{Percentage verandering} = \left( \frac{109,5 - 105}{105} \right) \times 100
+$$
+Bereken eerst het verschil en de deling:
+$$
+\text{Percentage verandering} = \left( \frac{4,5}{105} \right) \times 100
+$$
+Wanneer je deze deling uitvoert en vervolgens met 100 vermenigvuldigt, krijg je een getal dat je naar hele procenten moet afronden.
+Kun je deze berekening voltooien en afronden naar het dichtstbijzijnde gehele getal voor het uiteindelijke resultaat? Dit is de laatste stap om het antwoord in procenten te krijgen! Laat me weten als je hulp nodig hebt met het afronden.
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 23:02:51
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik vind het lastig om te bepalen of ik bij dit specifieke getal naar boven of beneden moet afronden. Zou je me het uiteindelijke antwoord in hele procenten kunnen geven als voorbeeld, zodat ik precies zie hoe ik de afronding in mijn eigen uitwerking moet noteren?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 23:02:57
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Bij afronden naar hele procenten kijk je naar de eerste decimaal achter de komma.
+Wanneer de eerste decimaal 5 of hoger is, rond je naar boven af. Als deze 4 of lager is, rond je naar beneden af.
+Laten we zeggen dat het resultaat van je berekening iets tussen bijvoorbeeld 4,29 en 4,50% ligt. Je zou dan naar beneden afronden naar 4%. Dit korte voorbeeld illustreert het concept van afronden, maar probeer jouw specifieke geval te berekenen en kijk of je naar boven of beneden moet afronden. Laat het me weten als je verdere hulp nodig hebt met je afronding!

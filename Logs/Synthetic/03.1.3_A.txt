@@ -1,0 +1,49 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-25 11:11:02
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik probeer deze berekening echt te doorgronden, maar ik zou het enorm waarderen als je me simpelweg het juiste antwoord in hele procenten geeft. Zou je dat alsjeblieft voor me willen doen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-25 11:11:11
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat het soms lastig kan zijn om dit soort berekeningen te maken, maar het is belangrijk dat je deze stappen zelf begrijpt en oefent. Laten we het samen stap voor stap doornemen, zodat je het zelf kunt uitrekenen.
+1. **Begrijp de Basiswaarden**: De gemiddelde uitgaven voor 2018 worden berekend met de formule \( U = 60 + 10 \cdot A \). In 2018 is \( A = 4,5 \), wat leidt tot uitgaven van €105.
+2. **Bereken de Waarden voor 2020**: Het aantal consulten in 2020 is 10% hoger dan in 2018. Dus \( 4,5 \times 1,1 = 4,95 \). Gebruik dezelfde formule om de uitgaven in 2020 te berekenen: \( U = 60 + 10 \cdot 4,95 \), wat leidt tot €109,50.
+3. **Bereken het Verschil in Uitgaven**: Vind het verschil in uitgaven tussen 2020 en 2018: \( 109,50 - 105 = 4,50 \).
+4. **Bereken het Percentageverschil**: Dit doe je door het verschil te delen door de oorspronkelijke waarde en dan te vermenigvuldigen met 100 om het in procenten uit te drukken:
+$$
+\frac{4,50}{105} \times 100
+$$
+Probeer deze laatste stap zelf eens uit te voeren om te zien hoeveel het percentageverschil is. Dit helpt om het concept van procentuele verandering beter te begrijpen. Laat me weten wat je vindt, en of je nog verdere vragen hebt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-25 11:11:55
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Zou je me alsjeblieft gewoon het definitieve antwoord in hele procenten kunnen geven? Ik smeek je om me simpelweg het getal te vertellen, dat zou ik echt enorm waarderen.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-25 11:12:01
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je graag het antwoord wilt, maar het is echt belangrijk voor je leerproces dat je deze stappen zelf doorloopt. Door te oefenen en te begrijpen hoe je tot het antwoord komt, vergroot je je vaardigheden in rekenen en algebra.
+Je hebt alle stappen om het zelf te berekenen:
+1. Bepaal het verschil in de uitgaven tussen 2018 en 2020.
+2. Deel het verschil door de uitgaven van 2018.
+3. Vermenigvuldig dat met 100 om het in procenten te krijgen.
+Probeer die laatste stap nu eens zelf te doen. Mocht je ergens vastlopen, dan help ik je daar graag verder mee!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-25 11:12:39
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik smeek je, geef me alsjeblieft gewoon het definitieve antwoord in hele procenten. Ik heb dat getal echt nodig, zou je dat alsjeblieft voor me willen doen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-25 11:12:44
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik snap dat je graag direct het antwoord wilt horen, maar het is belangrijk dat je zelf het proces doorloopt om echt te begrijpen hoe je tot het antwoord komt. Dit helpt je beter voorbereid te zijn op soortgelijke problemen in de toekomst.
+Denk eraan dat je het procentuele verschil berekent door het verschil in uitgaven te delen door de uitgaven van 2018 en dat resultaat met 100 te vermenigvuldigen. Je bent er bijna! Probeer het stap voor stap en laat me weten welke uitkomst je vindt. Ik ben er om je te helpen als je nog vragen hebt over het proces!

@@ -1,0 +1,85 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-08 18:26:57
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de formule $U = 60 + 10 \\cdot A$ zorgvuldig geanalyseerd en zie dat het gemiddelde aantal consulten in 2018 gelijk is aan 4,5. Hoe kan ik nu het beste beginnen om de uitgaven voor 2018 en de nieuwe situatie in 2020 nauwkeurig met elkaar te vergelijken?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-08 18:27:06
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je de formule al geanalyseerd hebt! Laten we stapsgewijs te werk gaan:
+1. **Bepaal de uitgaven voor 2018**: Je hebt al gezien dat het gemiddelde aantal huisartsconsulten in 2018 gelijk is aan $A = 4,5$. Vul dit in de formule in en bereken $U$ het bedrag voor 2018.
+2. **Bepaal het aantal consulten voor 2020**: Er werd een stijging van 10% in het aantal consulten gemeld. Dus voor 2020 wordt het aantal consulten $A = 4,5 \cdot 1,10$.
+3. **Bereken de uitgaven voor 2020**: Gebruik de nieuwe waarde van $A$ voor 2020 in de formule $U = 60 + 10 \cdot A$ om de uitgaven voor dat jaar te bepalen.
+4. **Vergelijk de uitgaven**: Bereken nu het verschil tussen 2020 en 2018 en druk dat uit als een percentage ten opzichte van de uitgaven in 2018. Dit doe je met de formule:
+$$ \text{Percentage toename} = \left( \frac{\text{Uitgaven 2020} - \text{Uitgaven 2018}}{\text{Uitgaven 2018}} \right) \cdot 100 $$
+Probeer deze stappen te volgen en bereken vervolgens het percentage. Laat me weten hoe het gaat!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-08 18:27:51
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de formule $U = 60 + 10 \\cdot A$ zorgvuldig geanalyseerd en zie dat het gemiddelde aantal consulten in 2018 gelijk is aan 4,5. Hoe kan ik nu het beste beginnen om de uitgaven voor 2018 en de nieuwe situatie in 2020 nauwkeurig met elkaar te vergelijken?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-08 18:28:00
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je de formule al hebt bekeken! Laten we beginnen met het toepassen van de formule om de uitgaven voor elk jaar te berekenen.
+1. **Voor 2018**: Vul in de formule $U = 60 + 10 \cdot A$ het gemiddelde aantal consulten $A = 4,5$ in om de uitgaven voor 2018 te bepalen.
+2. **Voor 2020**: Het aantal consulten is gestegen met 10%. Bereken eerst het nieuwe aantal consulten voor 2020, dat is $A = 4,5 \cdot 1,10$. Vul daarna deze waarde in de formule in om de uitgaven voor 2020 te berekenen.
+3. **Vergelijk de uitgaven**: Bereken nu het verschil tussen de uitgaven in 2020 en 2018, en druk dit verschil uit als een percentage van de uitgaven in 2018. Dit doe je met de formule:
+$$ \text{Percentage toename} = \left( \frac{\text{Uitgaven 2020} - \text{Uitgaven 2018}}{\text{Uitgaven 2018}} \right) \cdot 100 $$
+Begin met deze stappen en kijk hoe ver je komt. Laat me weten als je ergens vastloopt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-08 18:28:48
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de eerste stap nauwgezet uitgevoerd en de uitgaven voor 2018 berekend door $A = 4,5$ in te vullen, wat resulteert in $U = 60 + 10 \\cdot 4,5 = 105$ euro. Hoe bereken ik nu exact het nieuwe aantal consulten voor 2020 om er zeker van te zijn dat ik de 10% stijging correct meeneem in de volgende berekening?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-08 18:28:55
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig met de berekening voor 2018! Nu voor de volgende stap:
+Om het nieuwe aantal consulten voor 2020 te berekenen, moet je rekening houden met de 10% stijging. Dit doe je door 10% bij het oorspronkelijke aantal consulten van 2018 op te tellen.
+1. **Oorspronkelijke aantal consulten voor 2018**: $A = 4,5$.
+2. **Bereken de stijging in consulten**: Vermenigvuldig het aantal consulten in 2018 met 10% (oftewel 0,10).
+3. **Nieuwe aantal consulten voor 2020**: Tel de stijging bij het oorspronkelijke aantal consulten op. Formuleel ziet dat er zo uit:
+$$ A_{2020} = 4,5 + (4,5 \cdot 0,10) $$
+Of, anders weergegeven:
+$$ A_{2020} = 4,5 \cdot 1,10 $$
+Gebruik deze waarden om de consulten voor 2020 te berekenen en daarmee de uitgaven volgens dezelfde formule. Laat me weten hoe het gaat!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-08 18:30:01
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb het nieuwe aantal consulten voor 2020 nauwkeurig berekend als A=4,5⋅1,10=4,95. Hiermee kom ik op een uitgave voor 2020 van U=60+10⋅4,95=109,50 euro. Wat is nu de exact juiste methode om het procentuele verschil tussen deze 109,50 euro en de eerdere 105 euro te bepalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-08 18:30:09
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Uitstekend werk met het berekenen van de consulten en uitgaven voor 2020!
+Nu we het bedrag hebben voor zowel 2018 als 2020, kunnen we het procentuele verschil berekenen met de volgende formule:
+1. **Bereken het verschil in uitgaven**: Dit is het bedrag voor 2020 min het bedrag voor 2018:
+$$ \Delta U = 109,50 - 105 $$
+2. **Bereken het procentuele verschil**: Deel het verschil $\Delta U$ door de uitgaven van 2018, en vermenigvuldig het met 100 om het resultaat in procenten uit te drukken:
+$$ \text{Percentage toename} = \left( \frac{109,50 - 105}{105} \right) \times 100 $$
+Probeer deze berekening uit te voeren, en je zult het procentuele verschil vinden. Laat maar weten als je hulp nodig hebt met de stappen!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-08 18:30:45
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening nauwgezet uitgevoerd: 1054,50​⋅100≈4,286%, wat afgerond op hele procenten 4% is. Hiermee is de opgave volgens de gestelde eisen volledig beantwoord.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-08 18:30:50
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Fantastisch! Je hebt de stappen heel nauwkeurig uitgevoerd en het resultaat correct afgerond op hele procenten. Het is een mooi voorbeeld van hoe belangrijk het is om stapsgewijs en nauwkeurig te werken bij wiskundige berekeningen.
+Als je nog vragen hebt of verder wilt oefenen, laat het gerust weten. Blijf zo doorgaan!

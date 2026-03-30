@@ -1,0 +1,54 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 22:27:21
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begin met het nauwkeurig berekenen van de uitgaven voor 2018 door het gemiddelde aantal consulten van 4,5 in de formule in te vullen. Voor 2018 kom ik uit op een bedrag van $U = 60 + 10 \\times 4,5 = 105$ euro aan gemiddelde uitgaven per persoon.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 22:27:28
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat heb je helemaal goed gedaan! Je hebt de formule correct toegepast om de uitgaven voor 2018 te berekenen. De volgende stap is om te berekenen hoeveel de uitgaven in 2020 waren. Je weet dat het gemiddelde aantal huisartsconsulten per persoon in 2020 10% hoger was dan in 2018.
+Probeer nu te berekenen wat het gemiddelde aantal consulten in 2020 was, en gebruik die waarde in de formule om de uitgaven voor 2020 te berekenen. Als je dat hebt gedaan, kun je de procentuele stijging berekenen. Kom je er niet uit, laat het me weten dan help ik je verder!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 22:27:50
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Om het gemiddelde aantal consulten in 2020 te bepalen, vermenigvuldig ik de 4,5 consulten uit 2018 met 1,1, wat resulteert in precies 4,95 consulten. Vervolgens bereken ik de uitgaven voor 2020 door dit getal in de formule in te vullen: $U = 60 + 10 \\times 4,95 = 109,5$ euro.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 22:27:59
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je hebt het juiste aantal voor de consulten in 2020 berekend, namelijk 4,95, en dit correct toegepast in de formule om de uitgaven voor 2020 te berekenen. De volgende stap is nu om de procentuele stijging van de uitgaven van 2018 naar 2020 te berekenen.
+Denk eraan dat je de procentuele stijging kunt berekenen met de formule:
+$$
+\text{Procentuele stijging} = \left(\frac{\text{Nieuwe waarde} - \text{Oude waarde}}{\text{Oude waarde}}\right) \times 100
+$$
+Probeer nu de stijging te berekenen met de bedragen die je hebt gevonden voor de jaren 2018 en 2020. Als je vragen hebt, stel ze gerust!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 22:28:32
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de waarden 105 en 109,5 zorgvuldig bepaald, maar ik vind de stap naar een afronding in hele procenten nogal onzeker. Zou je me het definitieve antwoord alsjeblieft kunnen geven, zodat ik zeker weet dat mijn eindresultaat volledig foutloos is?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 22:28:39
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat afronding soms een beetje lastig kan zijn. Het is belangrijk om te vertrouwen op je eigen berekeningen. Wanneer je de procentuele stijging hebt berekend, krijg je een decimaal getal. Dit getal rond je af naar het dichtstbijzijnde gehele getal.
+Dus nadat je de procentuele stijging volgens de eerder genoemde formule hebt berekend, kijk naar de cijfers achter de komma en bepaal of je naar boven of beneden moet afronden. Probeer het even en laat me weten wat je uitkomt. Dan kan ik je verder helpen met het afronden indien nodig!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 22:29:56
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik bereken de procentuele stijging door het verschil tussen de nieuwe waarde en de oude waarde te delen door de oude waarde: $\\frac{109,5 - 105}{105} \\times 100$. Dit levert een resultaat op van ongeveer $4,2857\\%$. Als ik dit, zoals gevraagd, nauwkeurig afrond op hele procenten, kom ik uit op een stijging van $4\\%$.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 22:30:03
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat heb je precies goed gedaan! Je hebt het verschil correct berekend, en de afronding naar het dichtstbijzijnde gehele getal is ook juist. Zo afronden naar 4% is precies wat wordt gevraagd in de context van de vraag. Goed werk! Als je nog meer vragen hebt of verder wilt oefenen, laat het gerust weten.

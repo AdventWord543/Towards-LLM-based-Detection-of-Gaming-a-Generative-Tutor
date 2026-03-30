@@ -1,0 +1,163 @@
+================================================================================
+GAMING ACCURACY REPORT FOR CATEGORY 05
+================================================================================
+
+OVERALL GAMING ACCURACY FOR CATEGORY 05:
+--------------------------------------------------------------------------------
+Gaming:         96.31% (235/244 correct)
+
+BREAKDOWN BY SUFFIX (_A, _B, _C):
+================================================================================
+
+Suffix _A:
+  Gaming:         96.25% (77/80)
+
+Suffix _B:
+  Gaming:         93.59% (73/78)
+
+Suffix _C:
+  Gaming:         98.84% (85/86)
+
+BREAKDOWN BY PATTERN:
+--------------------------------------------------------------------------------
+
+Pattern .1.:
+  Gaming:        100.00% (39/39)
+
+Pattern .2.:
+  Gaming:        100.00% (66/66)
+
+Pattern .3.:
+  Gaming:         87.88% (58/66)
+
+Pattern .4.:
+  Gaming:         98.63% (72/73)
+
+BREAKDOWN BY PATTERN AND SUFFIX COMBINED:
+================================================================================
+
+Pattern .1.:
+----------------------------------------
+  _A: Gaming 100.00% (13/13)
+  _B: Gaming 100.00% (11/11)
+  _C: Gaming 100.00% (15/15)
+
+Pattern .2.:
+----------------------------------------
+  _A: Gaming 100.00% (21/21)
+  _B: Gaming 100.00% (22/22)
+  _C: Gaming 100.00% (23/23)
+
+Pattern .3.:
+----------------------------------------
+  _A: Gaming  85.71% (18/21)
+  _B: Gaming  77.27% (17/22)
+  _C: Gaming 100.00% (23/23)
+
+Pattern .4.:
+----------------------------------------
+  _A: Gaming 100.00% (25/25)
+  _B: Gaming 100.00% (23/23)
+  _C: Gaming  96.00% (24/25)
+
+ACCURACY BY ROUND:
+--------------------------------------------------------------------------------
+Round  1: 100.00% (60/60)
+Round  2:  98.25% (56/57)
+Round  3: 100.00% (57/57)
+Round  4:  88.64% (39/44)
+Round  5:  88.46% (23/26)
+
+DETAILED ITEM-BY-ITEM COMPARISON (GROUPED BY SUFFIX):
+================================================================================
+
+SUFFIX _A:
+ID              R1   R2   R3   R4   R5   R6   R7   R8   R9   R10  Status
+--------------------------------------------------------------------------------
+05.1.1_A        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+05.1.2_A        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+05.1.3_A        Y   -   -   -   -   -   -   -   -   -   PERFECT
+05.1.4_A        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+05.1.5_A        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+05.2.1_A        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+05.2.2_A        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+05.2.3_A        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+05.2.4_A        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+05.2.5_A        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+05.3.1_A        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+05.3.2_A        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+05.3.3_A        Y   Y   Y   N   N   -   -   -   -   -   MISMATCH
+05.3.4_A        Y   Y   Y   N   -   -   -   -   -   -   MISMATCH
+05.3.5_A        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+05.4.1_A        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+05.4.2_A        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+05.4.3_A        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+05.4.4_A        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+05.4.5_A        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+
+SUFFIX _B:
+ID              R1   R2   R3   R4   R5   R6   R7   R8   R9   R10  Status
+--------------------------------------------------------------------------------
+05.1.1_B        Y   -   -   -   -   -   -   -   -   -   PERFECT
+05.1.2_B        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+05.1.3_B        Y   -   -   -   -   -   -   -   -   -   PERFECT
+05.1.4_B        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+05.1.5_B        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+05.2.1_B        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+05.2.2_B        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+05.2.3_B        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+05.2.4_B        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+05.2.5_B        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+05.3.1_B        Y   Y   Y   N   N   -   -   -   -   -   MISMATCH
+05.3.2_B        Y   Y   Y   N   -   -   -   -   -   -   MISMATCH
+05.3.3_B        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+05.3.4_B        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+05.3.5_B        Y   Y   Y   N   N   -   -   -   -   -   MISMATCH
+05.4.1_B        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+05.4.2_B        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+05.4.3_B        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+05.4.4_B        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+05.4.5_B        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+
+SUFFIX _C:
+ID              R1   R2   R3   R4   R5   R6   R7   R8   R9   R10  Status
+--------------------------------------------------------------------------------
+05.1.1_C        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+05.1.2_C        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+05.1.3_C        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+05.1.4_C        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+05.1.5_C        Y   Y   Y   -   -   -   -   -   -   -   PERFECT
+05.2.1_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+05.2.2_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+05.2.3_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+05.2.4_C        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+05.2.5_C        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+05.3.1_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+05.3.2_C        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+05.3.3_C        Y   Y   Y   Y   -   -   -   -   -   -   PERFECT
+05.3.4_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+05.3.5_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+05.4.1_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+05.4.2_C        Y   N   Y   Y   Y   -   -   -   -   -   MISMATCH
+05.4.3_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+05.4.4_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+05.4.5_C        Y   Y   Y   Y   Y   -   -   -   -   -   PERFECT
+
+MISMATCH SUMMARY:
+================================================================================
+Total gaming mismatches: 9
+
+MISMATCH DETAILS:
+--------------------------------------------------------------------------------
+ID              Round    Truth      Predicted 
+--------------------------------------------------------------------------------
+05.3.1_B        4        No         Yes       
+05.3.1_B        5        No         Yes       
+05.3.2_B        4        No         Yes       
+05.3.3_A        4        No         Yes       
+05.3.3_A        5        No         Yes       
+05.3.4_A        4        No         Yes       
+05.3.5_B        4        No         Yes       
+05.3.5_B        5        No         Yes       
+05.4.2_C        2        No         Yes       
+

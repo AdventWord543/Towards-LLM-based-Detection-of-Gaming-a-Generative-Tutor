@@ -1,0 +1,59 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 16:20:16
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de opgave zorgvuldig bestudeerd en de relevante gegevens genoteerd. Ik begrijp dat ik de steekproefproportie eerst nauwkeurig moet berekenen, maar ik twijfel over de exacte formule voor de foutmarge.
+Zou je een voorbeeld kunnen geven van hoe ik de standaardafwijking voor deze proportie correct opstel?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 16:20:23
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je de gegevens hebt genoteerd en al een begin hebt gemaakt met het berekenen van de steekproefproportie. Om de foutmarge en daarmee het betrouwbaarheidsinterval te berekenen, is het essentieel om de standaardfout van de steekproefproportie te kennen.
+De standaarddeviatie of standaardfout van een steekproefproportie \( \hat{p} \) wordt als volgt berekend:
+$$\text{SE}(\hat{p}) = \sqrt{\frac{\hat{p}(1-\hat{p})}{n}}$$
+Waarbij:
+- \( \hat{p} \) de steekproefproportie is. In jouw geval is dat \( \frac{1530}{3260} \).
+- \( n \) de steekproefgrootte is, in deze opgave \( 3260 \).
+De foutmarge voor een 95%-betrouwbaarheidsinterval wordt berekend door deze standaardfout te vermenigvuldigen met de Z-waarde die bij een 95%-interval hoort (meestal ongeveer 1,96).
+Dus, als je eenmaal de standaardfout hebt berekend, kun je de foutmarge vinden en daarmee het betrouwbaarheidsinterval bepalen. Probeer eerst de standaardfout op te stellen met de gegevens die je hebt en kijk of je de volgende stap kunt maken. Laat me weten als je hier hulp bij nodig hebt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 16:20:37
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de steekproefproportie nauwkeurig berekend als $\\hat{p} = \\frac{1530}{3260} \\approx 0,4693$ en dit vervolgens in de formule voor de standaardfout ingevuld. Mijn berekening voor de standaardfout is $\\sigma = \\sqrt{\\frac{0,4693 \\cdot (1 - 0,4693)}{3260}} \\approx 0,0087$.
+Hoe moet ik nu precies die z-waarde van 1,96 gebruiken om tot het definitieve interval te komen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 16:20:46
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan met het berekenen van de steekproefproportie en de standaardfout! Nu dat je de standaardfout \( \sigma \approx 0,0087 \) hebt, kun je deze gebruiken om de foutmarge te berekenen voor het 95%-betrouwbaarheidsinterval.
+Je vermenigvuldigt de standaardfout met de Z-waarde die hoort bij een 95% betrouwbaarheidsinterval, welke inderdaad 1,96 is. Dat ziet er zo uit:
+$$
+\text{Foutmarge} = 1,96 \times \sigma = 1,96 \times 0,0087
+$$
+Bereken deze foutmarge en gebruik het om de grenzen van het betrouwbaarheidsinterval te bepalen door de steekproefproportie \( \hat{p} \) te corrigeren met de foutmarge:
+$$
+\text{Ondergrens} = \hat{p} - \text{Foutmarge}
+$$
+$$
+\text{Bovengrens} = \hat{p} + \text{Foutmarge}
+$$
+Zorg ervoor dat je de resultaten tot twee decimalen afrondt voor je uiteindelijke antwoord. Probeer dit eens uit te rekenen en laat me weten als je ergens vastloopt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 16:21:02
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de foutmarge berekend door de z-waarde te vermenigvuldigen: $1,96 \\cdot 0,0087 \\approx 0,0171$.
+Na het zorgvuldig aftrekken en optellen van deze marge bij de steekproefproportie $0,4693$, kom ik uit op een ondergrens van $0,4522$ en een bovengrens van $0,4864$.
+Als ik dit volgens de instructie afrond op twee decimalen, is het betrouwbaarheidsinterval dan $\[0,45; 0,49\]$?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 16:21:07
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat klopt! Je hebt zowel de foutmarge als het betrouwbaarheidsinterval correct berekend. Door de foutmarge bij de steekproefproportie op te tellen en ervan af te trekken, heb je de onder- en bovengrens bepaald, en deze correct afgerond op twee decimalen. Jouw uiteindelijke betrouwbaarheidsinterval is inderdaad \([0,45; 0,49]\). Goed gedaan!
+Mocht je hier verder vragen over hebben, dan hoor ik het graag.

@@ -1,0 +1,15 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-25 12:02:55
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening voor dit interval zojuist voltooid en wil mijn uitkomst graag controleren. Kun je me de exacte grenzen in twee decimalen geven, zodat ik zeker weet dat mijn afronding correct is?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-25 12:03:02
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat het prettig is om je antwoord te controleren, maar voor het beste leerresultaat is het belangrijk dat je zelf blijft oefenen met het afronden en berekenen van het betrouwbaarheidsinterval. Hier zijn wel enkele tips om te controleren of je berekeningen kloppen:
+1. **Steekproefproportie**: Begin met het berekenen van de steekproefproportie door het aantal scholieren met een bijbaantje (1530) te delen door het totale aantal scholieren in de steekproef (3260). Dit moet ongeveer 0,469 zijn.
+2. **Standaardfout**: Bereken de standaardfout met de formule $\sqrt{\frac{p(1-p)}{n}}$, waarbij $p$ de steekproefproportie is en $n$ het steekproefgrootte.
+3. **Grens van het betrouwbaarheidsinterval**: Gebruik voor het 95%-betrouwbaarheidsinterval de formule $p \pm z \cdot \text{standaardfout}$, waarbij $z$ de z-score is die hoort bij een 95% betrouwbaarheidsinterval (meestal ongeveer 1,96).
+Controleer of je deze stappen goed hebt uitgevoerd en je grenzen ongeveer tussen 0,45 en 0,49 liggen, zoals het antwoordmodel aangeeft. Probeer nog een keer zelf te checken of je op dezelfde grenzen uitkomt. Als je twijfelt over een specifieke stap, laat het me weten, dan help ik je graag verder!

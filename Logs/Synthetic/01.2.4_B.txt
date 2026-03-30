@@ -1,0 +1,67 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 13:19:24
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de gegevens uit de tekst gehaald en het lijkt me verstandig om te starten met het bepalen van de steekproefproportie. Kunt u voor mij berekenen wat de exacte waarde is van de proportie $\\hat{p}$ voor de 1530 scholieren op het totaal van 3260?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 13:19:30
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je bent goed bezig door te beginnen met het berekenen van de steekproefproportie $\hat{p}$. Deze proportie wordt berekend door het aantal scholieren met een bijbaantje te delen door het totale aantal scholieren in de steekproef. In dit geval is dat:
+$$
+\hat{p} = \frac{1530}{3260}
+$$
+Wanneer je dit berekent, krijg je een decimaal getal. Probeer het zelf uit te rekenen en geef het resultaat in twee decimalen. Laat me weten wat je hebt berekend, dan kunnen we daarna verder kijken naar het berekenen van het betrouwbaarheidsinterval.
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 13:19:59
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening uitgevoerd en kom uit op p^​≈0,47. Wat is nu de volgende specifieke waarde of formule die ik moet gebruiken om het betrouwbaarheidsinterval verder te berekenen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 13:20:03
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Prima, je hebt $\hat{p} \approx 0,47$ berekend. De volgende stap is om het 95%-betrouwbaarheidsinterval te berekenen. Hierbij gebruik je de formule:
+$$
+\hat{p} \pm z \cdot \sqrt{\frac{\hat{p}(1 - \hat{p})}{n}}
+$$
+Waarbij:
+- $\hat{p}$ de steekproefproportie is,
+- $z$ de z-score is die overeenkomt met een 95% betrouwbaarheidsinterval,
+- $n$ het aantal waarnemingen in de steekproef is (in dit geval 3260).
+De z-score voor een 95% betrouwbaarheidsinterval is meestal 1,96. Vul nu deze waarden in en reken het interval uit. Laat maar weten of je hulp nodig hebt bij de berekeningen!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 13:20:28
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de waarden ingevuld en de foutmarge berekend op ongeveer 0,017. Kunt u me nu vertellen wat de exacte waarden van de ondergrens en de bovengrens zijn voor dit 95%-betrouwbaarheidsinterval?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 13:20:33
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je de foutmarge hebt berekend! Nu kun je de onder- en bovengrens bepalen van het 95%-betrouwbaarheidsinterval door de foutmarge toe te passen op je steekproefproportie.
+De ondergrens is $\hat{p} - \text{foutmarge}$ en de bovengrens is $\hat{p} + \text{foutmarge}$.
+Dus:
+- Ondergrens: $0,47 - 0,017$
+- Bovengrens: $0,47 + 0,017$
+Reken deze grenzen uit tot op twee decimalen. Laat me weten wat je resultaten zijn, en dan kunnen we verder bespreken of dit interval logisch is in je context.
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 13:21:03
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Wat zijn de definitieve waarden van het 95%-betrouwbaarheidsinterval als we deze resultaten afronden op twee decimalen zoals in de opdracht wordt gevraagd?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 13:21:09
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Nu je de onder- en bovengrens hebt berekend, kun je ze afronden op twee decimalen zoals gevraagd.
+- Voor de ondergrens $0,47 - 0,017$, rond het resultaat af op twee decimalen.
+- Voor de bovengrens $0,47 + 0,017$, rond ook dit resultaat af op twee decimalen.
+Voer deze afrondingen uit, en je hebt het definitieve 95%-betrouwbaarheidsinterval. Laat me weten wat je gevonden hebt!

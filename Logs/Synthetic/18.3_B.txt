@@ -1,0 +1,76 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:30:55
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de gegevens uit de tekst gehaald: er zijn 3260 scholieren in totaal en 1530 daarvan hebben een bijbaantje. Wat is nu de allereerste berekening die ik moet uitvoeren om de steekproefproportie precies te bepalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:31:00
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Prima, je hebt de juiste gegevens verzameld! Om te beginnen met het berekenen van het 95%-betrouwbaarheidsinterval, moet je eerst de steekproefproportie bepalen. Dit doe je door het aantal scholieren met een bijbaantje te delen door het totale aantal scholieren in de steekproef.
+De formule hiervoor is:
+$$
+\text{Steekproefproportie} = \frac{\text{Aantal scholieren met een bijbaantje}}{\text{Totaal aantal scholieren in de steekproef}}
+$$
+Vul nu de getallen in en reken dit uit. Wat krijg je als resultaat?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:31:19
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Als ik $1530$ deel door $3260$, kom ik uit op een steekproefproportie van ongeveer $0{,}4693$. Wat is de volgende specifieke formule die ik nu moet gebruiken om de foutmarge voor dit 95%-betrouwbaarheidsinterval nauwkeurig te berekenen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:31:28
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Mooi werk, je hebt de steekproefproportie correct berekend! De volgende stap is om de foutmarge (ook wel standaardfout genoemd) te berekenen voor het 95%-betrouwbaarheidsinterval.
+De formule voor de standaardfout van een proportie is:
+$$
+\text{Standaardfout} = \sqrt{\frac{\hat{p}(1 - \hat{p})}{n}}
+$$
+waarbij $\hat{p}$ jouw steekproefproportie is en $n$ het totale aantal scholieren in de steekproef is. Dus, vul de waarden in om de standaardfout te berekenen. Probeer het maar; wat kom je dan uit?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:31:48
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de waarden ingevuld in de formule voor de standaardfout: $\\sqrt{\\frac{0{,}4693 \\cdot (1 - 0{,}4693)}{3260}}$ en daar komt ongeveer $0{,}00874$ uit. Hoe gebruik ik dit getal nu precies in combinatie met de z-score voor een 95%-betrouwbaarheidsinterval om de grenzen van het interval te bepalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:31:53
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Uitstekend, je hebt de standaardfout correct berekend! De volgende stap is het bepalen van de grenzen van het 95%-betrouwbaarheidsinterval. Hiervoor gebruik je de z-score die hoort bij een 95% betrouwbaarheid, wat meestal 1,96 is.
+De formule voor de grenzen van het betrouwbareheidsinterval is:
+$$
+\text{Steekproefproportie} \pm (z \times \text{Standaardfout})
+$$
+Vul de z-score van 1,96 en je berekende standaardfout in deze formule in. Bereken dan de bovengrens en ondergrens van het interval. Wat krijg je als resultaat?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:32:56
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de vermenigvuldiging van $1{,}96 \\times 0{,}00874$ gedaan en dat is $0{,}01713$, maar kunt u stap voor stap uitleggen hoe ik dit nu precies verreken met de $0{,}4693$ om de uiteindelijke grenzen te vinden? Ik wil heel secuur te werk gaan zodat de afronding op twee decimalen dadelijk perfect klopt.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:33:05
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Natuurlijk, laten we het stap voor stap doornemen. Je hebt al de juiste stap gezet door de foutmarge ($0{,}01713$) te berekenen. Nu ga je deze foutmarge gebruiken om de grenzen van het 95%-betrouwbaarheidsinterval te bepalen.
+1. **Bepaal de ondergrens van het interval:**
+- Neem de steekproefproportie ($0{,}4693$) en trek de foutmarge ($0{,}01713$) af:
+$$
+\text{Ondergrens} = 0{,}4693 - 0{,}01713 = 0{,}45217
+$$
+2. **Bepaal de bovengrens van het interval:**
+- Neem de steekproefproportie ($0{,}4693$) en tel de foutmarge ($0{,}01713$) op:
+$$
+\text{Bovengrens} = 0{,}4693 + 0{,}01713 = 0{,}48643
+$$
+3. **Rond beide grenzen af op twee decimalen:**
+- Ondergrens: $0{,}45217$ wordt afgerond naar $0{,}45$
+- Bovengrens: $0{,}48643$ wordt afgerond naar $0{,}49$
+Dit geeft je dus het 95%-betrouwbaarheidsinterval: $\left[0{,}45; 0{,}49\right]$. Controleren of je afronding klopt en dat deze netjes op twee decimalen is uitgevoerd, is ook erg belangrijk. Welk resultaat kom jij uiteindelijk op uit?

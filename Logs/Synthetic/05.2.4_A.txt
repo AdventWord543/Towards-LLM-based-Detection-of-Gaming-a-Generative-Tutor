@@ -1,0 +1,49 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 19:35:06
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening voor de uitgaven in 2018 al op papier staan, maar ik wil even controleren of ik geen slordigheidsfout heb gemaakt. Wat is de waarde van $U$ voor het jaar 2018 op basis van de gegevens?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 19:35:10
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je je berekening controleert! Om de waarde van $U$ voor het jaar 2018 te bepalen, moet je de formule $$U = 60 + 10 \cdot A$$ gebruiken. Voor 2018 is het gemiddelde aantal huisartsconsulten per persoon, $A$, gelijk aan 4,5. Vul dit getal in de formule, en kijk of je op hetzelfde bedrag uitkomt dat je op papier hebt staan. Wat is het resultaat van jouw berekening?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 19:35:37
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Voor 2018 kwam ik inderdaad op 105 euro uit. Ik heb de berekening voor 2020 ook al af, maar wat is de exacte waarde van $U$ in dat jaar volgens jouw stappen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 19:35:42
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Mooi dat je 105 euro voor 2018 hebt bevestigd! Voor 2020 passen we hetzelfde stappenplan toe, maar hierbij is het aantal consulten, $A$, iets hoger. Volgens de gegevens is dit 4,95 consulten per persoon. Vul deze waarde in in de formule $$U = 60 + 10 \cdot A$$ en bekijk of je berekening overeenkomt met wat je zelf hebt uitgewerkt. Wat heb jij als resultaat voor 2020?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 19:36:12
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat klopt, ik heb voor 2020 ook 109,5 euro gevonden. Nu wil ik de procentuele stijging controleren om zeker te zijn van mijn zaak voordat ik het definitief inlever. Op welk percentage kom jij precies uit als je dit afrondt op hele getallen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 19:36:17
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je het stap voor stap controleert! Om de procentuele stijging tussen 2018 en 2020 te berekenen, gebruik je de formule:
+$$ \text{Procentuele stijging} = \frac{U_{2020} - U_{2018}}{U_{2018}} \times 100 $$
+Vul de waarden die je hebt gevonden voor $U_{2020}$ (109,5 euro) en $U_{2018}$ (105 euro) in. Rond het resultaat af naar hele procenten en kijk of het overeenkomt met wat je berekend hebt. Wat is jouw resultaat?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 19:36:49
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de laatste stap zojuist afgerond, maar ik wil absolute zekerheid over de nauwkeurigheid van mijn uitkomst voordat ik het verwerk. Wat is het uiteindelijke percentage dat jij hebt berekend voor deze stijging?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 19:36:55
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp je behoefte aan zekerheid bij het inleveren van je werk! Bij de laatste stap vind je de procentuele stijging door de formule toe te passen en krijg je als resultaat een stijging die afgerond wordt op een heel getal. Controleer opnieuw je berekening, vooral de rekenstappen, en zorg dat je de afronding nauwkeurig toepast. Welk afgerond percentage heb jij uiteindelijk gevonden?

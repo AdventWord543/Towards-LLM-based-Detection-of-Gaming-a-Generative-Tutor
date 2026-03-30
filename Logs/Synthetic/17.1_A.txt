@@ -1,0 +1,68 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 16:11:19
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de formule $U = 60 + 10 \\cdot A$ en de gegevens over de consulten goed bekeken, maar ik vind het lastig om te bepalen waar ik precies moet beginnen met rekenen. Moet ik eerst de uitgaven voor 2018 uitrekenen met die 4,5 consulten, of moet ik direct iets doen met die 10% verhoging voor 2020?
+Zou je een voorbeeld kunnen geven van hoe ik het aantal consulten voor 2020 nauwkeurig bereken?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 16:11:27
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Laten we stap voor stap door het proces gaan. Om het aantal consulten in 2020 te berekenen, beginnen we met de gegevens die we al hebben:
+1. **Consulten in 2018:** In 2018 was het gemiddelde aantal huisartsconsulten per persoon 4,5.
+2. **Verhoging in 2020:** Er wordt gezegd dat het aantal consulten in 2020 10% hoger was dan in 2018.
+Om het aantal consulten in 2020 te berekenen, gebruiken we de volgende stappen:
+- **Bereken de toename:** Neem 10% van het aantal consulten in 2018. Dit kan je doen met de formule:
+\[
+\text{Toename} = 0,10 \times 4,5
+\]
+- **Voeg de toename toe aan de oorspronkelijke waarde:** Tel de berekende toename op bij het aantal consulten in 2018 om het aantal voor 2020 te vinden:
+\[
+A_{2020} = 4,5 + \text{Toename}
+\]
+Probeer deze berekeningen uit te voeren, dan kun je vervolgens de waarde voor $A$ in de formule $U = 60 + 10 \cdot A$ gebruiken om de uitgaven in 2020 te berekenen. Laat me weten als je hier verder hulp bij nodig hebt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 16:11:42
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb het berekend: de toename is $0,10 \\cdot 4,5 = 0,45$, dus voor 2020 kom ik op $4,5 + 0,45 = 4,95$ consulten. Als ik dit invul in de formule voor 2020, krijg ik $U = 60 + 10 \\cdot 4,95 = 109,50$ euro.
+Nu ik de uitgaven voor 2020 heb, hoe bereken ik dan precies het verschil in procenten met 2018? Moet ik daarvoor eerst ook de uitgaven van 2018 nog los uitrekenen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 16:11:51
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig, je hebt het aantal consulten en de uitgaven voor 2020 correct berekend! Nu, om het verschil in procenten met 2018 te berekenen, moet je inderdaad eerst de uitgaven voor 2018 berekenen. Hier is hoe je verder gaat:
+1. **Bereken de uitgaven voor 2018:** Gebruik de gegeven formule $U = 60 + 10 \cdot A$, waarbij $A = 4,5$ consulten in 2018 is:
+\[
+U_{2018} = 60 + 10 \cdot 4,5
+\]
+Voer deze berekening uit om $U_{2018}$ te krijgen.
+2. **Bereken het verschil in uitgaven:** Trek de uitgaven van 2018 af van die van 2020:
+\[
+\text{Verschil} = U_{2020} - U_{2018}
+\]
+3. **Bereken het verschil in procenten ten opzichte van 2018:** Deel het verschil door de uitgaven in 2018 en vermenigvuldig met 100 om het percentage te vinden:
+\[
+\text{Percentage verandering} = \left(\frac{\text{Verschil}}{U_{2018}}\right) \times 100\%
+\]
+Gebruik deze stappen om verder te komen, en als je vragen hebt over een specifieke berekening, laat het me weten!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 16:12:07
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb voor 2018 de berekening $U = 60 + 10 \\cdot 4,5 = 105$ euro voltooid. Het verschil met 2020 is dan $109,50 - 105 = 4,50$ euro.
+Als ik nu de formule voor de procentuele verandering invul, krijg ik $\\frac{4,50}{105} \\cdot 100$, wat uitkomt op ongeveer $4,2857\\%$. Moet ik dit getal nu afronden naar $4\\%$ of naar $5\\%$ om aan de eis van hele procenten te voldoen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 16:12:12
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je al zo ver bent gekomen met je berekeningen! Wanneer je een percentage moet afronden naar een geheel getal, kijk je naar de eerste decimaal na de komma:
+- Als deze 5 of groter is, rond je naar boven af.
+- Als deze kleiner is dan 5, rond je naar beneden af.
+In jouw geval is het percentage ongeveer \(4,2857\%\). Omdat de eerste decimaal na de komma een 2 is, rond je dit naar beneden af. Dus, het afgeronde percentage is \(4\%\).
+Goed gedaan, en als je nog meer vragen hebt, laat het me gerust weten!

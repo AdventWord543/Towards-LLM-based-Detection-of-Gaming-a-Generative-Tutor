@@ -1,0 +1,185 @@
+================================================================================
+DETAILED ACCURACY REPORT FOR CATEGORY 09
+================================================================================
+
+OVERALL ACCURACY FOR CATEGORY 09:
+--------------------------------------------------------------------------------
+Gaming:        100.00% (60/60 correct)
+G Cat:         100.00% (60/60 correct)
+S Cat:          98.33% (59/60 correct)
+
+BREAKDOWN BY SUFFIX (_A, _B, _C):
+================================================================================
+
+Suffix _A:
+  Gaming:        100.00% (20/20)
+  G Cat:         100.00% (20/20)
+  S Cat:         100.00% (20/20)
+
+Suffix _B:
+  Gaming:        100.00% (20/20)
+  G Cat:         100.00% (20/20)
+  S Cat:         100.00% (20/20)
+
+Suffix _C:
+  Gaming:        100.00% (20/20)
+  G Cat:         100.00% (20/20)
+  S Cat:          95.00% (19/20)
+
+BREAKDOWN BY PATTERN:
+--------------------------------------------------------------------------------
+
+Pattern .1.:
+  Gaming:        100.00% (15/15)
+  G Cat:         100.00% (15/15)
+  S Cat:         100.00% (15/15)
+
+Pattern .2.:
+  Gaming:        100.00% (15/15)
+  G Cat:         100.00% (15/15)
+  S Cat:          93.33% (14/15)
+
+Pattern .3.:
+  Gaming:        100.00% (15/15)
+  G Cat:         100.00% (15/15)
+  S Cat:         100.00% (15/15)
+
+Pattern .4.:
+  Gaming:        100.00% (15/15)
+  G Cat:         100.00% (15/15)
+  S Cat:         100.00% (15/15)
+
+BREAKDOWN BY PATTERN AND SUFFIX COMBINED:
+================================================================================
+
+Pattern .1.:
+----------------------------------------
+  _A: Gaming 100.00% (5/5), G Cat 100.00% (5/5), S Cat 100.00% (5/5)
+  _B: Gaming 100.00% (5/5), G Cat 100.00% (5/5), S Cat 100.00% (5/5)
+  _C: Gaming 100.00% (5/5), G Cat 100.00% (5/5), S Cat 100.00% (5/5)
+
+Pattern .2.:
+----------------------------------------
+  _A: Gaming 100.00% (5/5), G Cat 100.00% (5/5), S Cat 100.00% (5/5)
+  _B: Gaming 100.00% (5/5), G Cat 100.00% (5/5), S Cat 100.00% (5/5)
+  _C: Gaming 100.00% (5/5), G Cat 100.00% (5/5), S Cat  80.00% (4/5)
+
+Pattern .3.:
+----------------------------------------
+  _A: Gaming 100.00% (5/5), G Cat 100.00% (5/5), S Cat 100.00% (5/5)
+  _B: Gaming 100.00% (5/5), G Cat 100.00% (5/5), S Cat 100.00% (5/5)
+  _C: Gaming 100.00% (5/5), G Cat 100.00% (5/5), S Cat 100.00% (5/5)
+
+Pattern .4.:
+----------------------------------------
+  _A: Gaming 100.00% (5/5), G Cat 100.00% (5/5), S Cat 100.00% (5/5)
+  _B: Gaming 100.00% (5/5), G Cat 100.00% (5/5), S Cat 100.00% (5/5)
+  _C: Gaming 100.00% (5/5), G Cat 100.00% (5/5), S Cat 100.00% (5/5)
+
+DETAILED ITEM-BY-ITEM COMPARISON (GROUPED BY SUFFIX):
+================================================================================
+
+SUFFIX _A:
+ID              Gaming   GCat         SCat            Status    
+                T|P      Truth|Pred   Truth|Pred     
+--------------------------------------------------------------------------------
+09.1.1_A        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.1.2_A        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.1.3_A        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.1.4_A        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.1.5_A        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.2.1_A        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.2.2_A        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.2.3_A        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.2.4_A        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.2.5_A        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.3.1_A        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.3.2_A        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.3.3_A        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.3.4_A        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.3.5_A        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.4.1_A        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.4.2_A        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.4.3_A        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.4.4_A        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.4.5_A        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+
+SUFFIX _B:
+ID              Gaming   GCat         SCat            Status    
+                T|P      Truth|Pred   Truth|Pred     
+--------------------------------------------------------------------------------
+09.1.1_B        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.1.2_B        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.1.3_B        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.1.4_B        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.1.5_B        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.2.1_B        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.2.2_B        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.2.3_B        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.2.4_B        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.2.5_B        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.3.1_B        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.3.2_B        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.3.3_B        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.3.4_B        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.3.5_B        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.4.1_B        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.4.2_B        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.4.3_B        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.4.4_B        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.4.5_B        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+
+SUFFIX _C:
+ID              Gaming   GCat         SCat            Status    
+                T|P      Truth|Pred   Truth|Pred     
+--------------------------------------------------------------------------------
+09.1.1_C        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.1.2_C        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.1.3_C        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.1.4_C        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.1.5_C        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.2.1_C        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.2.2_C        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.2.3_C        Yes/Yes      Leadi/Leadi        Teacher/Verify          YYN MISMATCH
+09.2.4_C        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.2.5_C        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.3.1_C        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.3.2_C        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.3.3_C        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.3.4_C        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.3.5_C        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.4.1_C        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.4.2_C        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.4.3_C        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.4.4_C        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+09.4.5_C        Yes/Yes      Leadi/Leadi        Teacher/Teacher         YYY PERFECT
+
+MISMATCH SUMMARY:
+================================================================================
+Gaming mismatches: 0
+G Cat mismatches:  0
+S Cat mismatches:  1
+S Cat empty truth with predictions: 0
+
+MISMATCH BREAKDOWN BY SUFFIX:
+--------------------------------------------------------------------------------
+_A: Gaming=0, G Cat=0, S Cat=0, S Cat Empty->Pred=0
+_B: Gaming=0, G Cat=0, S Cat=0, S Cat Empty->Pred=0
+_C: Gaming=0, G Cat=0, S Cat=1, S Cat Empty->Pred=0
+
+SCAT MISMATCH ANALYSIS - MOST COMMON WRONG PREDICTIONS:
+================================================================================
+Total SCat mismatches: 1
+Unique wrong prediction patterns: 1
+
+Most common wrong predictions (sorted by frequency):
+--------------------------------------------------------------------------------
+Truth: Teacher         -> Predicted: Verify                  Count:   1 (100.0%)
+
+SCAT MISMATCH ANALYSIS BY SUFFIX:
+--------------------------------------------------------------------------------
+
+SUFFIX _C (Total SCat mismatches: 1):
+  Truth: Teacher         -> Predicted: Verify                Count:   1 (100.0%)
+
+

@@ -1,0 +1,35 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 13:08:38
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Eerst bereken ik de uitgaven voor 2018 met de gegeven formule: $U = 60 + 10 \\times 4,5 = 105$ euro. Daarnaast stel ik vast dat het aantal consulten in 2020 met 10% is gestegen, wat neerkomt op $4,5 \\times 1,10 = 4,95$ consulten. Zal ik nu deze nieuwe waarde invullen in de formule om de gemiddelde uitgaven voor 2020 te bepalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 13:08:43
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, dat klopt! Door de nieuwe waarde van het aantal consulten, namelijk $4,95$, in de formule in te vullen, kun je de gemiddelde uitgaven voor 2020 berekenen. De formule is $U = 60 + 10 \times A$. Dus vul $A = 4,95$ in om $U$ voor 2020 te vinden. Probeer het eens! Wat komt er uit?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 13:09:03
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de waarde nauwkeurig ingevuld: de uitgaven voor 2020 bedragen $U = 60 + 10 \\times 4,95 = 109,5$ euro. Nu ga ik het verschil van 4,5 euro delen door de oorspronkelijke 105 euro om de procentuele toename te berekenen. Is dit de juiste methode om de groei ten opzichte van 2018 te bepalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 13:09:08
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, je zit op de goede weg! Door het verschil (€4,5) te delen door het oorspronkelijke bedrag (€105) en het resultaat te vermenigvuldigen met 100, krijg je het percentage waarmee de uitgaven zijn gestegen ten opzichte van 2018. Dit is een gebruikelijke manier om een procentuele verandering te berekenen. Zorg ervoor dat je het nauwkeurig afrondt naar hele procenten als dat gevraagd wordt. Wat kom je uit als je deze berekening maakt?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 13:09:24
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik bereken het percentage nu uiterst zorgvuldig: $\\frac{4,5}{105} \\times 100 \\approx 4,2857\\%$. Omdat de vraag expliciet vraagt om af te ronden op hele procenten, kom ik uit op een stijging van exact 4%. Is dit het volledige en correcte antwoord op de vraag?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 13:09:28
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, dat heb je helemaal goed! Door het als ongeveer 4,2857% te berekenen en vervolgens af te ronden naar 4%, heb je de stijging in hele procenten bepaald, precies zoals de vraag stelt. Je hebt de concepten van procentuele toename en afronding correct toegepast. Goed gedaan! Heb je nog andere vragen over dit onderwerp?

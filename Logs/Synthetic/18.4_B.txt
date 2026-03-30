@@ -1,0 +1,72 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:34:01
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb alle gegevens uit de tekst zorgvuldig genoteerd om er zeker van te zijn dat ik geen enkel detail over het hoofd zie. Wat is de eerste stap die ik moet zetten om de steekproefproportie correct te berekenen voor deze opgave?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:34:08
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je de gegevens al genoteerd hebt! De eerste stap bij het berekenen van de steekproefproportie is het gebruiken van de formule voor een steekproefproportie, die luidt als:
+$$
+\hat{p} = \frac{x}{n}
+$$
+Waarbij:
+- \( \hat{p} \) de steekproefproportie is.
+- \( x \) het aantal successen in de steekproef is, oftewel het aantal scholieren met een bijbaantje.
+- \( n \) de totale steekproefgrootte is.
+In jouw geval heb je al vastgesteld dat \( x = 1530 \) en \( n = 3260 \). Reken dit uit en vergeet niet het resultaat in twee decimalen weer te geven. Wat kom je uit voor de steekproefproportie?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:34:36
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik kom na een zorgvuldige berekening uit op een steekproefproportie van 0,47. Welke specifieke formule moet ik nu gebruiken om de standaardfout te berekenen voor dit 95%-betrouwbaarheidsinterval?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:34:44
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je de steekproefproportie hebt berekend! De volgende stap is inderdaad het berekenen van de standaardfout (SE) van de steekproefproportie, die essentieel is voor het construeren van het betrouwbaarheidsinterval.
+De formule voor het berekenen van de standaardfout van een steekproefproportie is:
+$$
+SE = \sqrt{\frac{\hat{p} (1 - \hat{p})}{n}}
+$$
+Hierbij:
+- \( \hat{p} \) je eerder berekende steekproefproportie is.
+- \( n \) de steekproefgrootte is (in jouw geval 3260).
+Reken de standaardfout uit en let erop dat je de berekening nauwkeurig uitvoert. Wat krijg je als uitkomst voor de standaardfout?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:35:11
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de standaardfout heel nauwkeurig berekend en kom uit op ongeveer 0,0087. Hoe verwerk ik deze waarde en de z-score nu precies in de formule om tot de grenzen van het 95%-betrouwbaarheidsinterval te komen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:35:17
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Met de standaardfout in de hand kun je nu de grenzen van het 95%-betrouwbaarheidsinterval berekenen. Bij een 95% betrouwbaarheidsinterval gebruik je meestal een z-score van ongeveer 1,96.
+De formule voor het betrouwbaarheidsinterval is:
+$$
+\hat{p} \pm z \times SE
+$$
+waarbij:
+- \( \hat{p} \) de steekproefproportie is.
+- \( z \) de z-score is voor het gekozen betrouwbaarheidsniveau (voor 95% is dat 1,96).
+- \( SE \) de standaardfout is die je net berekend hebt.
+Door de bovengrens en ondergrens te berekenen met deze formule, krijg je de waarden die het betrouwbaarheidsinterval definiëren. Probeer de berekeningen en kijk welke grenzen je uitkomt.
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 18:35:40
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening heel zorgvuldig uitgevoerd en kom voor de ondergrens uit op $0,47 - (1,96 \\times 0,0087) \\approx 0,45$ en voor de bovengrens op $0,47 + (1,96 \\times 0,0087) \\approx 0,49$. Is dit de volledige en correcte weergave van het 95%-betrouwbaarheidsinterval in twee decimalen zoals gevraagd in de opgave?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 18:35:45
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat klinkt alsof je de berekening correct hebt uitgevoerd! Je hebt het betrouwbaarheidsinterval netjes in stappen berekend en de grenzen afgerond naar twee decimalen, wat in lijn is met wat er in de vraag gevraagd wordt. Zorg er altijd voor dat je bij het afronden naar twee decimalen kijkt of je ook de juiste significantie in interpretaties behoudt. Je resultaten, met de ondergrens van \(0,45\) en de bovengrens van \(0,49\), lijken inderdaad correct te zijn voor het 95%-betrouwbaarheidsinterval. Goed werk! Heb je nog vragen over het proces of de interpretatie?

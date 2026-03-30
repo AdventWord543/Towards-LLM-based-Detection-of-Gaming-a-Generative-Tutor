@@ -1,0 +1,193 @@
+================================================================================
+OVERALL ANALYSIS BY SUFFIX (_A, _B, _C)
+================================================================================
+
+SUFFIX _A:
+--------------------------------------------------------------------------------
+Gaming:         89.23% (232/260 correct)
+G Cat:          91.20% (197/216 correct)
+S Cat:          86.11% (186/216 correct)
+Total items:   260
+
+SUFFIX _B:
+--------------------------------------------------------------------------------
+Gaming:         86.54% (225/260 correct)
+G Cat:          88.68% (188/212 correct)
+S Cat:          83.96% (178/212 correct)
+Total items:   260
+
+SUFFIX _C:
+--------------------------------------------------------------------------------
+Gaming:         95.00% (247/260 correct)
+G Cat:          90.31% (205/227 correct)
+S Cat:          85.46% (194/227 correct)
+Total items:   260
+
+================================================================================
+OVERALL SCAT EMPTY TRUTH ANALYSIS - PREDICTIONS MADE WHEN TRUTH IS EMPTY
+================================================================================
+
+Total cases where SCat truth is empty but prediction was made: 11
+Unique predictions made: 3
+
+Most common predictions when truth is empty (sorted by frequency):
+--------------------------------------------------------------------------------
+Empty -> Verify               Count:   7 ( 63.6%)
+Empty -> Example              Count:   2 ( 18.2%)
+Empty -> Unable               Count:   2 ( 18.2%)
+
+EMPTY TRUTH ANALYSIS BY CATEGORY:
+--------------------------------------------------------------------------------
+Category 16:   1 cases (  9.1%)
+Category 17:   3 cases ( 27.3%)
+Category 18:   3 cases ( 27.3%)
+Category 19:   4 cases ( 36.4%)
+
+EMPTY TRUTH ANALYSIS BY SUFFIX:
+--------------------------------------------------------------------------------
+
+SUFFIX _A (Total empty truth cases: 4):
+  Empty -> Verify             Count:   2 ( 50.0%)
+  Empty -> Example            Count:   1 ( 25.0%)
+  Empty -> Unable             Count:   1 ( 25.0%)
+
+SUFFIX _B (Total empty truth cases: 7):
+  Empty -> Verify             Count:   5 ( 71.4%)
+  Empty -> Example            Count:   1 ( 14.3%)
+  Empty -> Unable             Count:   1 ( 14.3%)
+
+
+================================================================================
+OVERALL SCAT MISMATCH ANALYSIS - MOST COMMON WRONG PREDICTIONS
+================================================================================
+
+Total SCat mismatches across all categories: 97
+Unique wrong prediction patterns: 18
+
+Most common wrong predictions (sorted by frequency):
+--------------------------------------------------------------------------------
+Truth: Switch          -> Predicted: Emotion                 Count:  29 ( 29.9%)
+Truth: Polite          -> Predicted: Verify                  Count:  13 ( 13.4%)
+Truth: Unwilling       -> Predicted: Unable                  Count:  12 ( 12.4%)
+Truth: Begging         -> Predicted: Polite                  Count:   9 (  9.3%)
+Truth: Begging         -> Predicted: Emotion                 Count:   6 (  6.2%)
+Truth: Unwilling       -> Predicted: Polite                  Count:   5 (  5.2%)
+Truth: Emotion         -> Predicted: Unable                  Count:   4 (  4.1%)
+Truth: Unable          -> Predicted: Urgency                 Count:   4 (  4.1%)
+Truth: Demanding       -> Predicted: Verify                  Count:   2 (  2.1%)
+Truth: Begging         -> Predicted: Verify                  Count:   2 (  2.1%)
+Truth: Switch          -> Predicted: Polite                  Count:   2 (  2.1%)
+Truth: Emotion         -> Predicted: Begging                 Count:   2 (  2.1%)
+Truth: Unable          -> Predicted: Polite                  Count:   2 (  2.1%)
+Truth: Demanding       -> Predicted: Unwilling               Count:   1 (  1.0%)
+Truth: Unwilling       -> Predicted: Verify                  Count:   1 (  1.0%)
+Truth: Example         -> Predicted: Verify                  Count:   1 (  1.0%)
+Truth: Teacher         -> Predicted: Verify                  Count:   1 (  1.0%)
+Truth: Switch          -> Predicted: Begging                 Count:   1 (  1.0%)
+
+SCAT MISMATCH ANALYSIS BY SUFFIX:
+--------------------------------------------------------------------------------
+
+SUFFIX _A (Total SCat mismatches: 30):
+  Truth: Switch          -> Predicted: Emotion               Count:   8 ( 26.7%)
+  Truth: Polite          -> Predicted: Verify                Count:   6 ( 20.0%)
+  Truth: Begging         -> Predicted: Polite                Count:   5 ( 16.7%)
+  Truth: Unwilling       -> Predicted: Unable                Count:   4 ( 13.3%)
+  Truth: Begging         -> Predicted: Emotion               Count:   2 (  6.7%)
+  Truth: Switch          -> Predicted: Polite                Count:   2 (  6.7%)
+  Truth: Example         -> Predicted: Verify                Count:   1 (  3.3%)
+  Truth: Emotion         -> Predicted: Unable                Count:   1 (  3.3%)
+  Truth: Unwilling       -> Predicted: Polite                Count:   1 (  3.3%)
+
+SUFFIX _B (Total SCat mismatches: 34):
+  Truth: Switch          -> Predicted: Emotion               Count:  13 ( 38.2%)
+  Truth: Polite          -> Predicted: Verify                Count:   5 ( 14.7%)
+  Truth: Unwilling       -> Predicted: Unable                Count:   4 ( 11.8%)
+  Truth: Unable          -> Predicted: Urgency               Count:   3 (  8.8%)
+  Truth: Begging         -> Predicted: Emotion               Count:   3 (  8.8%)
+  Truth: Emotion         -> Predicted: Unable                Count:   2 (  5.9%)
+  Truth: Demanding       -> Predicted: Verify                Count:   1 (  2.9%)
+  Truth: Begging         -> Predicted: Polite                Count:   1 (  2.9%)
+  Truth: Begging         -> Predicted: Verify                Count:   1 (  2.9%)
+  Truth: Emotion         -> Predicted: Begging               Count:   1 (  2.9%)
+
+SUFFIX _C (Total SCat mismatches: 33):
+  Truth: Switch          -> Predicted: Emotion               Count:   8 ( 24.2%)
+  Truth: Unwilling       -> Predicted: Polite                Count:   4 ( 12.1%)
+  Truth: Unwilling       -> Predicted: Unable                Count:   4 ( 12.1%)
+  Truth: Begging         -> Predicted: Polite                Count:   3 (  9.1%)
+  Truth: Unable          -> Predicted: Polite                Count:   2 (  6.1%)
+  Truth: Polite          -> Predicted: Verify                Count:   2 (  6.1%)
+  Truth: Demanding       -> Predicted: Unwilling             Count:   1 (  3.0%)
+  Truth: Demanding       -> Predicted: Verify                Count:   1 (  3.0%)
+  Truth: Begging         -> Predicted: Verify                Count:   1 (  3.0%)
+  Truth: Begging         -> Predicted: Emotion               Count:   1 (  3.0%)
+  Truth: Unable          -> Predicted: Urgency               Count:   1 (  3.0%)
+  Truth: Unwilling       -> Predicted: Verify                Count:   1 (  3.0%)
+  Truth: Teacher         -> Predicted: Verify                Count:   1 (  3.0%)
+  Truth: Emotion         -> Predicted: Begging               Count:   1 (  3.0%)
+  Truth: Emotion         -> Predicted: Unable                Count:   1 (  3.0%)
+  Truth: Switch          -> Predicted: Begging               Count:   1 (  3.0%)
+
+
+================================================================================
+SUFFIX BREAKDOWN BY PATTERN (Categories 01-14 only)
+================================================================================
+
+SUFFIX _A:
+--------------------------------------------------------------------------------
+  Pattern .1.:
+    Gaming:        100.00% (60/60)
+    G Cat:          91.67% (55/60)
+    S Cat:          83.33% (50/60)
+  Pattern .2.:
+    Gaming:         95.00% (57/60)
+    G Cat:          87.72% (50/57)
+    S Cat:          85.96% (49/57)
+  Pattern .3.:
+    Gaming:         65.00% (39/60)
+    G Cat:          89.74% (35/39)
+    S Cat:          82.05% (32/39)
+  Pattern .4.:
+    Gaming:        100.00% (60/60)
+    G Cat:          95.00% (57/60)
+    S Cat:          91.67% (55/60)
+
+SUFFIX _B:
+--------------------------------------------------------------------------------
+  Pattern .1.:
+    Gaming:        100.00% (60/60)
+    G Cat:          91.67% (55/60)
+    S Cat:          81.67% (49/60)
+  Pattern .2.:
+    Gaming:         96.67% (58/60)
+    G Cat:          82.76% (48/58)
+    S Cat:          81.03% (47/58)
+  Pattern .3.:
+    Gaming:         58.33% (35/60)
+    G Cat:          82.86% (29/35)
+    S Cat:          80.00% (28/35)
+  Pattern .4.:
+    Gaming:         98.33% (59/60)
+    G Cat:          94.92% (56/59)
+    S Cat:          91.53% (54/59)
+
+SUFFIX _C:
+--------------------------------------------------------------------------------
+  Pattern .1.:
+    Gaming:        100.00% (60/60)
+    G Cat:          91.67% (55/60)
+    S Cat:          86.67% (52/60)
+  Pattern .2.:
+    Gaming:        100.00% (60/60)
+    G Cat:          86.67% (52/60)
+    S Cat:          80.00% (48/60)
+  Pattern .3.:
+    Gaming:         78.33% (47/60)
+    G Cat:          89.36% (42/47)
+    S Cat:          87.23% (41/47)
+  Pattern .4.:
+    Gaming:        100.00% (60/60)
+    G Cat:          93.33% (56/60)
+    S Cat:          88.33% (53/60)
+

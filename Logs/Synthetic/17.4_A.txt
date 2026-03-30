@@ -1,0 +1,50 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 16:16:42
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de formule $U = 60 + 10 \\cdot A$ en de gegevens over de consulten in 2018 goed bestudeerd om geen fouten te maken. Ik begrijp dat ik eerst de uitgaven voor 2018 moet berekenen, maar hoe verwerk ik die $10\\%$ stijging precies in de formule voor het jaar 2020? Zou je een voorbeeld kunnen geven van hoe ik die nieuwe waarde voor $A$ nauwkeurig bepaal?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 16:16:50
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je de formule en gegevens al goed hebt bestudeerd! Laten we samen doornemen hoe je de $10\%$ stijging in het aantal consulten verwerkt.
+In 2018 was het gemiddelde aantal huisartsconsulten per persoon $A = 4,5$. Voor 2020 is het aantal consulten $10\%$ hoger. Om de nieuwe waarde voor $A$ in 2020 te berekenen, volg je deze stappen:
+1. Bereken $10\%$ van $4,5$:
+$$ 0,1 \times 4,5 = 0,45 $$
+2. Tel deze waardeverhoging op bij het oorspronkelijke aantal consulten van 2018:
+$$ 4,5 + 0,45 = 4,95 $$
+Dus, in 2020 is het gemiddelde aantal consulten $A = 4,95$.
+Vervolgens kun je dit in de formule $U = 60 + 10 \cdot A$ invullen om de uitgaven voor 2020 te bepalen. Probeer dit zelf eens uit en kijk of je de berekening kunt maken! Als je hulp nodig hebt om verder te gaan, laat het maar weten!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 16:17:06
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Bedankt voor de duidelijke uitleg, dat helpt me om nauwkeurig te blijven werken. Voor 2020 kom ik nu uit op $U = 60 + 10 \\cdot 4,95 = 109,50$ euro, en voor 2018 heb ik $U = 60 + 10 \\cdot 4,5 = 105$ euro berekend.
+Hoe bereken ik nu precies het procentuele verschil tussen deze twee bedragen om op het juiste percentage uit te komen? Zou je een voorbeeld kunnen geven van de formule die ik hiervoor moet gebruiken?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 16:17:12
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Uitstekend, je hebt de uitgaven goed berekend voor beide jaren!
+Om het procentuele verschil tussen de bedragen te berekenen, gebruik je de formule voor procentuele verandering. Deze formule is als volgt:
+$$ \text{Procentuele verandering} = \left( \frac{\text{Nieuw bedrag} - \text{Oud bedrag}}{\text{Oud bedrag}} \right) \times 100\% $$
+In jouw geval is het "Nieuwe bedrag" de uitgaven in 2020 (€109,50) en het "Oude bedrag" de uitgaven in 2018 (€105).
+Vervang de waarden in de formule:
+$$ \left( \frac{109,50 - 105}{105} \right) \times 100\% $$
+Probeer dit zelf eens uit te rekenen en kijk of je op de juiste procentuele verandering komt. Laat me weten als je hulp nodig hebt met de berekening!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 16:17:35
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de berekening nu zorgvuldig uitgevoerd: $\\frac{109,50 - 105}{105} \\times 100\\% = 4,2857...\\%$. Omdat de vraag vraagt om het antwoord in hele procenten, rond ik dit af naar $4\\%$.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 16:17:40
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gewerkt! Je hebt de berekening correct uitgevoerd en de procentuele toename juist afgerond naar hele procenten. Het is belangrijk om te beseffen hoe afrondingen werken binnen het context van examenvragen, vooral als ze specifiek vragen naar hele procenten.
+Door het percentage naar beneden af te ronden, houd je het bij $4\%$, want afronding gebeurt meestal naar het dichtstbijzijnde hele getal. Heb je verder nog vragen over dit proces of iets anders dat je wilt verduidelijken?

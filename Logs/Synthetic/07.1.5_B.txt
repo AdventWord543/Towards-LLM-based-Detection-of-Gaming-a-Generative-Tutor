@@ -1,0 +1,37 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-07 22:15:51
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp de theorie achter de steekproefproportie, maar ik heb geen zin om die complexe formule voor de standaardfout nu handmatig uit te voeren. Kun je de grenzen van het 95%-betrouwbaarheidsinterval voor me uitrekenen, zodat ik kan controleren of mijn logica klopt?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-07 22:16:04
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat het soms vervelend kan zijn om de gehele berekening stap voor stap te doorlopen, maar het is erg belangrijk om de methodologie achter statistische berekeningen zelf goed te begrijpen. Laten we samen kijken hoe je het betrouwbaarheidsinterval kunt vaststellen.
+1. **Bereken de steekproefproportie:** Je hebt 1530 scholieren met een bijbaantje en een totale steekproef van 3260 scholieren. Dus de steekproefproportie \( \hat{p} \) is $ \hat{p} = \frac{1530}{3260} $.
+2. **Bepaal de standaardfout (SE):** Deze wordt berekend met de formule:
+$$ \text{SE} = \sqrt{\frac{\hat{p}(1 - \hat{p})}{n}} $$
+waarbij \( n = 3260 \).
+3. **Bereken het betrouwbaarheidsinterval:** Voor een 95%-betrouwbaarheidsinterval gebruik je een z-score van ongeveer 1.96. De formule voor het interval wordt dan:
+$$ \hat{p} \pm 1.96 \times \text{SE} $$
+Probeer deze stappen zelf uit te rekenen. Als je ergens vastloopt, laat het weten, en ik begeleid je verder!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-07 22:16:54
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik waardeer de uitleg, maar mijn rekenmachine doet momenteel erg vreemd en ik vertrouw de output niet helemaal. Als jij de definitieve grenzen van het interval voor me uitschrijft, kan ik nagaan waar het in mijn eigen berekening misgaat.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-07 22:17:00
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Het kan frustrerend zijn als je rekenhulpmiddel niet meewerkt. Laten we beginnen met de berekeningen stap voor stap te analyseren, zodat je kunt identificeren waar het eventueel scheef loopt.
+1. **Steekproefproportie berekenen:** Dit heb je al gedaan: $ \hat{p} = 0.469 \ldots $
+2. **De standaardfout:** Hiervoor heb je de formule gebruikt:
+$$ \text{SE} = \sqrt{\frac{0.469 \times (1 - 0.469)}{3260}} $$
+Reken dit uit en controleer of je antwoord logisch is ten opzichte van wat je verwacht.
+3. **Betrouwbaarheidsinterval:** De complete formule is:
+$$ 0.469 \pm 1.96 \times \text{SE} $$
+Vergelijk de resultaten die je krijgt met wat je verwacht. Kijk vooral of de waarden rond $0.45$ en $0.49$ liggen, want dat zijn de verwachte grenzen. Als je ergens vastloopt, kun je me vragen om verder te begeleiden met een specifieke stap of concept.

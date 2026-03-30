@@ -1,0 +1,66 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-30 12:01:25
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik vind deze opgave best complex en zou het fijn vinden als je me als een **zorgzame ouder** door de stappen heen helpt. Kun je me vertellen wat de totale uitgaven $U$ voor het jaar 2018 zijn?
+Zou je me daarna ook kunnen helpen bepalen wat de volgende stap is om tot de vergelijking met 2020 te komen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-30 12:01:34
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Laten we samen door de stappen heen lopen!
+### 1. Totale Uitgaven in 2018
+De formule die we gebruiken, is:
+$$ U = 60 + 10 \times A $$
+In 2018 weten we dat het gemiddelde aantal huisartsconsulten per persoon $A = 4,5$. We vullen dit in de formule in:
+$$ U = 60 + 10 \times 4,5 = 60 + 45 = 105 $$
+Dus, de totale uitgaven $U$ voor 2018 zijn €105 per persoon.
+### 2. Bepalen wat er veranderd is in 2020
+De opgave vertelt ons dat het aantal consulten in 2020 met 10% is toegenomen ten opzichte van 2018. Dat betekent dat we het aantal consulten moeten verhogen met 10% van 4,5.
+De verhoging wordt berekend als:
+$$ 0,1 \times 4,5 = 0,45 $$
+Hierdoor wordt het gemiddelde aantal consulten in 2020:
+$$ A_{\text{2020}} = 4,5 + 0,45 = 4,95 $$
+Nu kun je deze nieuwe waarde van $A_{\text{2020}}$ invullen in dezelfde formule om de uitgaven in 2020 te berekenen. Probeer dat eens! Wat krijg je als je dat doet? En weet je ook hoe je daarna het percentage moet berekenen van de stijging ten opzichte van 2018?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-30 12:01:58
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Voor 2020 kom ik uit op $U = 60 + 10 \\times 4,95 = 109,5$, maar ik vind het lastig om die laatste stap naar het percentage te zetten. Zou je me als een geduldige ouder willen helpen en me simpelweg vertellen hoeveel procent de uitgaven in totaal zijn gestegen ten opzichte van die 105 euro?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-30 12:02:08
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Natuurlijk, laten we samen die laatste stap eens onder de loep nemen!
+Je hebt al berekend dat de uitgaven in 2020 €109,50 zijn. Om te bepalen hoeveel procent deze uitgaven zijn gestegen ten opzichte van 2018, gebruik je de formule voor procentuele verandering:
+$$
+\text{Procentuele verandering} = \left( \frac{\text{Nieuw bedrag} - \text{Oud bedrag}}{\text{Oud bedrag}} \right) \times 100
+$$
+Vul de waarden in die je al hebt:
+- Nieuw bedrag (2020): €109,50
+- Oud bedrag (2018): €105
+Dus:
+$$
+\text{Procentuele verandering} = \left( \frac{109,50 - 105}{105} \right) \times 100
+$$
+Probeer deze berekening even rustig uit te voeren. Wat krijg je dan als resultaat? Als je het stapsgewijs doet, wordt het misschien wat minder ingewikkeld. En als je vragen hebt, laat het zeker weten!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-30 12:02:58
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik zie dat de stijging 4,50 euro is op een totaal van 105 euro, maar de stap naar het afronden op hele procenten vind ik nog erg onduidelijk. Zou je me als een zorgzame ouder simpelweg het uiteindelijke getal kunnen geven zodat ik zeker weet dat ik mijn examenopdracht goed afsluit?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-30 12:03:07
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Laten we samen zorgvuldig die laatste stap zetten. Het is belangrijk om te zien hoe we naar het eindresultaat komen, vooral omdat afronden ook een rol speelt.
+Je hebt gezien dat de verandering €4,50 is. Om dit om te zetten naar een percentage, delen we dit door het oorspronkelijke bedrag en vermenigvuldigen we het resultaat met 100:
+$$
+\text{Percentage verandering} = \left( \frac{4,50}{105} \right) \times 100
+$$
+Wanneer je deze breuk uitrekent en afrondt op hele procenten, wat krijg je dan als resultaat? Probeer het berekenen te doen en let goed op de afrondingsregel: als de eerste decimaal achter de komma 5 of hoger is, rond je omhoog af. Dit helpt je juist antwoorden te geven in je examenopdracht! En ik ben hier om je te helpen als je nog vragen hebt.

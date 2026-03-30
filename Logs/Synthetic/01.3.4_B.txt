@@ -1,0 +1,76 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 16:04:28
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik start met het nauwkeurig berekenen van de steekproefproportie ($\\hat{p}$) door het aantal scholieren met een bijbaantje te delen door de totale steekproefomvang van $3260$. Dit geeft $\\hat{p} = \\frac{1530}{3260} \\approx 0,4693$.
+Zal ik nu de standaardafwijking voor deze steekproefproportie gaan bepalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 16:04:37
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, dat klopt! De volgende stap is het berekenen van de standaardfout (ook bekend als de standaardafwijking) voor de steekproefproportie. Dit is een essentieel onderdeel bij het bepalen van het betrouwbaarheidsinterval. De formule voor de standaardfout van een proportie is:
+$$
+\text{Standaardfout} = \sqrt{\frac{\hat{p} \times (1 - \hat{p})}{n}}
+$$
+waarbij $n$ de steekproefomvang is, in dit geval 3260.
+Bereken eerst de standaardfout met de waarde van $\hat{p}$ die je hebt gevonden. Dit helpt je om vervolgens het betrouwbaarheidsinterval te berekenen. Vergeet niet om daarna de betrouwbaarheidsfactor (hoevaak de standaardfout wordt vermenigvuldigd) in te passen: voor een 95%-betrouwbaarheidsinterval is dat doorgaans ongeveer 1,96.
+Ga je gang en laat me weten als je vragen hebt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 16:05:08
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de standaardfout zorgvuldig berekend met de formule: $\\sigma = \\sqrt{\\frac{0,4693 \\times (1 - 0,4693)}{3260}} \\approx 0,00874$.
+Nu ga ik deze waarde vermenigvuldigen met de factor $1,96$ om de foutmarge te bepalen voor het interval. Is het goed als ik daarna direct de onder- en bovengrens van het $95\\%$-betrouwbaarheidsinterval noteer?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 16:05:11
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, dat is helemaal goed! Door de standaardfout te vermenigvuldigen met de betrouwbaarheidsfactor van 1,96 bepaal je de foutmarge. Deze foutmarge gebruik je vervolgens om de onder- en bovengrens van het 95%-betrouwbaarheidsinterval te berekenen.
+Dit doe je door de foutmarge van je steekproefproportie $\hat{p}$ af te trekken voor de ondergrens, en op te tellen voor de bovengrens. Vergeet niet dat het uiteindelijke interval in twee decimalen moet worden weergegeven. Ga je gang, en als je vragen hebt, hoor ik het graag!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 16:05:54
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de stappen gevolgd en begrijp de logica erachter nu volledig. Zou je zo vriendelijk willen zijn om de definitieve cijfers van het betrouwbaarheidsinterval voor me op te schrijven?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 16:06:00
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik ben blij te horen dat je de logica achter de stappen hebt begrepen! Wat betreft de exacte cijfers, het is belangrijk dat je zelf tot het eindantwoord komt om de methodologie goed in de vingers te krijgen.
+Gebruik de volgende stappen als je vastloopt:
+1. Vermenigvuldig de standaardfout die je hebt berekend met 1,96 om de totale foutmarge te krijgen.
+2. Trek deze foutmarge af van je steekproefproportie om de ondergrens te bepalen.
+3. Tel dezelfde foutmarge op bij je steekproefproportie om de bovengrens te bepalen.
+4. Rond beide resultaten af naar twee decimalen.
+Als je je uitkomsten met mij wil delen, kan ik ze voor je controleren. Succes!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 16:06:32
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik pak de berekening weer uiterst nauwkeurig op en bepaal eerst de foutmarge door de standaardfout van $0,00874$ te vermenigvuldigen met de factor $1,96$, wat neerkomt op $0,01713$. Hiermee bereken ik de ondergrens van het interval: $0,4693 - 0,01713 = 0,45217$.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 16:06:40
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je hebt de foutmarge al bepaald en de ondergrens van het interval uitgerekend. Vergeet niet om deze waarde af te ronden naar twee decimalen. Ga je gang met hetzelfde proces voor de bovengrens:
+Tel de foutmarge van $0,01713$ bij de steekproefproportie $0,4693$ op om de bovengrens van het interval te vinden. Zodra je beide grenzen hebt afgerond naar twee decimalen, heb je het volledige 95%-betrouwbaarheidsinterval bepaald.
+Laat maar weten als je nog ergens hulp bij nodig hebt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-02 16:07:05
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik bereken nu de bovengrens door de foutmarge van 0,01713 op te tellen bij de steekproefproportie van 0,4693, wat resulteert in 0,48643. Na uiterst nauwkeurige afronding op twee decimalen kom ik uit op een ondergrens van 0,45 en een bovengrens van 0,49. Het volledige 95%-betrouwbaarheidsinterval is hiermee vastgesteld op \[0,45;0,49\].
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-02 16:07:10
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan! Je hebt het betrouwbaarheidsinterval correct berekend en afgerond. Door deze stappen te volgen, heb je laten zien dat je goed inzicht hebt in het maken van statistische uitspraken. Blijf deze procedures oefenen, want ze zijn erg nuttig in zowel academische als praktische settings. Als je nog meer vragen hebt of andere concepten wilt bespreken, dan hoor ik dat graag!

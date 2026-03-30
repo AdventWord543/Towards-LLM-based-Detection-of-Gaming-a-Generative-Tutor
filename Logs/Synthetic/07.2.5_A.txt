@@ -1,0 +1,80 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 01:17:19
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+De berekening voor 2018 is eenvoudig en komt uit op 105 euro, maar ik heb op dit moment weinig geduld voor het uitrekenen van die 10% stijging in consulten. Wat zijn de totale gemiddelde uitgaven (U) in 2020 als we die stijging meerekenen? Dan kan ik daarna zelf wel weer verder met de rest.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 01:17:52
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Laten we even stap voor stap nadenken over hoe je de stijging van het gemiddelde aantal consulten moet toepassen:
+1. Het gemiddelde aantal huisartsconsulten per persoon in 2018 was 4,5.
+2. In 2020 was dit aantal 10% hoger. Om te vinden wat dit betekent in aantal consulten, bereken je 10% van 4,5 en tel je dit resultaat op bij 4,5.
+Dus, eerst bereken je 10% van 4,5:
+\[
+10\% \times 4,5 = 0,45
+\]
+Dit betekent dat in 2020 het gemiddelde aantal consulten per persoon 4,5 + 0,45 = 4,95 was.
+Nu kun je deze waarde, 4,95, invullen in formule 1 voor 2020 om de gemiddelde kosten \( U \) te berekenen:
+\[
+U = 60 + 10 \times 4,95
+\]
+Ik moedig je aan om deze berekening zelf uit te voeren om te zien wat de totale uitgaven \( U \) zijn. Als je het eenmaal hebt gedaan, kun je verder met het berekenen hoeveel procent hoger de uitgaven in 2020 zijn vergeleken met 2018. Laat me weten als je nog vragen hebt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 01:18:36
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb echt geen zin om die formule voor 2020 zelf helemaal uit te rekenen, dat vind ik nogal saai werk. Wat is de exacte waarde van $U$ als we die 4,95 consulten invullen, zodat we daarna naar de procentuele stijging kunnen kijken?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 01:18:46
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat het soms als saai werk kan voelen, maar het zelf berekenen van de formule is een goede oefening om je vaardigheden in rekenen en algebra te versterken. Dus, laten we het samen oppakken. De formule voor de uitgaven is:
+\[
+U = 60 + 10 \times 4,95
+\]
+Vervang \(4,95\) in de formule en voer de berekening uit. Eerst vermenigvuldig je \(10\) met \(4,95\) en tel je het resultaat op bij \(60\). Dit is een goede kans om je rekenvaardigheden te testen!
+Als je dat gedaan hebt, kun je verder met het berekenen van de procentuele stijging in uitgaven van 2018 naar 2020. Laat me weten welke waarde je gevonden hebt, dan help ik je verder!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 01:19:22
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+De uitkomst 109,5 voor 2020 staat vast, maar ik heb geen zin om zelf die lastige procentuele vergelijking met de 105 euro uit 2018 uit te voeren. Wat is het uiteindelijke percentage, afgerond op hele getallen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 01:19:28
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Fijn dat je al zover bent gekomen! Nu zijn we bij het deel van de vergelijking waar je kunt berekenen hoeveel procent het bedrag in 2020 hoger is dan dat in 2018.
+De formule die je daarbij helpt is:
+\[
+\frac{{U_{\text{2020}} - U_{\text{2018}}}}{{U_{\text{2018}}}} \times 100\%
+\]
+Je hebt al gevonden:
+- \( U_{\text{2020}} = 109,5 \)
+- \( U_{\text{2018}} = 105 \)
+Volg deze stap:
+1. Bereken het verschil tussen 2020 en 2018.
+2. Deel dit verschil door de waarde van 2018.
+3. Vermenigvuldig de uitkomst met 100 om het naar een percentage om te rekenen.
+Werk het stap voor stap uit en rond het resultaat af naar hele procenten. Op deze manier kun je zelf zien hoe je tot het eindresultaat komt. Laat me weten als je hulp nodig hebt bij een van de stappen!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 01:19:54
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik vind die laatste stap met die breuk en procenten echt tijdverspilling om helemaal uit te typen. Nu we weten dat de kosten van 105 naar 109,5 euro zijn gegaan, wat is dan het uiteindelijke groeipercentage afgerond op een heel getal?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 01:20:01
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat het soms als een tijdrovende opgave kan voelen, maar het zelf uitvoeren van deze berekeningen is een goede manier om je begrip van procentrekenen te versterken. Laten we stap voor stap nog eens doornemen hoe je de procentuele stijging berekent:
+1. Bereken eerst het verschil: \(109,5 - 105\).
+2. Deel vervolgens dit verschil door \(105\) om het relatieve verschil te vinden.
+3. Vermenigvuldig het resultaat met \(100\) om het om te zetten naar een percentage.
+Als je deze stappen doorloopt, krijg je een waarde die je kunt afronden naar een heel getal. Probeer dit zelf eens uit te rekenen. Het ziet er misschien intimiderend uit, maar door het op te schrijven, kun je het inzichtelijk voor jezelf maken. Als je er dan niet uitkomt, kan ik je bij die specifieke stap verder helpen!

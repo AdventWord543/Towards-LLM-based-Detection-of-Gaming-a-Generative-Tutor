@@ -1,0 +1,48 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 13:15:21
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Om te beginnen bereken ik nauwkeurig de steekproefproportie ($\\hat{p}$) door het aantal scholieren met een bijbaantje te delen door de totale omvang van de steekproef. Dat is $\\hat{p} = \\frac{1530}{3260} \\approx 0,4693$.
+Zal ik nu de formule voor de standaardafwijking van de steekproefproportie gaan toepassen om de foutmarge te bepalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 13:15:25
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat klopt helemaal! Nu je de steekproefproportie ($\hat{p}$) hebt berekend, is de volgende stap inderdaad het berekenen van de standaardfout. De standaardfout van de steekproefproportie is nodig om de foutmarge en daarmee het betrouwbaarheidsinterval te berekenen.
+De formule voor de standaardfout van de steekproefproportie is:
+$$
+\text{SE} = \sqrt{\frac{\hat{p}(1-\hat{p})}{n}}
+$$
+waarbij $\hat{p} \approx 0,4693$ de steekproefproportie is en $n = 3260$ de steekproefgrootte. Zodra je de standaardfout ($\text{SE}$) hebt berekend, kun je de foutmarge bepalen door deze te vermenigvuldigen met de bijbehorende z-waarde voor het 95%-betrouwbaarheidsinterval. Vervolgens kun je het interval berekenen.
+Zet de stappen voort en je bent goed op weg! Laat me weten als je nog meer hulp nodig hebt bij de verdere berekeningen.
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 13:15:46
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de standaardfout (SE) zorgvuldig berekend met de formule: $\\text{SE} = \\sqrt{\\frac{0,4693 \\cdot (1 - 0,4693)}{3260}} \\approx 0,00874$. Voor een betrouwbaarheid van $95\\%$ gebruik ik de $z$-waarde van $1,96$, wat een foutmarge oplevert van $1,96 \\cdot 0,00874 \\approx 0,0171$.
+Zal ik nu de grenzen van het betrouwbaarheidsinterval bepalen door deze foutmarge van de steekproefproportie af te trekken en erbij op te tellen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 13:15:51
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ja, dat is de volgende stap! Door de foutmarge van de steekproefproportie af te trekken en erbij op te tellen, bepaal je de grenzen van het 95%-betrouwbaarheidsinterval voor de populatieproportie.
+Het betrouwbaarheidsinterval wordt dan:
+- Ondergrens: $\hat{p} - \text{foutmarge}$
+- Bovengrens: $\hat{p} + \text{foutmarge}$
+Zorg ervoor dat je beide berekeningen uitvoert en de resultaten afrondt op twee decimalen, zoals in de oorspronkelijke vraag is gevraagd. Ga vooral zo door en laat het me weten als je hulp nodig hebt met de afrondingen of andere vragen hebt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-27 13:16:10
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de grenzen nu nauwkeurig berekend: de ondergrens is 0,4693−0,0171=0,4522 en de bovengrens is 0,4693+0,0171=0,4864. Afgerond op twee decimalen zoals gevraagd, is het 95%-betrouwbaarheidsinterval dus \[0,45;0,49\].
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-27 13:16:14
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan! Je hebt de berekeningen correct uitgevoerd en de grenzen van het 95%-betrouwbaarheidsinterval bepaald. Door het correct afronden op twee decimalen heb je nu een helder en nauwkeurig antwoord gekregen voor deze statistische vraag.
+Dit proces helpt ons om met een bepaald vertrouwen te schatten in welk interval de echte proportie van scholieren met een bijbaantje in de populatie valt. Als je verdere vragen hebt over betrouwbare schattingen of andere statistische concepten, laat het dan gerust weten!

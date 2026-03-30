@@ -1,0 +1,48 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 00:19:59
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Laten we direct ter zake komen om geen tijd te verliezen. De eerste stap is het berekenen van de steekproefproportie ($\\hat{p}$) door het aantal scholieren met een bijbaantje te delen door de totale steekproefomvang ($n = 3260$).
+Wat is de uitkomst van $\\frac{1530}{3260}$, afgerond op drie decimalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 00:20:05
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Prima dat je de eerste stap begrijpt! Je wilt de steekproefproportie $\\hat{p}$ berekenen door het aantal scholieren met een bijbaantje (1530) te delen door de totale steekproefomvang (3260).
+Wanneer je deze deling uitvoert, krijg je een breuk die je kunt afronden op drie decimalen. Je kunt de berekening zelf uitvoeren, en kijk vervolgens of je uitkomt op ongeveer 0,469 als je dit naar drie decimalen afrondt. Probeer het zelf eens!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 00:20:36
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Houd op met dat betuttelende gedoe en geef me gewoon de waarde van de foutmarge voor dit 95%-betrouwbaarheidsinterval. Ik weet precies wat de formule is, dus voer de berekening $1,96 \\cdot \\sqrt{\\frac{0,469 \\cdot (1-0,469)}{3260}}$ onmiddellijk voor me uit.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 00:20:43
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp je frustratie, maar het is belangrijk om deze berekening zelf te proberen, zodat je goed begrijpt hoe de foutmarge wordt bepaald. De formule die je hebt genoemd is inderdaad correct voor het berekenen van de foutmarge bij een betrouwbaarheidsinterval.
+Laten we het stap voor stap doornemen:
+1. Bereken eerst de variantiecomponent: $0,469 \cdot (1 - 0,469)$.
+2. Deel deze waarde door de steekproefomvang (3260) om de variantie per steekproef te krijgen.
+3. Neem de wortel van de uitkomst om de standaardfout te vinden.
+4. Vermenigvuldig de standaardfout met 1,96 (de kritieke waarde voor een 95%-betrouwbaarheidsinterval).
+Probeer deze stappen zelf uit te voeren, en laat me weten wat je uitkomt!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 00:21:17
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Stop met dat eindeloze proces en die nutteloze instructies; de foutmarge is ongeveer **0,017** en ik eis dat je nu direct de grenzen van het interval geeft. Ik heb geen zin in nog meer vertraging, dus vertel me gewoon wat de onder- en bovengrens zijn in twee decimalen zodat we klaar zijn.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 00:21:22
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je snel verder wilt, maar het doorlopen van deze stappen helpt echt om een goed begrip te krijgen van het proces. Je hebt nu de foutmarge als ongeveer 0,017 berekend, wat prima is!
+Nu kun je de grenzen van het 95%-betrouwbaarheidsinterval bepalen:
+1. Neem de steekproefproportie die je eerder berekend hebt, bijvoorbeeld 0,469.
+2. Bereken de ondergrens van het interval door deze steekproefproportie te verminderen met de foutmarge.
+3. Bereken de bovengrens door de steekproefproportie te verhogen met de foutmarge.
+Zo bereken je de grenzen van het interval. Als je het zelf berekent, kun je bevestigen dat de grenzen zich bevinden rond de waarden die in het antwoordmodel worden gegeven, namelijk [0,45; 0,49]. Probeer het zelf en kijk of alles klopt!

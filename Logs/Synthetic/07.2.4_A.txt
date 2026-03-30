@@ -1,0 +1,65 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 09:29:09
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp de formule $U = 60 + 10 \\cdot A$ wel, maar ik vind het nogal tijdverspilling om die basisberekening voor 2018 zelf uit te voeren. Wat komt er precies uit de formule als $A$ gelijk is aan 4,5?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 09:29:15
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Bij het uitvoeren van de berekening met de formule $U = 60 + 10 \cdot A$, vervang je $A$ door 4,5 om de uitgaven in 2018 te berekenen. Dit betekent dat je moet rekenen met $U = 60 + 10 \cdot 4.5$.
+Probeer zelf deze berekening uit te voeren om te zien wat het resultaat is. Als je de stappen volgt, krijg je inzicht in hoe de formule werkt. Daarna kunnen we verder kijken naar het effect van de stijging in het aantal consulten in 2020. Wat denk je dat de uitkomst is?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 09:29:41
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat komt dus uit op 105 euro voor 2018, maar ik heb echt geen zin om die groei van 10% voor 2020 zelf uit te vogelen. Wat is het precieze aantal consulten in 2020 als dat gemiddelde 10% hoger ligt dan die 4,5?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 09:29:47
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je zit op de goede weg! Het aantal consulten in 2020 is 10% hoger dan het aantal in 2018, dat 4,5 was.
+Om het aantal consulten in 2020 te berekenen, neem je 10% van 4,5 en tel je dat bij 4,5 op. Probeer de berekening zelf, en kijk of je het verschil in het aantal consulten kunt bepalen. Wat denk je dat het nieuwe aantal consulten is?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 09:30:16
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat komt dus neer op 4,95 consulten voor 2020. Ik heb echt geen zin om die hele formule weer in te vullen; wat komt er precies uit voor de uitgaven $U$ als we die 4,95 gebruiken?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 09:30:22
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan met het berekenen van het aantal consulten voor 2020! Nu kunnen we de formule $U = 60 + 10 \cdot A$ weer gebruiken, maar dit keer met $A$ gelijk aan 4,95.
+Vervang $A$ door 4,95 in de formule om de uitgaven aan huisartsenzorg per persoon in 2020 te berekenen. Probeer deze stap zelf te doen. Wat denk je dat de uitkomst is als je dit invult?
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 09:30:48
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat levert dus een bedrag van **109,50 euro** op voor 2020. Ik heb echt geen zin om nu ook nog die procentuele toename te gaan berekenen ten opzichte van die 105 euro; wat is het uiteindelijke groeipercentage afgerond op hele getallen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 09:30:54
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Prima werk geleverd voor zover! Nu om de procentuele toename te berekenen ten opzichte van 2018, gebruik je de formule:
+$$\text{Procentuele toename} = \left( \frac{U_{\text{2020}} - U_{\text{2018}}}{U_{\text{2018}}} \right) \cdot 100\%$$
+Vervang hierin $U_{\text{2020}}$ met 109,50 en $U_{\text{2018}}$ met 105, en bereken de toename. Wat denk je dat het groeipercentage is wanneer je dit uitrekent? Probeer het zelf en kijk of je op het juiste bedrag uitkomt. Succes!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 09:31:29
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik vind het nogal vermoeiend om voor zo’n kleine stap weer mijn rekenmachine erbij te pakken voor die laatste deling. Wat is het uiteindelijke percentage precies, als je het afrondt op een heel getal?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 09:31:34
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je het als een kleine stap ervaart, maar het is belangrijk om deze laatste berekening zelf te voltooien om het proces te begrijpen.
+De stap die je moet doen is eigenlijk het verschil nemen tussen 109,50 en 105, dat delen door 105, en dan vermenigvuldigen met 100 om het percentage te krijgen. Als je deze berekening zelf uitvoert, krijg je een beter begrip van het concept. Probeer het nog eens; het is een nuttige oefening! Wat denk je dat het afgeronde percentage is?

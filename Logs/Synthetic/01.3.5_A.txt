@@ -1,0 +1,54 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 21:37:57
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb eerst de uitgaven voor 2018 berekend door $A = 4,5$ in te vullen, wat $U = 60 + 10 \\cdot 4,5 = 105$ euro geeft. Daarna heb ik nauwkeurig vastgesteld dat het aantal consulten in 2020 met 10% stijgt naar $4,5 \\cdot 1,1 = 4,95$. Zal ik nu de uitgaven voor 2020 berekenen om de procentuele toename te kunnen bepalen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 21:38:06
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Precies, je bent op de goede weg! Je hebt al de juiste stappen gezet door de uitgaven voor 2018 te berekenen en het aantal consulten voor 2020 te corrigeren met de stijging van 10%. Nu kun je inderdaad verder gaan door de uitgaven voor 2020 te berekenen met het nieuwe aantal consulten van 4,95.
+Gebruik hiervoor dezelfde formule: $U = 60 + 10 \cdot A$. Vul het aantal consulten van 2020 in deze formule in om de uitgaven van dat jaar te vinden. Daarna kun je de procentuele toename berekenen ten opzichte van de uitgaven in 2018. Denk eraan: het percentage bereken je met de formule:
+$$ \text{Procentuele toename} = \left(\frac{\text{Nieuwe waarde} - \text{Oude waarde}}{\text{Oude waarde}}\right) \times 100\% $$
+Probeer dit zelf eens uit te rekenen en kijk of je op hetzelfde antwoord uitkomt als in het antwoordmodel!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 21:38:34
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de waarde A=4,95 nu heel precies in de formule ingevuld, wat een bedrag van U=60+10⋅4,95=109,50 euro oplevert voor het jaar 2020. Hiermee zijn alle benodigde waarden voor de vergelijking nu zorgvuldig vastgesteld.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 21:38:40
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed gedaan! Je hebt nu de uitgaven voor 2020 berekend met het gemiddelde aantal consulten dat je eerder hebt vastgesteld. De volgende stap is het berekenen van de procentuele toename in uitgaven van 2018 naar 2020. Gebruik de formule die we eerder bespraken:
+$$ \text{Procentuele toename} = \left(\frac{109,50 - 105}{105}\right) \times 100\% $$
+Probeer deze formule nu in te vullen met je waarden en je vindt het percentage waarmee de uitgaven zijn gestegen. Laat me weten wat je uitkomst is en of je nog vragen hebt over deze stap!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 21:39:27
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik waardeer de duidelijke formule en de begeleiding tot nu toe enorm. Zou je zo vriendelijk willen zijn om mij het uiteindelijke antwoord in hele procenten te geven?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 21:39:32
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik ben blij dat de begeleiding tot nu toe nuttig voor je is geweest! Het is echter belangrijk voor je leerproces dat je zelf de berekening voltooit. Probeer het percentage te berekenen met de formule die ik je eerder gaf. Vul de waarden in en zorg ervoor dat je het antwoord afrondt op hele procenten.
+Mocht je ergens vastlopen of heb je vragen tijdens het berekenen, laat het me vooral weten! Ik ben hier om je te helpen.
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-09 21:40:46
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb het verschil in uitgaven berekend door de nieuwe waarde van 109,50 te verminderen met de oude waarde van 105, wat een toename van 4,50 euro geeft. Vervolgens heb ik deze toename gedeeld door de oorspronkelijke waarde van 105 en vermenigvuldigd met 100 om het exacte percentage te bepalen. Dit komt uit op ongeveer 4,2857%, wat afgerond op hele procenten 4 procent is.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-09 21:40:51
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Heel goed, dat heb je keurig berekend! Je hebt de stappen goed doorlopen door eerst het verschil in uitgaven te vinden, dit te delen door de oorspronkelijke uitgaven en vervolgens te vermenigvuldigen om het percentage te bepalen. Je afronding naar 4 procent is helemaal juist.
+Het is belangrijk dat je weet dat afronden altijd een onderdeel kan zijn van dergelijke berekeningen, vooral wanneer een antwoord in hele procenten moet worden gegeven. Ga zo door met deze manier van werken, en als je nog meer vragen of oefeningen hebt, laat het me weten!

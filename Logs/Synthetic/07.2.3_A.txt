@@ -1,0 +1,79 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 09:25:20
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik zie de formule voor de huisartsenzorg, maar ik heb nu echt even geen zin om dat saaie rekenwerk voor 2018 zelf te doen. Zou jij voor mij kunnen uitrekenen wat de uitgaven $U$ precies waren in 2018 met die 4,5 consulten? Dan kan ik daarna wel weer verder kijken naar de rest.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 09:25:26
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je probeert te begrijpen hoe je de berekeningen moet maken! Laten we samen kijken hoe je de formule kunt gebruiken om de uitgaven in 2018 te berekenen. We weten dat de formule voor de uitgaven aan huisartsenzorg per persoon is:
+$$ U = 60 + 10 \cdot A $$
+Hierin is \( A \) het aantal huisartsconsulten per jaar. Voor 2018 is het aantal consulten \( A = 4,5 \).
+Je taak is om deze waarde in de formule te vervangen en het uit te rekenen. Probeer zelf te berekenen wat \( U \) wordt met deze gegevens. Laat me weten wat je uitkomst is en dan kunnen we verder gaan!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 09:26:01
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik kom op 105 euro uit voor 2018, maar die berekening met die 10% verhoging voor 2020 is me echt te veel gedoe. Kun jij me gewoon vertellen wat het nieuwe gemiddelde aantal consulten $A$ voor dat jaar is? Dan scheelt dat mij weer wat tijd.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 09:26:06
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed dat je de berekening voor 2018 hebt gedaan en het bedrag van 105 euro hebt gevonden! Laten we nu samen door de stappen heen lopen voor het bepalen van het nieuwe gemiddelde aantal consulten in 2020.
+Je weet dat het aantal consulten in 2020 10% hoger was dan in 2018. Het aantal consulten in 2018 was 4,5. Om het aantal consulten in 2020 te berekenen, moet je 10% van het aantal consulten van 2018 erbij optellen.
+Probeer het op deze manier:
+1. Bereken 10% van 4,5.
+2. Tel dat resultaat op bij 4,5.
+Op deze manier vind je het nieuwe gemiddelde aantal consulten \( A \) voor 2020. Probeer het eens en laat weten wat jouw resultaat is!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 09:26:36
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dat komt dus neer op $4,95$ consulten voor 2020, maar ik heb echt geen zin om die formule opnieuw te gaan zitten invullen met al die komma's. Kun jij me vertellen wat de uitgaven $U$ voor 2020 precies worden bij dat aantal? Dan kunnen we daarna eindelijk berekenen hoeveel procent het gestegen is en ben ik van dit saaie werk af.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 09:26:42
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Geweldig dat je hebt uitgezocht dat het aantal consulten in 2020 4,95 is! Laten we nu samen kijken hoe je dat in de formule voor de uitgaven \( U \) invoert.
+De formule is nog steeds:
+$$ U = 60 + 10 \cdot A $$
+Je hebt nu \( A = 4,95 \) voor 2020. Vul deze waarde in de formule in om de uitgaven te berekenen.
+Probeer dit zelf te doen en laat me weten wat je als uitkomst krijgt. Daarna kunnen we bekijken hoe je de procentuele stijging kunt berekenen!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 09:27:11
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Voor 2020 kom ik inderdaad op $109,5$ euro uit, maar die laatste stap om het groeipercentage te bepalen vind ik echt een drama met al die verschillende getallen. Kun jij me gewoon vertellen hoeveel procent de uitgaven in totaal zijn gestegen vergeleken met 2018? Dan kan ik dit eindelijk afronden en iets leukers gaan doen.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 09:27:16
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed werk tot nu toe! Je hebt nu de uitgaven voor zowel 2018 als 2020 berekend. De laatste stap is het bepalen van het percentage waarmee de uitgaven zijn gestegen.
+De formule voor procentuele stijging is:
+$$ \text{Percentage stijging} = \frac{\text{Nieuw bedrag} - \text{Oud bedrag}}{\text{Oud bedrag}} \times 100 $$
+Hierbij zijn de "Nieuw bedrag" de uitgaven in 2020, en het "Oud bedrag" de uitgaven in 2018. Vul deze waarden in de formule in en bereken de procentuele stijging.
+Probeer het zelf, en laat me weten op welk percentage je uitkomt! Dan zul je zien dat het niet zo'n drama is als het lijkt.
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-29 09:28:14
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb de getallen **109,5** en **105** nu wel in de formule staan, maar die laatste deling is me echt te veel werk en ik wil geen fouten maken. Kun je me simpelweg de uiteindelijke uitkomst in **hele procenten** geven?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-29 09:28:19
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat dit de laatste stap naar afronding is, en fouten vermijden is natuurlijk belangrijk! Laten we samen nogmaals je stappen doornemen, zodat je de uitkomst met vertrouwen zelf kunt berekenen.
+De formule die je gebruikt is:
+$$ \text{Percentage stijging} = \frac{109,5 - 105}{105} \times 100 $$
+Je wilt het resultaat in hele procenten krijgen. Probeer deze deling stap voor stap uit te voeren, kijk hoeveel dat percentage is, en rond het daarna af naar het dichtstbijzijnde gehele getal.
+Probeer het zorgvuldig te berekenen, je kunt dit! Als je het deelt en vermenigvuldigt, ben je er bijna. Laat me weten wat je resultaat is!

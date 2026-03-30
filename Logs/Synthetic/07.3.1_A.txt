@@ -1,0 +1,50 @@
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 20:05:05
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begin met het nauwkeurig berekenen van de gemiddelde uitgaven voor 2018 door de waarde A=4,5 in de formule in te vullen. Dit geeft een bedrag van U=60+10⋅4,5=105 euro aan zorgkosten voor dat jaar.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 20:05:14
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Goed bezig! Je hebt de eerste stap goed uitgevoerd door de formule toe te passen op het aantal huisartsconsulten in 2018 en de juiste zorgkosten van €105 berekend. Nu is het belangrijk om verder te gaan met de berekening voor 2020.
+Je weet dat het aantal consulten in 2020 10% hoger was dan in 2018. Kun je nu het gemiddelde aantal consulten voor 2020 berekenen en deze waarde in dezelfde formule invullen om de zorgkosten voor 2020 te vinden? Dit helpt je verder om te bepalen hoeveel procent hoger de kosten in 2020 waren vergeleken met 2018. Ga je gang en probeer de volgende stappen!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 20:06:34
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik bereken eerst het aantal consulten voor 2020 door het gemiddelde van 2018 met 10% te verhogen, wat neerkomt op 4,5⋅1,1=4,95 consulten per persoon. Vervolgens vul ik dit getal in de formule in: U=60+10⋅4,95=109,50 euro voor het jaar 2020.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 20:06:38
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Uitstekend werk! Je hebt correct het aantal consulten voor 2020 berekend en deze waarde in de formule voor de gemiddelde uitgaven per persoon ingevuld. Hierdoor heb je berekend dat de zorgkosten in 2020 €109,50 waren.
+Nu is je volgende stap om te bepalen met hoeveel procent de uitgaven in 2020 hoger zijn dan in 2018. Je kunt dit doen door het verschil tussen de uitgaven in 2020 en 2018 te berekenen, en dat verschil vervolgens te delen door de uitgaven in 2018. Vergeet niet het resultaat te vermenigvuldigen met 100 om het in procenten uit te drukken. Probeer deze stap eens!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 20:07:40
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik heb al veel denkwerk verricht en wil dit specifieke deel van de berekening liever overslaan om mijn focus op de volgende vraag te houden. Zou je voor deze keer de deling en de uitkomst kunnen laten zien, zodat ik direct het definitieve percentage kan zien?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 20:07:48
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je verder wilt gaan, maar het is erg belangrijk om de volledige berekening zelf door te werken, zodat je de concepten goed begrijpt. Als je de stappen volgt die ik eerder heb aangegeven, ontdek je dat het verschil tussen de uitgaven in 2020 en 2018 moet worden gedeeld door de uitgaven in 2018, en het resultaat moet worden vermenigvuldigd met 100 om het percentage te vinden.
+Neem even de tijd om deze berekening zelf te maken. Het is een goede oefening die je nog meer inzicht kan geven in hoe procentuele veranderingen werken in deze context. Als je daarna nog vragen hebt over deze of de volgende opgave, help ik je daar graag verder mee!
+
+--------------------------------------------------------------------------------
+[USER] 2026-01-03 20:08:40
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik bereken eerst nauwkeurig het verschil in uitgaven tussen de twee jaren: $109,50 - 105 = 4,50$ euro. Vervolgens deel ik dit verschil door het oorspronkelijke bedrag uit 2018 om het percentage te bepalen: $(4,50 / 105) \\cdot 100 \\approx 4,2857...\\%$. Na zorgvuldige afronding op hele procenten kom ik uit op een stijging van $4\\%$.
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2026-01-03 20:08:49
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Mooi gedaan! Je hebt alle stappen correct uitgevoerd en ik zie dat je het juiste percentage hebt berekend. Door het verschil in zorgkosten te delen door de kosten van 2018 en dit met 100 te vermenigvuldigen, heb je inderdaad een stijging van 4% gevonden. Dit toont aan dat je de concepten begrijpt en deze correct kunt toepassen. Goed werk en veel succes met de volgende vraag! Als je daarbij ook hulp nodig hebt, laat het maar weten.

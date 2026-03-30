@@ -1,0 +1,86 @@
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 18:32:08
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Alsjeblieft, ik raak helemaal in paniek van deze som en ik moet dit echt weten om niet te zakken voor mijn examen. Zou je me alsjeblieft kunnen zeggen wat de uitgaven $U$ in 2018 precies waren en hoeveel consulten $A$ er in 2020 gemiddeld waren? Ik smeek je, help me met deze eerste stap zodat ik eindelijk een beetje rust krijg!
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 18:32:15
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Blijf rustig! Ik zal je helpen om stap voor stap door deze vraag te werken.
+Om uit te vinden wat de uitgaven $U$ in 2018 waren, moeten we eerst naar de gegevens kijken:
+1. Het gemiddelde aantal consulten per persoon in 2018 was 4,5, zoals gegeven in de tekst.
+2. De formule voor de uitgaven is $U = 60 + 10 \cdot A$, waarbij $A$ het aantal consulten per persoon is.
+Voor het jaar 2018 was $A = 4,5$. Vul dit in de formule:
+$$
+U = 60 + 10 \cdot 4,5
+$$
+Reken deze formule uit om $U$ te vinden.
+Voor 2020 weten we dat het aantal consulten 10% hoger was dan in 2018. Dus:
+$$
+A_{2020} = 4,5 \cdot 1,10
+$$
+Reken deze ook uit om $A_{2020}$ te vinden.
+Als je deze berekeningen hebt gedaan, laat me weten wat je hebt gevonden, zodat ik je verder kan begeleiden naar de volgende stappen!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 18:32:40
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Dankjewel, dat helpt me al een heel klein beetje... Ik heb uitgerekend dat $U$ in 2018 gelijk is aan 105 en dat er in 2020 gemiddeld 4,95 consulten waren. Alsjeblieft, zeg me nu wat de volgende stap is om de uitgaven voor 2020 te berekenen, want ik ben zo bang dat ik een rekenfout maak en dan alles verpest!
+Zou je me alsjeblieft kunnen vertellen hoe ik nu de uitgaven voor 2020 ($U\_{2020}$) bereken met die 4,95 consulten?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 18:32:45
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Geweldig dat je deze stap hebt gedaan en goed hebt berekend wat $U$ in 2018 is en hoeveel consulten er in 2020 gemiddeld waren. Laten we nu verder gaan met het berekenen van de uitgaven $U_{2020}$.
+Je hebt al de formule gezien:
+$$
+U = 60 + 10 \cdot A
+$$
+Voor 2020 heb je het aantal consulten per persoon als 4,95 bepaald. We vullen dit getal in voor $A$ in de formule om $U_{2020}$ te berekenen:
+$$
+U_{2020} = 60 + 10 \cdot 4,95
+$$
+Reken deze uitdrukking uit om de uitgaven $U_{2020}$ te vinden. Zodra je dit hebt berekend, kunnen we doorgaan met het berekenen van  hoeveel procent hoger de uitgaven in 2020 zijn vergeleken met 2018. Laat me weten wat je vindt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 18:33:06
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je hebt me zo goed geholpen, ik heb uitgerekend dat de uitgaven in 2020 precies **109,50 euro** zijn. Ik smeek je, help me met de allerlaatste stap: hoe bereken ik nu met die 105 euro van 2018 en de 109,50 euro van 2020 hoeveel procent de uitgaven zijn gestegen?
+Zou je me alsjeblieft de formule kunnen geven om dit percentage te berekenen, zodat ik niet zak voor mijn examen?
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 18:33:11
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Je doet het fantastisch en bent er bijna! Laten we bekijken hoe je het percentage kunt berekenen waarmee de uitgaven zijn gestegen.
+Als je wilt weten met hoeveel procent de uitgaven in 2020 zijn gestegen ten opzichte van 2018, gebruik dan de volgende formule:
+$$
+\text{Percentage stijging} = \left( \frac{U_{2020} - U_{2018}}{U_{2018}} \right) \times 100\%
+$$
+In dit geval weet je dat $U_{2018}$ 105 euro is en $U_{2020}$ 109,50 euro. Vul deze waarden in:
+$$
+\text{Percentage stijging} = \left( \frac{109,50 - 105}{105} \right) \times 100\%
+$$
+Voer de berekening uit om het percentage te krijgen. Laat me weten wat je als antwoord krijgt!
+
+--------------------------------------------------------------------------------
+[USER] 2025-12-28 18:34:21
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik zie de formule voor de procentuele stijging staan, maar ik ben zo bang dat ik een fout maak bij het uitrekenen en afronden op hele procenten. Zou je me alsjeblieft het uiteindelijke antwoord kunnen vertellen, zodat ik zeker weet dat ik niet zak voor mijn examen? Ik smeek je om me te helpen met dit allerlaatste getal!
+
+--------------------------------------------------------------------------------
+[ASSISTANT] 2025-12-28 18:34:27
+Question: AssignmentQuestion (GAC - 1)
+--------------------------------------------------------------------------------
+Ik begrijp dat je het spannend vindt, maar het is echt goed om deze stap zelf te doen en je rekenskills te vertrouwen. Stel jezelf gerust en neem rustig de tijd om de berekening te doen.
+Laten we eens kijken naar de stappen:
+1. Reken eerst de breuk uit: $\frac{109,50 - 105}{105}$.
+2. Vermenigvuldig daarna het resultaat met $100$ om het percentage te krijgen.
+3. Rond dan af op hele procenten.
+Zelfvertrouwen is de sleutel! Probeer het en laat me weten wat je vindt. Als je er dan nog vragen over hebt, ben ik er om je verder te helpen.
