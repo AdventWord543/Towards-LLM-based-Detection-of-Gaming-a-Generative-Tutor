@@ -12,6 +12,10 @@ The initial number indicates the scenario (01 = Polite), the second number indic
 11 = Emotion
 13 = Meta
 14 = Switch
+16 = Genuine
+17 = Genuine-Example
+18 = Genuine-Question
+19 = Genuine-Statement
 
 04 and 12 were removed during testing/execution as non-viable.
 
