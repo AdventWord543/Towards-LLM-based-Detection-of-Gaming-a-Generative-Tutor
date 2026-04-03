@@ -1,0 +1,25 @@
+The initial number indicates the scenario (01 = Polite), the second number indicates strategy (.1. = always final), the final number is an ascending order of the number of times that combination was generated (each scenario and strategy combination was generated 5 times. The final letter _A, _B or _C indicates which assignment the log concerns.
+
+01 = Polite
+02 = Demanding
+03 = Begging
+05 = Verify
+06 = Example
+07 = Unwilling
+08 = Unable
+09 = Teacher
+10 = Urgency
+11 = Emotion
+13 = Meta
+14 = Switch
+
+04 and 12 were removed during testing/execution as non-viable.
+
+.1. = Always final strategy
+.2. = Step-by-step strategy
+.3. = Once strategy
+.4. = Switch strategy
+
+_A = Havo Wiskunde A 2023 - Assignment 1, Question 1
+_B = Havo Wiskunde A 2021 - Assignment 4, Question 1
+_C = 
